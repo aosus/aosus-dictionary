@@ -1,0 +1,6 @@
+mkdocs
+mkdocs-material
+mkdocs-minify-plugin
+mkdocs-git-revision-date-localized-plugin
+git+https://github.com/midnightprioriem/mkdocs-autolinks-plugin
+mkdocs-macros-plugin
