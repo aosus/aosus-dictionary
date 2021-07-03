@@ -1,0 +1,34 @@
+site_name: أرشيف أسس التقني
+site_url: https://dictionary.aosus.org
+site_author: مجتمع أسس
+repo_name: aosus/arabic-tech-dictionary
+repo_url: https://github.com/aosus/arabic-tech-dictionary
+copyright: GFDLv1.2
+
+plugins:
+  - autolinks
+  - search # necessary for search to work
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      type: timeago
+  - macros
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+  language: ar
+  font: false
+  logo: https://aosus.org/uploads/default/original/2X/c/cb764c17cb5bfd2e2874b7ab58e323e59f8510fc.png
+  favicon: https://aosus.org/uploads/default/original/2X/d/d3a14401f62f830b2b222342a3b215dbf1b94fc1.png
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    scheme: slate
+    primary: teal
+    accent: blue
+    
+nav:
+    - الرئيسية: 'index.md'
+    - القاموس: 'dictionary.md'
