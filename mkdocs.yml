@@ -47,6 +47,9 @@ extra_css:
 nav:
     - الرئيسية: 'index.md'
     - القاموس: 'dictionary.md'
+    - 'مجتمع أسس': 'https://aosus.org'
+    - 'تيليجرام': 'https://t.me/aosus'
+    - 'ماتركس': 'https://matrix.to/#/#aosus:tchncs.de'
 
 markdown_extensions:
   - admonition
