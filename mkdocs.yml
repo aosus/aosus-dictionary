@@ -1,5 +1,5 @@
 site_name: قاموس أسس التقني
-site_url: https://dictionary.aosus.org
+site_url: https://aosus.org
 site_author: مجتمع أسس
 repo_name: aosus/arabic-tech-dictionary
 repo_url: https://github.com/aosus/arabic-tech-dictionary
@@ -12,7 +12,6 @@ plugins:
       minify_html: true
   - git-revision-date-localized:
       type: timeago
-  - macros
 
 theme:
   name: material
