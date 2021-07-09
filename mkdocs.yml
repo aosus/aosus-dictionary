@@ -47,3 +47,8 @@ extra_css:
 nav:
     - الرئيسية: 'index.md'
     - القاموس: 'dictionary.md'
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
