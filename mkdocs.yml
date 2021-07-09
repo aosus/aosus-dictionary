@@ -28,6 +28,15 @@ theme:
     scheme: slate
     primary: teal
     accent: blue
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/aosus
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/aosusorg
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/aosus
     
 nav:
     - الرئيسية: 'index.md'
