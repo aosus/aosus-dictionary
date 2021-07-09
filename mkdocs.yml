@@ -41,6 +41,9 @@ extra:
     - icon: matrix
       link: https://matrix.to/#/#aosus:tchncs.de
 
+extra_css:
+  - extra/extra.css
+
 nav:
     - الرئيسية: 'index.md'
     - القاموس: 'dictionary.md'
