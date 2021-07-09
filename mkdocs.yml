@@ -16,6 +16,7 @@ plugins:
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.instant
   language: ar
@@ -37,7 +38,9 @@ extra:
       link: https://twitter.com/aosusorg
     - icon: fontawesome/brands/telegram
       link: https://t.me/aosus
-    
+    - icon: matrix
+      link: https://matrix.to/#/#aosus:tchncs.de
+
 nav:
     - الرئيسية: 'index.md'
     - القاموس: 'dictionary.md'
