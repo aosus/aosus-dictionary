@@ -2,6 +2,12 @@ name: Build
 
 on:
   push:
+    paths: 
+      - 'docs/**'
+      - 'mkdocs.yml'
+      - '.github/workflows/main.yml'
+      - 'requirements.txt'
+      - 'overrides/**'
     branches: [ main ]
 
 jobs:
