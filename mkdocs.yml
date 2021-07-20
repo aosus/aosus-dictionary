@@ -8,7 +8,7 @@ copyright: GPLv3
 
 plugins:
   - autolinks
-  - search # necessary for search to work
+  # - search # necessary for search to work
   - minify:
       minify_html: true
   - git-revision-date-localized:
