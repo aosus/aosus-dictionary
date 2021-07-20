@@ -1,5 +1,6 @@
 site_name: قاموس أسس التقني
 site_url: https://dictionary.aosus.org
+site_description: قاموس أسس التقني, هو مصدرك لترجمة المصطلحات التقنية الانجليزية الى اللغة العربية, بطريقه مفهومة وسهلة للمستخدم العربي.
 site_author: مجتمع أسس
 repo_name: aosus/arabic-tech-dictionary
 repo_url: https://github.com/aosus/arabic-tech-dictionary
