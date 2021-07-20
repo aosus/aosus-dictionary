@@ -36,7 +36,7 @@ jobs:
       with:
         branch: gh-pages # The branch the action should deploy to.
         folder: site # The folder the action should deploy.
-        commit-message: "deploy ${{ GITHUB_SHA	 }}"
+        commit-message: "deploy ${{GITHUB_SHA}}"
         clean: true # Automatically remove deleted files from the deploy branch
 
     - name: Cache pip files
