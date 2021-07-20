@@ -3,7 +3,7 @@ site_url: https://dictionary.aosus.org
 site_author: مجتمع أسس
 repo_name: aosus/arabic-tech-dictionary
 repo_url: https://github.com/aosus/arabic-tech-dictionary
-copyright: GFDLv1.2
+copyright: GPLv3
 
 plugins:
   - autolinks
