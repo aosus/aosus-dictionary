@@ -4476,7 +4476,7 @@
 |Reserved block                                |                                                                              |                      |
 |Reserved blocks                               | قوالب النشاط                                                                 |                      |
 |Reserved memory                               | ذاكرة محجوزة                                                                 |                      |
-|Reset                                         | تصفير                                                                        |                      |
+|Reset                                         | استعادة                                                                        |                      |
 |Reset button                                  | زر إعادة للوضع الابتدائي                                                     |                      |
 |Resident                                      | مقيم                                                                         |                      |
 |Resident memory                               | ذاكرة مقيمة                                                                  |                      |
