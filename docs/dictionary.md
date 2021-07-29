@@ -3,8 +3,8 @@
 
 |الكلمة                                          |                                       الترجمة                                       | المصدر                 |
 |----------------------------------------------|------------------------------------------------------------------------------|---------------------
-|Abortive release                              | انقطاع (شبكي) مجهض                                                           |                      |
-|Abort                                         | إجهاض                                                                        |          arabeyes            |
+|Abortive release                              | انقطاع (شبكي) مجهض                                                           |           arabeyes           |
+|Abort                                         | إجهاض                                                                        |                      |
 |Abscissa                                      | فاصلة                                                                        |                      |
 |Absolute address                              | عنوان مطلق                                                                   |                      |
 |Absolute pathname                             | اسم مسار مطلق                                                                |                      |
@@ -2961,8 +2961,8 @@
 |Login directory                               | دليل الولوج                                                                  |                      |
 |Login name                                    | اسم الولوج                                                                   |                      |
 |Login prompt                                  | محث الولوج                                                                   |                      |
-|Login shell                                   | صدفة تسجيل دخول                                                                    |                      |
-|Login                                         | تسجيل دخول                                                                         |                      |
+|Login shell                                   | صدفة تسجيل دخول                                                                    |           ابل           |
+|Login                                         | تسجيل دخول                                                                         |         ابل             |
 |Log off                                       |                                                                              |                      |
 |Logon                                         |                                                                              |                      |
 |Log out                                       |                                                                              |                      |
@@ -3146,7 +3146,7 @@
 |Memoization                                   |                                                                              |                      |
 |Memoized function                             |                                                                              |                      |
 |Memorandum                                    | محضر،إستحضار                                                                 |                      |
-|Memory access                                 | تسجيل دخول ذاكرة                                                                   |                      |
+|Memory access                                 | ولوج ذاكرة                                                                   |                      |
 |Memory address space                          | مساحة عنوان الذاكرة                                                          |                      |
 |Memory heap                                   | تكدس ذاكرة                                                                   |                      |
 |Memory leak                                   | تسرب ذاكرة                                                                   |                      |
@@ -4911,7 +4911,7 @@
 |Single-instance                               |                                                                              |                      |
 |Single-precision                              |                                                                              |                      |
 |Single quote                                  |                                                                              |                      |
-|Single sign-on                                | تسجيل دخول موحّد                                                                   |                      |
+|Single sign-on                                | تسجيل دخول موحّد                                                                   |           ابل           |
 |Single sourcing                               |                                                                              |                      |
 |Single static assignment                      |                                                                              |                      |
 |Single system                                 |                                                                              |                      |
