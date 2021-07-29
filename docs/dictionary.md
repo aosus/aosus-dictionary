@@ -1,15 +1,12 @@
-<!-- THIS DOCUMENTATION IS PROVIDED BY THE ARABEYES WIKI TEAM "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE ARABEYES WIKI TEAM BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS DOCUMENTATION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. -->
-
-|الكلمة                                          |                                                                              | المصدر                 |
-|----------------------------------------------|------------------------------------------------------------------------------|----------------------|
-|Abort                                         | إجهاض                                                                        |          arabeyes            |
+|الكلمة                                          |                                       الترجمة                                       | المصدر                 |
+|----------------------------------------------|------------------------------------------------------------------------------|---------------------
 |Abortive release                              | انقطاع (شبكي) مجهض                                                           |                      |
+|Abort                                         | إجهاض                                                                        |          arabeyes            |
 |Abscissa                                      | فاصلة                                                                        |                      |
-|Absolute                                      | مطلق(ة) (قيمة)                                                               |                      |
 |Absolute address                              | عنوان مطلق                                                                   |                      |
-|Absolute path                                 | مسار مطلق                                                                    |                      |
 |Absolute pathname                             | اسم مسار مطلق                                                                |                      |
-|Abstract                                      | مجرَّد                                                                       |                      |
+|Absolute path                                 | مسار مطلق                                                                    |                      |
+|Absolute                                      | مطلق(ة) (قيمة)                                                               |                      |
 |Abstract class                                | صنف مجرد                                                                     |                      |
 |Abstract data type                            | نوع بيانات مجرد                                                              |                      |
 |Abstract datatype                             | نوع بيانات مجرد                                                              |                      |
@@ -17,14 +14,14 @@
 |Abstraction                                   | تجريد                                                                        |                      |
 |Abstract machine                              | آلة مجردة                                                                    |                      |
 |Abstract method                               | طريقة مجردة                                                                  |                      |
-|Abstract syntax                               | بنية مجردة                                                                   |                      |
 |Abstract syntax tree                          | شجرة بنية مجردة                                                              |                      |
+|Abstract syntax                               | بنية مجردة                                                                   |                      |
+|Abstract                                      | مجرَّد                                                                       |                      |
 |Accelerated Graphics                          |                                                                              |                      |
 |Accelerator                                   | مسرِّع                                                                       |                      |
 |Accent                                        | حركة                                                                         |                      |
-|Accept                                        | قبول                                                                         |                      |
 |Acceptance testing                            | اختبار القبول                                                                |                      |
-|Access                                        | نفاذ                                                                         |                      |
+|Accept                                        | قبول                                                                         |                      |
 |Access control list                           | قائمة التحكم بالنفاذ                                                         |                      |
 |Accessibility                                 | إتاحة                                                                        |                      |
 |Accessible                                    | مُتَاح                                                                       |                      |
@@ -32,8 +29,9 @@
 |Access memory                                 | ذاكرة النفاذ                                                                 |                      |
 |Accessory                                     | كمالي                                                                        |                      |
 |Access point                                  | نقطة العبور                                                                  |                      |
-|Account                                       | حساب                                                                         |                      |
+|Access                                        | نفاذ                                                                         |                      |
 |Accounting management                         | تسيير الحسابات                                                               |                      |
+|Account                                       | حساب                                                                         |                      |
 |Accumulator                                   | مركِّم                                                                       |                      |
 |Accuracy                                      | دقة                                                                          |                      |
 |Acknowledgment                                | عرفان :: شكر                                                                 |                      |
@@ -46,143 +44,143 @@
 |Activity                                      | نشاط                                                                         |                      |
 |Actor                                         | فاعل                                                                         |                      |
 |Actuator                                      | مشغّل                                                                        |                      |
-|Adapt                                         | تكييف                                                                        |                      |
 |Adapter                                       | مكيف                                                                         |                      |
 |Adaptive answering                            | إجابة تكيفية                                                                 |                      |
 |Adaptive learning                             | تعلم تكييفي                                                                  |                      |
 |Adaptive routing                              | توجيه تكيفي                                                                  |                      |
-|Add                                           | إضافة                                                                        |                      |
+|Adapt                                         | تكييف                                                                        |                      |
 |Add-In                                        |                                                                              |                      |
 |Add-in                                        | مضاف                                                                         |                      |
 |Additional                                    | إضافي                                                                        |                      |
 |Additive                                      | انضمامي                                                                      |                      |
 |Addon                                         |                                                                              |                      |
 |Addon CD                                      |                                                                              |                      |
-|Address                                       | عنوان                                                                        |                      |
 |Address book                                  | دفتر عناوين                                                                  |                      |
 |Address bus                                   | ناقل عناوين                                                                  |                      |
 |Addressee                                     | مرسل إليه                                                                    |                      |
 |Addressing                                    | عنونة                                                                        |                      |
+|Address                                       | عنوان                                                                        |                      |
+|Add                                           | إضافة                                                                        |                      |
 |Adjacency                                     | تجاور                                                                        |                      |
 |Adjacent                                      | مجاور                                                                        |                      |
 |Adjust                                        | ضبط                                                                          |                      |
-|Admin                                         | مدير                                                                         |                      |
 |Administration                                | إدارة                                                                        |                      |
 |Administrative                                | إداري                                                                        |                      |
 |Administrator                                 | مدير                                                                         |                      |
-|Advance                                       | تقدم                                                                         |                      |
+|Admin                                         | مدير                                                                         |                      |
 |Advanced                                      | متقدم                                                                        |                      |
+|Advance                                       | تقدم                                                                         |                      |
 |Affix                                         | زائدة                                                                        |                      |
 |Agenda                                        | مفكرة                                                                        |                      |
 |Agent                                         | مفوّض                                                                        |                      |
-|Aggregate                                     | مُجمَل                                                                       |                      |
 |Aggregate type                                | نوع مُجمَل                                                                   |                      |
+|Aggregate                                     | مُجمَل                                                                       |                      |
 |Aggregation                                   | تجميع                                                                        |                      |
 |Aggregator                                    | مُجمِّع                                                                      |                      |
 |Aging                                         | تقادم                                                                        |                      |
 |AGP                                           |                                                                              |                      |
-|Agree                                         | موافق                                                                        |                      |
 |Agreement                                     | اتفاق                                                                        |                      |
+|Agree                                         | موافق                                                                        |                      |
 |Airbrush                                      | مرذاذ صباغة                                                                  |                      |
-|Alarm                                         | منبه                                                                         |                      |
 |Alarm clock                                   | منبه                                                                         |                      |
+|Alarm                                         | منبه                                                                         |                      |
 |Aleph                                         | ألف                                                                          |                      |
-|Alert                                         | تنبيه                                                                        | إنذار                |
 |Alert box                                     | حوار التنبيه                                                                 |                      |
+|Alert                                         | تنبيه                                                                        | إنذار                |
 |Algebraic data type                           | نوع بيانات جبري                                                              |                      |
 |Algebraic structure                           | بنية جبرية                                                                   |                      |
 |Algorism                                      | خوارزميّة                                                                    |                      |
 |Algorithm                                     | خوارزمية                                                                     |                      |
-|Alias                                         | كنية                                                                         |                      |
-|Aliasing                                      | تسنن                                                                         |                      |
 |Aliasing bug                                  | خلل تسنّن                                                                    |                      |
-|Align                                         | محاذاة                                                                       |                      |
+|Aliasing                                      | تسنن                                                                         |                      |
+|Alias                                         | كنية                                                                         |                      |
 |Alignment                                     | محاذاة                                                                       |                      |
+|Align                                         | محاذاة                                                                       |                      |
 |Allocate                                      |                                                                              |                      |
 |Allow                                         | سماح                                                                         |                      |
-|Alpha                                         | ألفا                                                                         |                      |
 |Alpha channel                                 | قناة ألفا                                                                    |                      |
 |Alphanumeric                                  | أبجدي عددي                                                                   |                      |
+|Alpha                                         | ألفا                                                                         |                      |
 |ALSA                                          | بنية لينكس الصوتية المتقدمة                                                  |                      |
-|Alter                                         | تغيير                                                                        |                      |
 |Alteration                                    | تغيير                                                                        |                      |
 |Alternating                                   | تناوبي                                                                       |                      |
 |Alternative                                   | بديل                                                                         |                      |
+|Alter                                         | تغيير                                                                        |                      |
 |Amount                                        | كمية                                                                         |                      |
 |Amper                                         | أمبير                                                                        |                      |
 |Amplify                                       | تضخيم                                                                        |                      |
 |Amplitude                                     | سعة                                                                          |                      |
-|Analog                                        | نظير                                                                         |                      |
 |Analogue computer                             | حاسوب تماثلي                                                                 |                      |
+|Analog                                        | نظير                                                                         |                      |
 |Analysis                                      | تحليل                                                                        |                      |
-|Anchor                                        | مربط                                                                         |                      |
 |Anchoring                                     | إرساء                                                                        |                      |
+|Anchor                                        | مربط                                                                         |                      |
 |AND                                           | و                                                                            |                      |
-|Angle                                         | زاوية                                                                        |                      |
 |Angle bracket                                 | مكسورة                                                                       |                      |
+|Angle                                         | زاوية                                                                        |                      |
 |Animate                                       | تحريك                                                                        |                      |
 |Animation                                     | تحريكة                                                                       |                      |
 |Anisotropy                                    |                                                                              |                      |
 |Annotate                                      | تعليق                                                                        |                      |
 |Annotation                                    | تعليق :: حاشية                                                               |                      |
-|Announce                                      | إعلان                                                                        |                      |
 |Announcement                                  | إعلان                                                                        |                      |
+|Announce                                      | إعلان                                                                        |                      |
 |Anonymous                                     | مجهول الاسم                                                                  |                      |
 |Answer mode                                   | نمط الإجابة                                                                  |                      |
 |Antialias                                     |                                                                              |                      |
 |Anti-aliasing                                 | إزالة التسنن                                                                 |                      |
 |Antialiasing                                  | إزالة التسنن                                                                 |                      |
 |Antisymmetric                                 | لا متماثل                                                                    |                      |
+|Antivirus software                            | برنامج مضاد للفيروسات                                                        |                      |
 |Anti virus                                    | مضاد فيروسات                                                                 |                      |
 |Antivirus                                     | مضاد فيروسات                                                                 |                      |
-|Antivirus software                            | برنامج مضاد للفيروسات                                                        |                      |
 |Anytime algorithm                             | خوارزمية لا وقتية                                                            |                      |
 |API                                           | واجهة برمجة التطبيقات                                                        |                      |
 |Apostrophe                                    | فاصلة عليا                                                                   |                      |
 |Appear                                        | ظهور                                                                         |                      |
 |Append                                        | إلحاق                                                                        |                      |
 |Applet                                        | بريمج                                                                        |                      |
-|Application                                   | تطبيق                                                                        |                      |
 |Application Launcher                          | مشغل التطبيق                                                                 |                      |
+|Application                                   | تطبيق                                                                        |                      |
 |Applix                                        |                                                                              |                      |
 |Apply                                         | تطبيق                                                                        |                      |
 |Appointment                                   | موعد                                                                         |                      |
 |Approval                                      | إقرار                                                                        |                      |
-|Approve                                       | إقرار                                                                        |                      |
 |Approved                                      | مصادق عليه                                                                   |                      |
+|Approve                                       | إقرار                                                                        |                      |
 |Approximate                                   | تقريبي                                                                       |                      |
 |Approximation algorithm                       | خوارزمية تقريب                                                               |                      |
 |Arabisation                                   |                                                                              |                      |
 |Arabization                                   |                                                                              |                      |
 |Arbitrary                                     | كيفي                                                                         |                      |
-|Arc                                           | قوس                                                                          |                      |
 |Architecture                                  | بُنية                                                                        |                      |
-|Archive                                       | أرشيف                                                                        |                      |
 |Archive site                                  | موقع أرشيفي                                                                  |                      |
+|Archive                                       | أرشيف                                                                        |                      |
 |Archiving                                     | أرشفة                                                                        |                      |
-|Area                                          | منطقة                                                                        |                      |
+|Arc                                           | قوس                                                                          |                      |
 |Area grid                                     | مربعات المساحة                                                               |                      |
+|Area                                          | منطقة                                                                        |                      |
 |Arena                                         | حلبة                                                                         |                      |
 |Argument                                      | مُعطى                                                                        |                      |
 |Arity                                         | رتبية                                                                        |                      |
-|Arrange                                       | ترتيب                                                                        |                      |
 |Arrangement                                   | ترتيبة                                                                       |                      |
+|Arrange                                       | ترتيب                                                                        |                      |
 |Array                                         | مصفوفة                                                                       |                      |
-|Arrow                                         | سهم                                                                          |                      |
 |Arrowhead                                     | رأس سهم                                                                      |                      |
 |Arrow key                                     | مفتاح السهم                                                                  |                      |
+|Arrow                                         | سهم                                                                          |                      |
 |Article                                       | مقالة                                                                        |                      |
 |Artifact                                      |                                                                              |                      |
 |Artificial intelligence                       | ذكاء اصطناعي                                                                 |                      |
 |Artificial neural network                     | شبكة عصبية اصطناعية                                                          |                      |
 |Artwork                                       |                                                                              |                      |
 |Ascender                                      | صاعد                                                                         |                      |
-|Ascending                                     | تصاعدي                                                                       |                      |
 |Ascending order                               | ترتيب تصاعدي                                                                 |                      |
+|Ascending                                     | تصاعدي                                                                       |                      |
 |Ascii                                         | أسكي                                                                         |                      |
-|Aspect                                        | مظهر                                                                         |                      |
 |Aspect-oriented programming                   | برمجة موجهة بالمظاهر                                                         |                      |
 |Aspect ratio                                  | نسبة باعيّة                                                                  |                      |
+|Aspect                                        | مظهر                                                                         |                      |
 |Assembler                                     | مُجمِّع                                                                      |                      |
 |Assembly code                                 | شفرة تجميع                                                                   |                      |
 |Assembly language                             | لغة تجميعية                                                                  |                      |
@@ -190,38 +188,37 @@
 |Assertion                                     | توكيد                                                                        |                      |
 |Asset management                              | تسيير الممتلكات                                                              |                      |
 |Assign                                        |                                                                              |                      |
-|Assignment                                    | إسناد                                                                        |                      |
 |Assignment problem                            | مسألة تعيين (برمجة)                                                          |                      |
+|Assignment                                    | إسناد                                                                        |                      |
 |Assistant                                     | مساعد                                                                        |                      |
 |Associative array                             | مصفوفة ترابطية                                                               |                      |
 |Associative memory                            | ذاكرة ترابطية                                                                |                      |
 |Asterisk                                      |                                                                              |                      |
-|Asymmetric                                    | لامُتناظِر                                                                   |                      |
-|Asymmetrical                                  | لا تناظري                                                                    |                      |
 |Asymmetrical modulation                       |                                                                              |                      |
-|Asynchronous                                  | لا تزامني                                                                    |                      |
+|Asymmetrical                                  | لا تناظري                                                                    |                      |
+|Asymmetric                                    | لامُتناظِر                                                                   |                      |
 |Asynchronous logic                            | منطق لا تزامني                                                               |                      |
-|Atom                                          | ذرة                                                                          |                      |
-|Atomic                                        | ذري                                                                          |                      |
+|Asynchronous                                  | لا تزامني                                                                    |                      |
 |Atomicity                                     |                                                                              |                      |
+|Atomic                                        | ذري                                                                          |                      |
+|Atom                                          | ذرة                                                                          |                      |
 |At sign                                       | العلامة @                                                                    |                      |
-|Attach                                        | إرفاق                                                                        |                      |
 |Attachment                                    | مرفق                                                                         |                      |
+|Attach                                        | إرفاق                                                                        |                      |
 |Attempt                                       | محاولة                                                                       |                      |
 |Attribute                                     | خاصية                                                                        |                      |
-|Audio                                         | سمعي                                                                         |                      |
-|Audiographic                                  | سمعي تخطيطي                                                                  |                      |
 |Audiographic teleconferencing                 | اجتماع سمعي تخطيطي عن بعد                                                    |                      |
+|Audiographic                                  | سمعي تخطيطي                                                                  |                      |
+|Audio                                         | سمعي                                                                         |                      |
 |Audit                                         | تدقيق                                                                        |                      |
 |Authenticate                                  |                                                                              |                      |
-|Authentication                                | استيثاق                                                                      |                      |
 |Authentication ticket                         | قسيمة استيثاق                                                                |                      |
+|Authentication                                | استيثاق                                                                      |                      |
 |Authenticity                                  | صحة                                                                          |                      |
 |Authentify                                    |                                                                              |                      |
-|Author                                        | مؤلف                                                                         |                      |
 |Authorization                                 | تصريح                                                                        |                      |
 |Authorize                                     |                                                                              |                      |
-|Auto                                          | آلي                                                                          |                      |
+|Author                                        | مؤلف                                                                         |                      |
 |Autocompletion                                | اتمام تلقائي                                                                 |                      |
 |Autoconfiguration                             | ضبط آلي                                                                      |                      |
 |Autodetect                                    | كشف آلي                                                                      |                      |
@@ -229,35 +226,35 @@
 |Autoloader                                    | محمّل آلي                                                                    |                      |
 |Automata theory                               | نظرية الآلات الذاتية التشغيل                                                 |                      |
 |Automated testing                             | اختبار آلي                                                                   |                      |
-|Automatic                                     | آلي                                                                          |                      |
 |Automatically                                 | آليا                                                                         |                      |
+|Automatic                                     | آلي                                                                          |                      |
 |Automation                                    | تشغيل آلي                                                                    |                      |
 |Automaton                                     | مشتغل آلي                                                                    |                      |
 |Autotrace                                     | تتبع آلي                                                                     |                      |
-|Auxiliary                                     | إضافي                                                                        |                      |
+|Auto                                          | آلي                                                                          |                      |
 |Auxiliary storage                             | تخزين إضافي                                                                  |                      |
+|Auxiliary                                     | إضافي                                                                        |                      |
 |Availability                                  | توفر                                                                         |                      |
 |Available                                     | متوفر                                                                        |                      |
 |Avatar                                        | أفتار                                                                        |                      |
-|Average                                       | متوسط                                                                        |                      |
 |Average seek time                             | مدة بحث متوسطة                                                               |                      |
-|Away                                          | غائب                                                                         |                      |
+|Average                                       | متوسط                                                                        |                      |
 |Away message                                  | رسالة غياب                                                                   |                      |
+|Away                                          | غائب                                                                         |                      |
 |Axial                                         | محوري                                                                        |                      |
-|Axiom                                         | بديهية                                                                       |                      |
 |Axiomatic semantics                           | دلاليات بديهية                                                               |                      |
 |Axiomatic set theory                          | نظرية المجموعات البديهية                                                     |                      |
+|Axiom                                         | بديهية                                                                       |                      |
 |Axis                                          | محور                                                                         |                      |
 |Babbleprint                                   | بصمة منطوقة                                                                  |                      |
-|Back                                          | رجوع                                                                         |                      |
-|Backbone                                      | عِماد                                                                        |                      |
 |Backbone site                                 | موقع عمادي                                                                   |                      |
+|Backbone                                      | عِماد                                                                        |                      |
 |Back door                                     | مدخل سري للنظام                                                              |                      |
 |Backend                                       | منتهى خلفي                                                                   |                      |
 |Back-end                                      | نهاية خلفية                                                                  |                      |
-|Background                                    | خلفية                                                                        |                      |
 |Background directory                          |                                                                              |                      |
 |Background processing                         | معالجة في الخلفية                                                            |                      |
+|Background                                    | خلفية                                                                        |                      |
 |Back link                                     |                                                                              |                      |
 |Backlog                                       |                                                                              |                      |
 |Backport                                      | حمل عكسي                                                                     |                      |
@@ -270,223 +267,223 @@
 |Backtick                                      | فاصلة عليا مائلة                                                             |                      |
 |Backtrace                                     |                                                                              |                      |
 |Backtracking                                  | تتبع خلفي                                                                    |                      |
-|Backup                                        | احتياطي، نسخ احتياطي، نسخة احتياطية                                          |                      |
 |Backup rotation                               | تعاقب احتياطي                                                                |                      |
 |Backup software                               | برنامج احتياط                                                                |                      |
+|Backup                                        | احتياطي، نسخ احتياطي، نسخة احتياطية                                          |                      |
 |Backward analysis                             | تحليل إلى الخلف                                                              |                      |
 |Backward chaining                             | صَفد إلى الخلف                                                               |                      |
 |Backward compatibility                        | توافق الإصدارات السابقة                                                      |                      |
 |Backward compatible                           | متوافق خلفيا                                                                 |                      |
+|Back                                          | رجوع                                                                         |                      |
 |Balance                                       | توازن                                                                        |                      |
 |Ban                                           |                                                                              |                      |
 |Bandwidth                                     | حيز النطاق                                                                   |                      |
 |Banner                                        | لافتة                                                                        |                      |
-|Bar                                           | شريط                                                                         |                      |
 |Bareword                                      |                                                                              |                      |
-|Base                                          | أساس :: قاعدة                                                                |                      |
+|Bar                                           | شريط                                                                         |                      |
 |Baseband                                      | نطاق أساسي                                                                   |                      |
 |Base class                                    | صنف أساسي                                                                    |                      |
 |Baseline                                      | خط أساسي                                                                     |                      |
 |Base memory                                   | ذاكرة أساسية                                                                 |                      |
 |Basename                                      | اسم أساسي                                                                    |                      |
-|Batch                                         | دُفعة                                                                        |                      |
+|Base                                          | أساس :: قاعدة                                                                |                      |
 |Batcher                                       | معالج دفعات                                                                  |                      |
 |Batch file                                    | ملف الدُفعات                                                                 |                      |
 |Batching                                      | تدفيع                                                                        |                      |
 |Batch processing                              | معالجة بالدفعات                                                              |                      |
+|Batch                                         | دُفعة                                                                        |                      |
 |Battery                                       | بطارية                                                                       |                      |
-|Baud                                          | بود                                                                          |                      |
 |Baud rate                                     | معدل الباود                                                                  |                      |
+|Baud                                          | بود                                                                          |                      |
 |Bay                                           | فتحة                                                                         |                      |
 |Beam                                          |                                                                              |                      |
 |Beamer                                        | باث                                                                          |                      |
 |Beam search                                   | بحث دعاميع                                                                   |                      |
-|Beep                                          | صفير                                                                         |                      |
 |Beeper                                        | مصفّر                                                                        |                      |
+|Beep                                          | صفير                                                                         |                      |
 |Behavior                                      | سلوك                                                                         |                      |
-|Bell                                          | جرس                                                                          |                      |
 |Bell curve                                    | منحنى جرسي                                                                   |                      |
+|Bell                                          | جرس                                                                          |                      |
 |Benchmark                                     | قياس الأداء                                                                  |                      |
 |Best effort                                   | أفضل جهد (خدمة ...)                                                          |                      |
-|Beta                                          | بيتا                                                                         |                      |
 |Beta abstraction                              | تجريد بيتا                                                                   |                      |
 |Beta conversion                               | تحويل بيتا                                                                   |                      |
 |Beta reduction                                | اختزال بيتا                                                                  |                      |
 |Beta testing                                  | اختبار بيتا                                                                  |                      |
 |Beta version                                  | إصدار بيتا                                                                   |                      |
+|Beta                                          | بيتا                                                                         |                      |
 |Bibliography                                  | المراجع                                                                      |                      |
 |BiDi                                          |                                                                              |                      |
-|Bidi                                          | ثنائية الاتجاه                                                               |                      |
 |Bidirectional printing                        | طباعة ثنائية الاتجاه                                                         |                      |
+|Bidi                                          | ثنائية الاتجاه                                                               |                      |
 |Big-endian                                    | طرفي-كبير                                                                    |                      |
 |Bijection                                     | تقابل                                                                        |                      |
 |Bilinear patch                                | رقعة ثنائية                                                                  |                      |
-|Binary                                        | ثنائي                                                                        |                      |
 |Binary coded decimal                          | عشري مرمَّز ثنائيا                                                           |                      |
 |Binary exponential backoff                    | رقود أسي ثنائي                                                               |                      |
 |Binary large object                           | كائن ثنائي ضخم                                                               |                      |
 |Binary package                                | حزمة ثنائية                                                                  |                      |
 |Binary search                                 | بحث ثنائي                                                                    |                      |
 |Binary tree                                   | شجرة ثنائية                                                                  |                      |
-|Bind                                          | ربط                                                                          |                      |
+|Binary                                        | ثنائي                                                                        |                      |
 |Binding                                       |                                                                              |                      |
 |Binding handle                                | مقبض ارتباط                                                                  |                      |
 |Binding-time analysis                         | تحليل وقت الارتباط                                                           |                      |
+|Bind                                          | ربط                                                                          |                      |
 |BIOS                                          |                                                                              |                      |
 |Bipolar                                       | ثنائي القطب                                                                  |                      |
-|Bit                                           | بِتة :: ثنائية :: ذرة                                                        |                      |
 |Bit block transfer                            | نقل كتلة بت                                                                  |                      |
 |Bit depth                                     | عمق البِت                                                                    |                      |
 |Bit gravity                                   | جاذبية البِت                                                                 |                      |
-|Bitmap                                        | خارطة ثنائية                                                                 |                      |
 |Bitmap display                                | عرض نقطي                                                                     |                      |
 |Bitmap font                                   | خط نقطي                                                                      |                      |
+|Bitmap                                        | خارطة ثنائية                                                                 |                      |
 |Bit mask                                      | قناع البت                                                                    |                      |
 |Bit pattern                                   | متسلسلة ثنائية                                                               |                      |
 |Bit plane                                     | مسطح ثنائية                                                                  |                      |
 |Bit rate                                      | معدل البت                                                                    |                      |
 |Bit slice                                     | شريحة ثنائيات                                                                |                      |
 |Bit string                                    | سلسلة ثنائيات                                                                |                      |
-|Bitwise                                       | بتّي                                                                         |                      |
 |Bitwise complement                            |                                                                              |                      |
+|Bitwise                                       | بتّي                                                                         |                      |
+|Bit                                           | بِتة :: ثنائية :: ذرة                                                        |                      |
 |Blacklist                                     |                                                                              |                      |
 |Blank                                         | فراغ، فارغ                                                                   |                      |
 |Blend                                         |                                                                              |                      |
 |Blending                                      | مزج                                                                          |                      |
-|Blink                                         | وميض                                                                         |                      |
 |Blinking cursor                               | مؤشر نابض                                                                    |                      |
+|Blink                                         | وميض                                                                         |                      |
 |Bloat                                         |                                                                              |                      |
-|Block                                         | صدّ :: حظر :: كتلة                                                           |                      |
 |Block buffer                                  |                                                                              |                      |
-|Blocked                                       | ممنوع                                                                        |                      |
 |Blocked record                                | تسجيلة مكتَّلة                                                               |                      |
+|Blocked                                       | ممنوع                                                                        |                      |
 |Block-structured                              | ذو بنية كُتل                                                                 |                      |
 |Block (unit)                                  | كتلة                                                                         |                      |
 |Block (verb)                                  | تجميد                                                                        |                      |
-|Blog                                          | مدوّنة                                                                       |                      |
+|Block                                         | صدّ :: حظر :: كتلة                                                           |                      |
 |Blogosphere                                   |                                                                              |                      |
+|Blog                                          | مدوّنة                                                                       |                      |
 |Bluetooth                                     |                                                                              |                      |
-|Blur                                          | ضبابية (رسم) :: عدم وضوح                                                     |                      |
 |Blu-ray                                       |                                                                              |                      |
 |Blur image                                    | صورة غائمة                                                                   |                      |
+|Blur                                          | ضبابية (رسم) :: عدم وضوح                                                     |                      |
 |Board                                         | لوحة                                                                         |                      |
 |Body                                          | متن                                                                          |                      |
 |Bogon filter                                  |                                                                              |                      |
 |Bold                                          | ثخين                                                                         |                      |
 |Bolt                                          |                                                                              |                      |
 |Boo                                           |                                                                              |                      |
-|Book                                          | كتاب                                                                         |                      |
-|Book mark                                     | علامة موقع                                                                   |                      |
 |Bookmark                                      | علامة                                                                        |                      |
+|Book mark                                     | علامة موقع                                                                   |                      |
+|Book                                          | كتاب                                                                         |                      |
 |Boolean                                       | منطقي                                                                        |                      |
-|Boot                                          | إقلاع                                                                        |                      |
 |Boot block                                    | كتلة إقلاع                                                                   |                      |
 |Boot image                                    | صورة إقلاع                                                                   |                      |
 |Booting                                       | إقلاع                                                                        |                      |
-|Boot loader                                   | محمّل الإقلاع                                                                |                      |
 |Bootloader                                    | محمّل إقلاع                                                                  |                      |
+|Boot loader                                   | محمّل الإقلاع                                                                |                      |
 |Bootrom                                       | ذقف إقلاع (ذاكرة إقلاع مقروءة فقط)                                           |                      |
 |Boot server                                   | خادم إقلاع                                                                   |                      |
-|Bootstrap                                     | نظام تمهيد تشغيل الكمبيوتر                                                   |                      |
 |Bootstrap loader                              | محمّل إقلاع                                                                  |                      |
+|Bootstrap                                     | نظام تمهيد تشغيل الكمبيوتر                                                   |                      |
 |Boot virus                                    | فايروس إقلاع                                                                 |                      |
+|Boot                                          | إقلاع                                                                        |                      |
 |Border                                        | حد                                                                           |                      |
-|Bot                                           | آلي                                                                          |                      |
-|Bottom                                        | أسفل                                                                         |                      |
 |Bottom-unique                                 |                                                                              |                      |
-|Bounce                                        | يرتد                                                                         |                      |
+|Bottom                                        | أسفل                                                                         |                      |
+|Bot                                           | آلي                                                                          |                      |
 |Bounce message                                | رسالة وُثوب                                                                  |                      |
-|Bound                                         | مُقَيَّد                                                                     |                      |
+|Bounce                                        | يرتد                                                                         |                      |
 |Boundary scan                                 | مسح حدودي                                                                    |                      |
 |Boundary value analysis                       |                                                                              |                      |
-|Bounded                                       | مُتَنَاه،مَحْدُود                                                            |                      |
 |Boundedly complete                            |                                                                              |                      |
+|Bounded                                       | مُتَنَاه،مَحْدُود                                                            |                      |
 |Bounding box                                  | مربع إحاطة                                                                   |                      |
 |Bound variable                                |                                                                              |                      |
-|Box                                           | مربع، صندوق                                                                  |                      |
+|Bound                                         | مُقَيَّد                                                                     |                      |
 |Boxed comment                                 | تعليق مربع                                                                   |                      |
+|Box                                           | مربع، صندوق                                                                  |                      |
 |Bpp                                           |                                                                              |                      |
 |Brace                                         | حاصرة                                                                        |                      |
-|Bracket                                       | قوس                                                                          |                      |
 |Bracket abstraction                           | تجريد الأقواس                                                                |                      |
+|Bracket                                       | قوس                                                                          |                      |
 |Braille                                       | برايل                                                                        |                      |
-|Branch                                        | فرع                                                                          |                      |
 |Branch coverage testing                       | اختبار تغطية التفرّع                                                         |                      |
 |Branch delay slot                             | فتحة تمهيل التفرّع                                                           |                      |
 |Branch prediction                             | توقع التفرّع                                                                 |                      |
+|Branch                                        | فرع                                                                          |                      |
 |Brand                                         |                                                                              |                      |
 |Breadth-first search                          | البحث بالعرض أولا                                                            |                      |
-|Break                                         | كسر                                                                          |                      |
-|Break point                                   | نقطة انقطاع                                                                  |نقطة كسر              |
 |Breakpoint                                    | نقطة المقاطعة                                                                |                      |
+|Break point                                   | نقطة انقطاع                                                                  |نقطة كسر              |
 |Break (program)                               | انقطاع                                                                       |                      |
 |Break statement                               | عبارة انقطاع                                                                 |                      |
+|Break                                         | كسر                                                                          |                      |
 |Bricks                                        | طوب                                                                          |                      |
-|Bridge                                        | جسر                                                                          |                      |
 |Bridge (noun)                                 | جسر                                                                          |                      |
 |Bridge (verb)                                 | جَسر                                                                         |                      |
+|Bridge                                        | جسر                                                                          |                      |
 |Briefcase                                     | حقيبة                                                                        |                      |
 |Brightness                                    | السطوع                                                                       |                      |
 |Broadband                                     | نطاق ترددي واسع،نطاق واسع                                                    |                      |
-|Broadcast                                     | بث                                                                           |                      |
 |Broadcast quality video                       | مرئية ذات جودة إذاعية                                                        |                      |
+|Broadcast                                     | بث                                                                           |                      |
 |Brochure                                      | كتيب :: كرّاسة                                                               |                      |
-|Broken                                        | معطوب، مكسور                                                                 |                      |
 |Broken line                                   | خط مقطوع                                                                     |                      |
-|Browse                                        | تصفّح                                                                        |                      |
+|Broken                                        | معطوب، مكسور                                                                 |                      |
 |Browser                                       | متصفح                                                                        |                      |
+|Browse                                        | تصفّح                                                                        |                      |
 |Brush                                         | فرشاة                                                                        |                      |
-|Brute force                                   | قوة قاسية                                                                    |                      |
 |Brute force attack                            | هجوم بالقوة القاسية                                                          |                      |
+|Brute force                                   | قوة قاسية                                                                    |                      |
 |BTP                                           |                                                                              |                      |
 |Bubble                                        |                                                                              |                      |
 |Buddy                                         | صاحب                                                                         |                      |
-|Buffer                                        | صِوان                                                                        |                      |
 |Buffered write-through                        |                                                                              |                      |
 |Buffering                                     |                                                                              |                      |
 |Buffer overflow                               | طوفان الصِوان                                                                |                      |
-|Bug                                           | علَّة                                                                        |                      |
-|Bug fix                                       | إصلاح خلل                                                                    |                      |
+|Buffer                                        | صِوان                                                                        |                      |
 |Bug fix release                               | إصدار مصلِح                                                                  |                      |
+|Bug fix                                       | إصلاح خلل                                                                    |                      |
 |Bug tracking system                           | نظام متابعة خلال                                                             |                      |
+|Bug                                           | علَّة                                                                        |                      |
 |Build                                         | بناء                                                                         |                      |
 |Built-in                                      | مضمّن                                                                        |                      |
-|Bullet                                        | كرية تعداد،رصاصة                                                             |                      |
-|Bulletin Board                                | ساحة نقاش                                                                    |                      |
 |Bulletin board system                         | نظام لوحة النشرات                                                            |                      |
+|Bulletin Board                                | ساحة نقاش                                                                    |                      |
 |Bullet list                                   |                                                                              |                      |
+|Bullet                                        | كرية تعداد،رصاصة                                                             |                      |
 |Bundle                                        |                                                                              |                      |
 |Bundled                                       |                                                                              |                      |
 |Burn                                          |                                                                              |                      |
-|Bus                                           | ناقل                                                                         |                      |
 |Bus arbitration                               | حكم النواقل                                                                  |                      |
 |Bus cycle                                     | دورة نواقل                                                                   |                      |
 |Bus device                                    | جهاز ناقل                                                                    |                      |
 |Bus error                                     | خطأ ناقل                                                                     |                      |
 |Business to business                          | متاجرة بين عمل وعمل                                                          |                      |
-|Bus master                                    | رئيس نواقل                                                                   |                      |
 |Bus mastering                                 | رئاسة نواقل                                                                  |                      |
+|Bus master                                    | رئيس نواقل                                                                   |                      |
 |Bus network                                   | شبكة مسروية،شبكة خطّية                                                       |                      |
 |Bus priority                                  | أولوية نواقل                                                                 |                      |
 |Bus request                                   | طلب ناقل                                                                     |                      |
 |Bus sizing                                    | تحجيم نواقل                                                                  |                      |
 |Bus watcher                                   | مراقب الناقل                                                                 |                      |
 |Busy                                          | مشغول                                                                        |                      |
-|Button                                        | زر                                                                           |                      |
+|Bus                                           | ناقل                                                                         |                      |
 |Button binding                                | ربط أزرار                                                                    |                      |
 |Button grab                                   |                                                                              |                      |
+|Button                                        | زر                                                                           |                      |
 |Buzz                                          | بزبز                                                                         |                      |
 |Bypass                                        | تجاوز                                                                        |                      |
-|Byte                                          | بايت :: جزئ                                                                  |                      |
 |Byte addressing                               | عنونة ثمانيات                                                                |                      |
-|Byte-code                                     | شفرةٌ ثمانية                                                                 |                      |
 |Byte-code compiler                            | مترجم شفرة ثمانية                                                            |                      |
 |Byte-code interpreter                         | مؤوّل شفرة ثمانية                                                            |                      |
+|Byte-code                                     | شفرةٌ ثمانية                                                                 |                      |
 |Byte compiler                                 | مترجم شفرة ثمانية                                                            |                      |
 |Byte order                                    | ترتيب ثمانيات                                                                |                      |
-|C                                             | سي                                                                           |                      |
-|Cable                                         | كبل                                                                          |                      |
+|Byte                                          | بايت :: جزئ                                                                  |                      |
 |Cable modem                                   | كبل المودم                                                                   |                      |
+|Cable                                         | كبل                                                                          |                      |
 |Cache                                         |                                                                              |                      |
 |Cache block                                   | كتلة مَخبأ                                                                   |                      |
 |Cache coherency                               | تماسك مَخبأ                                                                  |                      |
@@ -498,9 +495,9 @@
 |Cache line                                    | سطر مَخبأ                                                                    |                      |
 |Cache memory                                  | مَخبأ                                                                        |                      |
 |Cache miss                                    | إخطاء مَخبأ                                                                  |                      |
-|Caching                                       | تخزين مؤقت                                                                   |                      |
 |Caching-only                                  | خَبء فقط                                                                     |                      |
 |Caching server                                | خادم خَبء،خادم تخبئة                                                         |                      |
+|Caching                                       | تخزين مؤقت                                                                   |                      |
 |CAD                                           |                                                                              |                      |
 |Calculate                                     | حساب                                                                         |                      |
 |Calculation                                   | حساب                                                                         |                      |
@@ -512,8 +509,8 @@
 |Call-by-name                                  | نداء بالاسم                                                                  |                      |
 |Call-by-need                                  | نداء بالحاجة                                                                 |                      |
 |Call-by-reference                             | نداء بالمرجع                                                                 |                      |
-|Call-by-value                                 | نداء بالقيمة                                                                 |                      |
 |Call-by-value-result                          | نداء بنتيجة القيمة                                                           |                      |
+|Call-by-value                                 | نداء بالقيمة                                                                 |                      |
 |Callee                                        | منادى                                                                        |                      |
 |Calling convention                            | اتفاق نداء                                                                   |                      |
 |Callout                                       | نداء                                                                         |                      |
@@ -521,33 +518,32 @@
 |Camera                                        | كامرة                                                                        |                      |
 |Cancel                                        | إلغاء                                                                        |                      |
 |Candidate key                                 | مفتاح مرشَّح                                                                 |                      |
-|Canonical                                     | قانوني                                                                       |                      |
 |Canonical name                                | اسم متعارف عليه                                                              |                      |
+|Canonical                                     | قانوني                                                                       |                      |
 |Canonicity                                    | قانونية                                                                      |                      |
 |Canvas                                        | رقعة (الرسم)                                                                 |                      |
 |Capability                                    | قدرة                                                                         |                      |
 |Capacity                                      | سعة                                                                          |                      |
 |Caps                                          |                                                                              |                      |
 |Caption                                       | شرح لوحة                                                                     |                      |
-|Capture                                       | التقاط                                                                       |                      |
 |Captured image                                | صورة ملتقطَة                                                                 |                      |
-|Card                                          | بطاقة                                                                        |                      |
+|Capture                                       | التقاط                                                                       |                      |
 |Card cage                                     | قفص بطاقات                                                                   |                      |
 |Cardinality                                   | رئيسي                                                                        |                      |
 |Cardinal number                               | عدد أصلي                                                                     |                      |
 |Card slot                                     | فتحة بطاقات                                                                  |                      |
+|Card                                          | بطاقة                                                                        |                      |
 |Caret                                         | قبعة                                                                         |                      |
 |Carriage return                               | رجوع إلى السطر، مُرجع إلى السطر (مِحرف)                                      |                      |
-|Carrier                                       | حامل،ناقل                                                                    |                      |
 |Carrier scanner                               | ماسحة حوامل                                                                  |                      |
 |Carrier signal                                | إشارة حاملة                                                                  |                      |
+|Carrier                                       | حامل،ناقل                                                                    |                      |
 |Cartesian coordinates                         | إحداثيات ديكارتية                                                            |                      |
 |Cartesian product                             | جداء ديكارتي                                                                 |                      |
 |Cartridge                                     |                                                                              |                      |
-|Cascade                                       | تتالي                                                                        |                      |
 |Cascaded list                                 | قائمة مدرَّجة                                                                |                      |
+|Cascade                                       | تتالي                                                                        |                      |
 |Cascading style sheet                         |                                                                              |                      |
-|Case                                          | حالة                                                                         |                      |
 |Case based reasoning                          | تفكير مبنٍ على الأمثلة                                                       |                      |
 |Case (font)                                   | كبر (حروف)، حالة (الحرف)                                                     |                      |
 |Case insensitive                              | غير متأثر بكِبر الحروف                                                       |                      |
@@ -555,6 +551,7 @@
 |Case-sensitive                                | مميِّز لحالة الأحرف                                                          |                      |
 |Case sensitivity                              | تأثر بكِبر الحروف                                                            |                      |
 |Case statement                                | عبارةُ حالة                                                                  |                      |
+|Case                                          | حالة                                                                         |                      |
 |Cast                                          |                                                                              |                      |
 |Casting                                       |                                                                              |                      |
 |Catalog                                       | كتالوج،مسرد                                                                  |                      |
@@ -570,13 +567,13 @@
 |CD                                            |                                                                              |                      |
 |CDE panel                                     | لوحة تحكم CDE                                                                |                      |
 |CD-ROM                                        |                                                                              |                      |
-|Cell                                          | خلية                                                                         |                      |
 |Cell encoding                                 | ترميز الخلايا                                                                |                      |
 |Cellphone                                     | هاتف خلوي                                                                    |                      |
-|Cellular                                      | خلوي                                                                         |                      |
 |Cellular automata                             | مشتغلات آلية خلوية                                                           |                      |
 |Cellular automaton                            | مشتغل آلي خلوي                                                               |                      |
 |Cellular multiprocessing                      | معالجة متعددة خلوية                                                          |                      |
+|Cellular                                      | خلوي                                                                         |                      |
+|Cell                                          | خلية                                                                         |                      |
 |Center                                        |                                                                              |                      |
 |Centered                                      | مُوسّط                                                                       |                      |
 |Centimeter                                    | سنتيمتر                                                                      |                      |
@@ -587,50 +584,49 @@
 |Cepstrum                                      | سبسَتروم                                                                     |                      |
 |Certificate                                   | شهادة                                                                        |                      |
 |Certify                                       | إشهاد                                                                        |                      |
-|Chad                                          | فتات                                                                         |                      |
 |Chad box                                      | صندوق فتات                                                                   |                      |
+|Chad                                          | فتات                                                                         |                      |
 |Chain                                         | سلسلة،قيد                                                                    |                      |
-|Change                                        | تغيير                                                                        |                      |
 |Change management                             | إدارة التغيير                                                                |                      |
 |Changeover                                    | استعداد للتغيير                                                              |                      |
-|Channel                                       | قناة                                                                         |                      |
+|Change                                        | تغيير                                                                        |                      |
 |Channel service unit                          | وحدة خدمية قنوية                                                             |                      |
+|Channel                                       | قناة                                                                         |                      |
 |Chaos                                         | شواش                                                                         |                      |
 |Chapter                                       | فصل                                                                          |                      |
-|Char                                          | مِحرف                                                                        |                      |
-|Character                                     | مِحرف                                                                        |                      |
 |Character device                              | جهاز مِحرفي                                                                  |                      |
-|Character encoding                            | ترميز الأحرف                                                                 |                      |
 |Character encoding scheme                     | مخطط ترميز محارف                                                             |                      |
+|Character encoding                            | ترميز الأحرف                                                                 |                      |
 |Character graphic                             | رسم مِحرفي                                                                   |                      |
 |Characteristic function                       | دالة مميزة                                                                   |                      |
 |Character key                                 | مفتاح محرفي                                                                  |                      |
 |Character map                                 | خريطة الأحرف                                                                 |                      |
 |Character repertoire                          | مسرد محارف                                                                   |                      |
-|Character set                                 | مجموعة أحرف                                                                  |                      |
 |Character set identifier                      | مُعرِّف طقم محارف                                                            |                      |
+|Character set                                 | مجموعة أحرف                                                                  |                      |
 |Character string                              | سلسلة محارف                                                                  |                      |
+|Character                                     | مِحرف                                                                        |                      |
 |Char cell                                     | خلية مِحرف                                                                   |                      |
 |Charityware                                   | برنامج خيري                                                                  |                      |
 |Charmap                                       | خارطة محارف                                                                  |                      |
 |Charset                                       | طقم محارف                                                                    |                      |
 |Chart                                         | خُطاطة، رسم بياني                                                            |                      |
+|Char                                          | مِحرف                                                                        |                      |
 |Chase pointers                                | مؤشر تقصّصSINGULAR                                                           |                      |
-|Chat                                          | دردشة                                                                        |                      |
 |Chatchup                                      |                                                                              |                      |
 |Chat room                                     | غرفة دردشة                                                                   |                      |
 |Chat script                                   | مخطوط محادثة                                                                 |                      |
-|Check                                         | فحص :: تأكُّد                                                                |                      |
+|Chat                                          | دردشة                                                                        |                      |
 |Check (a button)                              |                                                                              |                      |
 |Check bit                                     | بت الفحص                                                                     |                      |
-|Check box                                     | صندوق تأشير                                                                  |                      |
-|Checkbox                                      | خانة تأشير                                                                   |                      |
 |Checkbox menu                                 | قائمة خيارات مربع تأشير                                                      |                      |
+|Checkbox                                      | خانة تأشير                                                                   |                      |
+|Check box                                     | صندوق تأشير                                                                  |                      |
 |Checkered                                     |                                                                              |                      |
 |Checkout                                      | سحب                                                                          |                      |
 |Checkpoint                                    | نقطة التحقق                                                                  |                      |
 |Checksum                                      | تدقيق المجموع                                                                |                      |
-|Child                                         | بنوي                                                                         |                      |
+|Check                                         | فحص :: تأكُّد                                                                |                      |
 |Child directory                               | دليل بنوي                                                                    |                      |
 |Child process                                 | عملية بنوية                                                                  |                      |
 |Child record                                  | تسجيلة بنوية                                                                 |                      |
@@ -638,82 +634,83 @@
 |Child structure                               | بنية بنوية                                                                   |                      |
 |Child version                                 | نسخة بنوية                                                                   |                      |
 |Child window                                  | إطار فرعي                                                                    |                      |
-|Chip                                          | رقاقة [رقاقات]                                                               |                      |
+|Child                                         | بنوي                                                                         |                      |
 |Chip box                                      | صندوق فتات                                                                   |                      |
 |Chip set                                      | مجموعة شرائح                                                                 |                      |
+|Chip                                          | رقاقة [رقاقات]                                                               |                      |
 |Chmod                                         |                                                                              |                      |
 |Choice                                        | اختيار                                                                       |                      |
-|Choose                                        | اختيار                                                                       |                      |
 |Chooser                                       |                                                                              |                      |
+|Choose                                        | اختيار                                                                       |                      |
 |Chroma                                        |                                                                              |                      |
 |Chroma key                                    |                                                                              |                      |
 |Chromatic number                              | عدد لوني                                                                     |                      |
 |Chrome                                        |                                                                              |                      |
 |Chrominance                                   | الكروماتية                                                                   |                      |
-|Cipher                                        | شيفرة                                                                        |                      |
 |Ciphertext                                    | نص مشفّر                                                                     |                      |
+|Cipher                                        | شيفرة                                                                        |                      |
 |Circle                                        | دائرة                                                                        |                      |
-|Circuit                                       | دارة                                                                         |                      |
 |Circuit switched                              | دوريً الإبدال                                                                |                      |
 |Circuit switching                             |                                                                              |                      |
+|Circuit                                       | دارة                                                                         |                      |
 |Circular buffer                               | مَحفظ دوري                                                                   |                      |
 |Circumflex                                    | قبعة                                                                         |                      |
 |Citizen journalism                            |                                                                              |                      |
-|Class                                         | صنف                                                                          |                      |
 |Class hierarchy                               | سلالة أصناف                                                                  |                      |
-|Classic                                       | تقليدي، اعتيادي                                                              |                      |
 |Classical logic                               | منطق تقليدي                                                                  |                      |
+|Classic                                       | تقليدي، اعتيادي                                                              |                      |
 |Classification                                | تصنيف                                                                        |                      |
 |Classify                                      | تصنيف                                                                        |                      |
 |Class library                                 | مكتبة أصناف                                                                  |                      |
 |Class method                                  | طريقة صنفية                                                                  |                      |
 |Classpath                                     |                                                                              |                      |
 |Class variable                                | متغير صنف                                                                    |                      |
+|Class                                         | صنف                                                                          |                      |
 |Clause                                        | بند                                                                          |                      |
 |Clean                                         | تنظيف، نظيف                                                                  |                      |
-|Clear                                         | محو                                                                          |                      |
 |Clear box testing                             |                                                                              |                      |
-|Click                                         | نقْر                                                                         |                      |
+|Clear                                         | محو                                                                          |                      |
 |Click (noun)                                  | نقرة                                                                         |                      |
 |Click (verb)                                  | نقر                                                                          |                      |
-|Client                                        | عميل                                                                         |                      |
-|Client-server                                 | عميل وخادوم                                                                  |                      |
+|Click                                         | نقْر                                                                         |                      |
 |Client-server model                           | نموذج عميل وخادم                                                             |                      |
+|Client-server                                 | عميل وخادوم                                                                  |                      |
 |Client-side                                   | من جهة العميل                                                                |                      |
+|Client                                        | عميل                                                                         |                      |
 |Clip art                                      | قصاصة                                                                        |                      |
 |Clipart                                       | قصاصة فنية                                                                   |                      |
-|Clip board                                    | لوحة قصاصات                                                                  |                      |
 |Clipboard                                     | حافظة                                                                        |                      |
+|Clip board                                    | لوحة قصاصات                                                                  |                      |
 |Clip list                                     | قائمة قصاصات                                                                 |                      |
 |Clip mask                                     | قناع قصاصة                                                                   |                      |
 |Clipping                                      |                                                                              |                      |
 |Clipping plane                                |                                                                              |                      |
-|Clock                                         | ساعة                                                                         |                      |
 |Clock rate                                    | سرعة ساعة                                                                    |                      |
 |Clock speed                                   | سرعة الميقاتية                                                               |                      |
-|Clone                                         | مستنسخ، استنساخ                                                              |                      |
+|Clock                                         | ساعة                                                                         |                      |
 |Clone device                                  | جهاز مستنسخ                                                                  |                      |
-|Close                                         | إغلاق                                                                        |                      |
+|Clone                                         | مستنسخ، استنساخ                                                              |                      |
 |Closed set                                    | مجموعة مغلقة                                                                 |                      |
 |Closed surface                                | مساحة مغلقة                                                                  |                      |
 |Closed term                                   | حد مغلق                                                                      |                      |
 |Close routine                                 | وتيرة إغلاق                                                                  |                      |
-|Closure                                       | إغلاق                                                                        |                      |
+|Close                                         | إغلاق                                                                        |                      |
 |Closure conversion                            |                                                                              |                      |
+|Closure                                       | إغلاق                                                                        |                      |
 |Cloud computing                               |                                                                              |                      |
 |Clover key                                    | مفتاح نفل                                                                    |                      |
 |Clumsy                                        | طائش                                                                         |                      |
-|Cluster                                       | خصلة، عنقود                                                                  |                      |
 |Cluster file                                  | ملف حشد                                                                      |                      |
 |Clustering                                    | حشد                                                                          |                      |
 |Cluster member                                | عضو حشد                                                                      |                      |
 |Cluster node                                  | عقدة خصيلة، عقدة عنقود                                                       |                      |
 |Cluster-transport                             | نقل حشد                                                                      |                      |
+|Cluster                                       | خصلة، عنقود                                                                  |                      |
 |Coalesced sum                                 |                                                                              |                      |
 |Coarse grain                                  | حبً خشن                                                                      |                      |
-|Coax                                          | كبل متحد المحور                                                              |                      |
-|Coaxial                                       | متحد المحور                                                                  |                      |
 |Coaxial cable                                 | موصل محوري                                                                   |                      |
+|Coaxial                                       | متحد المحور                                                                  |                      |
+|Coax                                          | كبل متحد المحور                                                              |                      |
 |Cocktail shaker sort                          | فرز خلاط                                                                     |                      |
 |Code                                          |                                                                              |                      |
 |Codebase                                      | قاعدة شفرة                                                                   |                      |
@@ -734,68 +731,67 @@
 |Collaboration                                 | تعاون                                                                        |                      |
 |Collapse                                      | طي                                                                           |                      |
 |Collate                                       | رزم                                                                          |                      |
-|Collect                                       | التقاط                                                                       |                      |
 |Collection                                    | مجموعة                                                                       |                      |
-|Collision                                     | تصادم                                                                        |                      |
+|Collect                                       | التقاط                                                                       |                      |
 |Collision detection                           | كشف تصادمات                                                                  |                      |
+|Collision                                     | تصادم                                                                        |                      |
 |Colocation                                    | توصيل شبكي                                                                   |                      |
 |Colon                                         | نقطتان                                                                       |                      |
 |Colophon                                      | حرد المتن                                                                    |                      |
-|Color                                         | لون                                                                          |                      |
 |Color chooser                                 | مخيِّر ألوان                                                                 |                      |
-|Color map                                     | مخطط الألوان                                                                 |                      |
 |Colormap                                      | مخطط ألوان                                                                   |                      |
+|Color map                                     | مخطط الألوان                                                                 |                      |
 |Color model                                   | نموذج ألوان                                                                  |                      |
 |Color saturation                              | إشباع ألوان                                                                  |                      |
-|Colour                                        | لون                                                                          |                      |
+|Color                                         | لون                                                                          |                      |
 |Colour depth                                  | عمق ألوان                                                                    |                      |
 |Colour look-up table                          | جدول بحث عن الألوان                                                          |                      |
 |Colour model                                  | نموذج ألوان                                                                  |                      |
 |Colour palette                                | لوحة ألوان                                                                   |                      |
-|Column                                        | عمود                                                                         |                      |
+|Colour                                        | لون                                                                          |                      |
 |Column span                                   |                                                                              |                      |
+|Column                                        | عمود                                                                         |                      |
 |Combination                                   | تجميعة                                                                       |                      |
-|Combinator                                    | دالة توافقية                                                                 |                      |
 |Combinatory logic                             | منطق توافقي                                                                  |                      |
+|Combinator                                    | دالة توافقية                                                                 |                      |
 |Combo box                                     | مربع تحرير وسرد                                                              |                      |
 |Combobox                                      | مربع مركب                                                                    |                      |
-|Comma                                         | فاصلة                                                                        |                      |
-|Command                                       | أمر                                                                          |                      |
 |Command button                                | زر أمر                                                                       |                      |
 |Command interpreter                           | مؤول أوامر                                                                   |                      |
 |Command key                                   | مفتاح أمر                                                                    |                      |
-|Command line                                  | سطر الأوامر                                                                  |                      |
 |Commandline                                   |                                                                              |                      |
 |Command line interface                        | واجهة سطر الأوامر                                                            |                      |
 |Command-line interpreter                      | مؤول سطر أوامر                                                               |                      |
-|Command line option                           | خيار سطر أوامر                                                               |                      |
 |Command line options                          | خيارات سطر الأوامر                                                           |                      |
+|Command line option                           | خيار سطر أوامر                                                               |                      |
+|Command line                                  | سطر الأوامر                                                                  |                      |
 |Command Prompt                                | محث أوامر                                                                    |                      |
+|Command                                       | أمر                                                                          |                      |
 |Comma separated values                        | قيم مفصولة بفواصل                                                            |                      |
-|Comment                                       | تعليق                                                                        |                      |
+|Comma                                         | فاصلة                                                                        |                      |
 |Comment out                                   | إزالة تعليق                                                                  |                      |
+|Comment                                       | تعليق                                                                        |                      |
 |Commercial a                                  | علامة عند                                                                    |                      |
 |Commit                                        | إيداع                                                                        |                      |
-|Common                                        | شائع                                                                         |                      |
 |Common carrier                                | حامل اعتيادي                                                                 |                      |
 |Common factor                                 | عامل مشترك                                                                   |                      |
 |Common properties                             | خصائص عامة                                                                   |                      |
-|Communication                                 | تواصل                                                                        |                      |
+|Common                                        | شائع                                                                         |                      |
 |Communication system                          | نظام اتصال                                                                   |                      |
-|Compact                                       | مُدْمج                                                                       |                      |
+|Communication                                 | تواصل                                                                        |                      |
 |Compact disc                                  | قرص مدمج                                                                     |                      |
 |Compaction                                    | ضغط                                                                          |                      |
 |Compactness preserving                        | حفظ تضام                                                                     |                      |
+|Compact                                       | مُدْمج                                                                       |                      |
 |Company                                       | الشركة                                                                       |                      |
 |Compare                                       | مقارنة                                                                       |                      |
 |Compatibility                                 | توافق                                                                        |                      |
 |Compatible                                    | متوافق                                                                       |                      |
 |Compilation                                   | تصريف                                                                        |                      |
-|Compile                                       | تصريف                                                                        |                      |
-|Compiler                                      | مُصرِّف                                                                      |                      |
 |Compiler compiler                             | مترجم مترجم                                                                  |                      |
+|Compiler                                      | مُصرِّف                                                                      |                      |
+|Compile                                       | تصريف                                                                        |                      |
 |Complement                                    | تكملة                                                                        |                      |
-|Complete                                      | تام                                                                          |                      |
 |Complete graph                                | تخطيطة كاملة                                                                 |                      |
 |Complete inference system                     | نظام استنباط كامل                                                            |                      |
 |Complete lattice                              |                                                                              |                      |
@@ -804,16 +800,17 @@
 |Complete partial ordering                     | ترتيب جزئي كامل                                                              |                      |
 |Complete theory                               | نظرية كمول                                                                   |                      |
 |Complete unification                          | توحيد كامل                                                                   |                      |
-|Complexity                                    | تعقّد                                                                        |                      |
+|Complete                                      | تام                                                                          |                      |
 |Complexity analysis                           | تحليل تعقّد                                                                  |                      |
 |Complexity class                              | صنف تعقد                                                                     |                      |
 |Complexity measure                            | قياس تعقد                                                                    |                      |
+|Complexity                                    | تعقّد                                                                        |                      |
 |Complex number                                | عدد مركّب                                                                    |                      |
 |Complex programmable logic device             | جهاز منطقي معقد قابلة للtranslated                                           |                      |
-|Component                                     | مكوّن                                                                        |                      |
 |Component architecture                        | عمارة مكوّنية                                                                |                      |
 |Component based development                   | تطوير مبنٍ على المكونات                                                      |                      |
 |Component video                               |                                                                              |                      |
+|Component                                     | مكوّن                                                                        |                      |
 |Compose                                       | تركيب                                                                        |                      |
 |Composite                                     |                                                                              |                      |
 |Composite cable                               |                                                                              |                      |
@@ -822,11 +819,11 @@
 |Composition                                   | تركيب                                                                        |                      |
 |Compound command                              | أمر مركب                                                                     |                      |
 |Compound key                                  | مفتاح مركَّب                                                                 |                      |
-|Compress                                      | ضغط                                                                          |                      |
-|Compressed                                    | مضغوط                                                                        |                      |
 |Compressed video                              | مرئية مضغوطة                                                                 |                      |
+|Compressed                                    | مضغوط                                                                        |                      |
 |Compressibilty factor                         | عامل الإنضِغاط                                                               |                      |
 |Compression                                   | ضغط                                                                          |                      |
+|Compress                                      | ضغط                                                                          |                      |
 |Computability theory                          | نظرية تحسيب                                                                  |                      |
 |Computable                                    | قابل للتحسيب                                                                 |                      |
 |Computational complexity                      |                                                                              |                      |
@@ -834,8 +831,6 @@
 |Computational learning                        |                                                                              |                      |
 |Computational molecular biology               | بيولوجيا جزيئية حاسوبية                                                      |                      |
 |Computational organochemistry                 | كيمياء عضوية حاسوبية                                                         |                      |
-|Compute                                       | حساب                                                                         |                      |
-|Computer                                      | حاسوب                                                                        |                      |
 |Computer algebra system                       |                                                                              |                      |
 |Computer cluster                              | عنقود حاسوبي                                                                 |                      |
 |Computer cookie                               | حلوى حاسوب                                                                   |                      |
@@ -849,97 +844,98 @@
 |Computer security                             | أمن الكمبيوتر                                                                |                      |
 |Computer virus                                | فيروس حاسوبي                                                                 |                      |
 |Computer vision                               | بصر حاسوبي                                                                   |                      |
+|Computer                                      | حاسوب                                                                        |                      |
 |Compute server                                | خادم حساب                                                                    |                      |
+|Compute                                       | حساب                                                                         |                      |
 |Computing                                     | حوسبة                                                                        |                      |
 |Computron                                     | حاسوبون                                                                      |                      |
-|Concatenate                                   | لمّ                                                                          |                      |
 |Concatenated key                              | مفتاح ملموم                                                                  |                      |
+|Concatenate                                   | لمّ                                                                          |                      |
 |Concentrator                                  | مركِّز                                                                       |                      |
 |Conceptualisation                             | مفهمة                                                                        |                      |
 |Concrete class                                | فئة محددة                                                                    |                      |
 |Concrete syntax                               | نحو مادي                                                                     |                      |
 |Concurrency                                   | تزامن                                                                        |                      |
-|Concurrent                                    | مرافق، متزامن                                                                |                      |
 |Concurrent processing                         | معالجة منافسة                                                                |                      |
-|Condense                                      | تكثيف                                                                        |                      |
+|Concurrent                                    | مرافق، متزامن                                                                |                      |
 |Condensed                                     | مكثف،موجز                                                                    |                      |
+|Condense                                      | تكثيف                                                                        |                      |
 |Condition                                     |                                                                              |                      |
 |Condition out                                 | تفريغ شرط                                                                    |                      |
 |Conduit                                       | مجرى                                                                         |                      |
 |Cone                                          | مخروط                                                                        |                      |
 |Confidence test                               | اختبار ثقة                                                                   |                      |
 |Confidential                                  | سرّي                                                                         |                      |
-|Configuration                                 | تضبيط                                                                        |                      |
 |Configuration item                            | عنصر تشكيل                                                                   |                      |
 |Configuration management                      |                                                                              |                      |
 |Configuration programming                     | برمجة تشكيل                                                                  |                      |
+|Configuration                                 | تضبيط                                                                        |                      |
 |Configure                                     | ضبط                                                                          |                      |
-|Confirm                                       | تأكيد                                                                        |                      |
 |Confirmation                                  | تأكيد                                                                        |                      |
+|Confirm                                       | تأكيد                                                                        |                      |
 |Conflation                                    |                                                                              |                      |
 |Conflict                                      | تضارب، تناقض                                                                 |                      |
 |Congestion                                    | احتقان                                                                       |                      |
 |Conjunction                                   | اقتران                                                                       |                      |
-|Connect                                       | اتصال                                                                        |                      |
 |Connected graph                               | مبيان متصل                                                                   |                      |
 |Connected subgraph                            | مبيان فرعي متصل                                                              |                      |
-|Connection                                    | اتصال                                                                        |                      |
 |Connectionless protocol                       | ميفاق بدون اتصال                                                             |                      |
-|Connection-oriented                           | موجّه بالاتصال                                                               |                      |
 |Connection-oriented network service           | خدمة شبكية موجّهة بالاتصال                                                   |                      |
+|Connection-oriented                           | موجّه بالاتصال                                                               |                      |
 |Connection pool                               | مَجمع اتصالات                                                                |                      |
+|Connection                                    | اتصال                                                                        |                      |
 |Connective                                    | رابط،إتصالي                                                                  |                      |
 |Connectors                                    |                                                                              |                      |
+|Connect                                       | اتصال                                                                        |                      |
 |Conservative evaluation                       | تقييم محافظ                                                                  |                      |
 |Consistently complete                         |                                                                              |                      |
 |Console                                       | كونسول                                                                       |                      |
 |Consolidate                                   | توطيد، تدعيم                                                                 |                      |
-|Constant                                      | ثابت                                                                         |                      |
 |Constant angular velocity                     | سرعة زاوية ثابتة                                                             |                      |
 |Constant applicative form                     | شكل تطبيقي ثابت                                                              |                      |
 |Constant folding                              | طي ثابت                                                                      |                      |
 |Constant linear velocity                      | سرعة خطية ثابتة                                                              |                      |
 |Constant mapping                              |                                                                              |                      |
-|Constraint                                    | قيد،قسْر                                                                     |                      |
+|Constant                                      | ثابت                                                                         |                      |
 |Constraint functional programming             | برمجة وظيفية قيدية                                                           |                      |
 |Constraint satisfaction                       | إرضاء قيود                                                                   |                      |
+|Constraint                                    | قيد،قسْر                                                                     |                      |
 |Constructed type                              | نوع مبني                                                                     |                      |
-|Constructive                                  | بنائي                                                                        |                      |
 |Constructive solid geometry                   | هندسة صلبة بنائية                                                            |                      |
+|Constructive                                  | بنائي                                                                        |                      |
 |Constructor                                   | باني                                                                         |                      |
 |Consultant                                    | مستشار                                                                       |                      |
-|Contact                                       | مراسل                                                                        |                      |
 |Contact (noun)                                | معرفة                                                                        |                      |
 |Contact (verb)                                | اتصال                                                                        |                      |
-|Container                                     | حاوية                                                                        |                      |
+|Contact                                       | مراسل                                                                        |                      |
 |Container class                               | صنف واعٍ                                                                     |                      |
-|Content                                       | محتوى                                                                        |                      |
+|Container                                     | حاوية                                                                        |                      |
 |Content addressable memory                    | ذاكرة ذات محتوى قابل للقصد                                                   |                      |
 |Content-based information retrieval           | سحب معلومات مبن على المحتوى                                                  |                      |
 |Contention slot                               | مهلة تنازع                                                                   |                      |
-|Context                                       | سياق                                                                         |                      |
+|Content                                       | محتوى                                                                        |                      |
 |Context clash                                 | تعارض سياق                                                                   |                      |
-|Context-free                                  | مستقل عن السياق                                                              |                      |
 |Context-free grammar                          | نحو مستقل عن السياق                                                          |                      |
+|Context-free                                  | مستقل عن السياق                                                              |                      |
 |Context object                                | كائن سياق                                                                    |                      |
 |Context operator                              | عامل سياق                                                                    |                      |
-|Context-sensitive                             | متأثر بالسياق                                                                |                      |
 |Context-sensitive menu                        | قائمة خيارات متأثرة بالسياق                                                  |                      |
+|Context-sensitive                             | متأثر بالسياق                                                                |                      |
 |Context switch                                | تبديل سياق                                                                   |                      |
 |Contextual menu                               | قائمة خيارات سياقية                                                          |                      |
-|Continuation                                  | استمرار، متابعة (برمجة دوال)، اتصال (دالة)                                   |                      |
+|Context                                       | سياق                                                                         |                      |
 |Continuation passing style                    | أسلوب تمريرِ متابعة                                                          |                      |
+|Continuation                                  | استمرار، متابعة (برمجة دوال)، اتصال (دالة)                                   |                      |
 |Continue                                      | استمرار                                                                      |                      |
-|Continuous                                    | مستمر، متصل (دالة، خط)، متواصل                                               |                      |
 |Continuous function                           | دالة متصلة                                                                   |                      |
 |Continuous wave                               | موجة متصلة                                                                   |                      |
+|Continuous                                    | مستمر، متصل (دالة، خط)، متواصل                                               |                      |
 |Contour                                       | محيط                                                                         |                      |
 |Contraction                                   | تقليص                                                                        |                      |
 |Contract programmer                           | مبرمج تحت عقد                                                                |                      |
 |Contrast                                      | تباين                                                                        |                      |
 |Contribution                                  | مساهمة                                                                       |                      |
 |Contributor                                   | مساهِم                                                                       |                      |
-|Control                                       | تحكّم                                                                        |                      |
 |Control code                                  | رمز تحكم                                                                     |                      |
 |Control file                                  | ملف تحكم                                                                     |                      |
 |Control flow                                  |                                                                              |                      |
@@ -947,42 +943,43 @@
 |Control point                                 | نُقطة التحكم                                                                 |                      |
 |Control structure                             | بنية تحكم                                                                    |                      |
 |Control unit                                  | وحدة تحكم                                                                    |                      |
+|Control                                       | تحكّم                                                                        |                      |
 |Conventional memory                           | ذاكرة اصطلاحية                                                               |                      |
-|Converge                                      | يحتشد                                                                        |                      |
 |Convergence                                   | إحتشاد                                                                       |                      |
+|Converge                                      | يحتشد                                                                        |                      |
 |Conversation                                  | محادثة                                                                       |                      |
 |Converse                                      | تحويل، عكس (منطق)                                                            |                      |
-|Conversion                                    | تحويل                                                                        |                      |
 |Conversion to iteration                       | تحويل إلى التكرار                                                            |                      |
-|Convert                                       | تحويل                                                                        |                      |
+|Conversion                                    | تحويل                                                                        |                      |
 |Converting                                    | تحويل                                                                        |                      |
+|Convert                                       | تحويل                                                                        |                      |
 |Convex hull                                   |                                                                              |                      |
 |Cooccurrence matrix                           |                                                                              |                      |
 |Cookie                                        | كعكة                                                                         |                      |
-|Cooperative                                   | جماعي                                                                        |                      |
 |Cooperative multitasking                      | تعدد المهام التعاونيً                                                        |                      |
+|Cooperative                                   | جماعي                                                                        |                      |
 |Coordinate                                    | تنسيق                                                                        |                      |
 |Coordination language                         | لغة تنسيق                                                                    |                      |
 |Coprocessor                                   | معالج مساعد                                                                  |                      |
 |Coproduct                                     | منتوج جانبي                                                                  |                      |
-|Copy                                          | ينسخ                                                                         |                      |
 |Copy and paste                                | إنسخ وألصق                                                                   |                      |
 |Copying garbage collection                    |                                                                              |                      |
-|Copy left                                     | النسخ للجميع                                                                 |                      |
 |Copyleft                                      |                                                                              |                      |
+|Copy left                                     | النسخ للجميع                                                                 |                      |
 |Copy (noun)                                   | نسخ                                                                          |                      |
 |Copy protection                               | حماية النسخ، حماية من النسخ                                                  |                      |
 |Copy right                                    |                                                                              |                      |
-|Copyright                                     | حقوق النشر، محفوظ الحقوق                                                     |                      |
 |Copyrighted                                   | محفوظ الحقوق                                                                 |                      |
+|Copyright                                     | حقوق النشر، محفوظ الحقوق                                                     |                      |
 |Copy (verb)                                   | نسخة                                                                         |                      |
+|Copy                                          | ينسخ                                                                         |                      |
 |CORBA                                         | كوربا                                                                        |                      |
-|Core                                          | لُب                                                                          |                      |
 |Core class                                    | فئة باطنية                                                                   |                      |
 |Core dump                                     | تفريغ الباطن                                                                 |                      |
 |Core file                                     | ملف باطني                                                                    |                      |
 |Core gateway                                  |                                                                              |                      |
 |Core leak                                     |                                                                              |                      |
+|Core                                          | لُب                                                                          |                      |
 |Corner                                        | زاوِيَة                                                                      |                      |
 |Corollary                                     |                                                                              |                      |
 |Corporate                                     |                                                                              |                      |
@@ -992,33 +989,33 @@
 |Correspondence                                | تلاؤم                                                                        |                      |
 |Correspondent                                 | موائم، متوائم                                                                |                      |
 |Corrupt                                       | فاسد                                                                         |                      |
-|Cos                                           | جتا                                                                          |                      |
-|Cost                                          | كلفة                                                                         |                      |
 |Cost control callback                         |                                                                              |                      |
-|Count                                         | تَعْداد                                                                      |                      |
+|Cost                                          | كلفة                                                                         |                      |
+|Cos                                           | جتا                                                                          |                      |
 |Countable                                     | قابل للتعداد                                                                 |                      |
 |Counted                                       | معدود                                                                        |                      |
 |Counting records                              | تسجيلات العدً                                                                |                      |
 |Country code                                  | رمز البلد                                                                    |                      |
+|Count                                         | تَعْداد                                                                      |                      |
 |Coupling                                      |                                                                              |                      |
 |Coupon                                        |                                                                              |                      |
 |Courseware                                    |                                                                              |                      |
 |Covariance                                    |                                                                              |                      |
 |CPU                                           | معالج                                                                        |                      |
 |Crack                                         |                                                                              |                      |
-|Crash                                         | انهيار                                                                       |                      |
 |Crash dump                                    | تفريغ إنهياري                                                                |                      |
+|Crash                                         | انهيار                                                                       |                      |
 |Crawler                                       | زاحف،داب                                                                     |                      |
 |Create                                        | إنشاء                                                                        |                      |
 |Creation                                      | إنشاء                                                                        |                      |
-|Credential                                    | إعتماد                                                                       |                      |
 |Credential cache                              | خابية إعتمادية                                                               |                      |
+|Credential                                    | إعتماد                                                                       |                      |
 |Credits                                       | إشادات                                                                       |                      |
 |Creeping featurism                            | إسهال الميزات                                                                |                      |
 |Crisp                                         | مُتَقَصِّف                                                                   |                      |
 |Critereon                                     |                                                                              |                      |
-|Criteria                                      | معيار                                                                        |                      |
 |Criteria range                                | مجال المواصفات                                                               |                      |
+|Criteria                                      | معيار                                                                        |                      |
 |Criterion                                     | مِحك                                                                         |                      |
 |Critical error                                | خطأ حرج                                                                      |                      |
 |Critical section                              | جِزء حرِج                                                                    |                      |
@@ -1039,10 +1036,10 @@
 |Cruft                                         |                                                                              |                      |
 |Cruft together                                |                                                                              |                      |
 |Crumb                                         |                                                                              |                      |
-|Crypt                                         | تشفير                                                                        |                      |
 |Cryptanalysis                                 | تحليل التعمية                                                                |                      |
 |Cryptography                                  | علم التعمية                                                                  |                      |
 |Cryptology                                    | علم التشفير                                                                  |                      |
+|Crypt                                         | تشفير                                                                        |                      |
 |CSS                                           | CSS                                                                          |                      |
 |Ctrl                                          | Ctrl                                                                         |                      |
 |Cube                                          | مكعّب                                                                        |                      |
@@ -1050,25 +1047,25 @@
 |Cumulative                                    | تراكمي                                                                       |                      |
 |CUPS                                          |                                                                              |                      |
 |Curly bracket                                 |                                                                              |                      |
-|Current                                       | حالي                                                                         |                      |
 |Current directory                             | الدليل الحالي                                                                |                      |
 |Current session                               | الجلسة الحالية                                                               |                      |
 |Current working                               | الأعمال الجارية، الأشغال الجارية                                             |                      |
+|Current                                       | حالي                                                                         |                      |
 |Curried function                              |                                                                              |                      |
 |Currying                                      |                                                                              |                      |
-|Cursor                                        | مُؤشر (الفأرة)                                                               |                      |
 |Cursor keys                                   |                                                                              |                      |
 |Cursor plane                                  | سطح المنزلق                                                                  |                      |
+|Cursor                                        | مُؤشر (الفأرة)                                                               |                      |
 |Curve                                         | منحنية                                                                       |                      |
-|Custom                                        | مخصص                                                                         |                      |
 |Customization                                 | تخصيص                                                                        |                      |
 |Customize                                     |                                                                              |                      |
 |Custom window                                 | النافذة الإصطلاحية                                                           |                      |
-|Cut                                           | قص                                                                           |                      |
+|Custom                                        | مخصص                                                                         |                      |
 |Cut and paste                                 | قص والصق                                                                     |                      |
 |Cut buffer                                    | صِوان القصً                                                                  |                      |
 |Cutover                                       |                                                                              |                      |
 |Cut-through switching                         |                                                                              |                      |
+|Cut                                           | قص                                                                           |                      |
 |Cyber                                         |                                                                              |                      |
 |Cyberbunny                                    |                                                                              |                      |
 |Cybercafe                                     |                                                                              |                      |
@@ -1076,27 +1073,26 @@
 |Cyberspace                                    |                                                                              |                      |
 |Cyber-squatting                               |                                                                              |                      |
 |Cyborg                                        |                                                                              |                      |
-|Cycle                                         | دورة                                                                         |                      |
 |Cyclebabble                                   |                                                                              |                      |
 |Cycle crunch                                  |                                                                              |                      |
 |Cycle drought                                 |                                                                              |                      |
 |Cycle of reincarnation                        | دورة التناسخ                                                                 |                      |
 |Cycle server                                  |                                                                              |                      |
+|Cycle                                         | دورة                                                                         |                      |
 |Cyclic redundancy check                       | تدقيق دوري عن الأخطاء                                                        |                      |
 |Cyclic redundancy code                        |                                                                              |                      |
 |Cyclomatic complexity                         |                                                                              |                      |
 |Cylinder                                      | اسطوانة                                                                      |                      |
+|C                                             | سي                                                                           |                      |
 |Daemon                                        |                                                                              |                      |
 |Daisy chain                                   | سلسلة تعاقبيّة                                                               |                      |
 |Daisywheel printer                            |                                                                              |                      |
 |Damage                                        | ضرر                                                                          |                      |
 |Dangling pointer                              | مؤشر مدلًى                                                                   |                      |
-|Dash                                          | شَرطة                                                                        |                      |
 |Dashboard                                     |                                                                              |                      |
-|Data                                          | بيانات                                                                       |                      |
+|Dash                                          | شَرطة                                                                        |                      |
 |Data abstraction                              | تَجريد البيانات                                                              |                      |
 |Data acquisition                              | تحصيل (استحصال) معطيات                                                       |                      |
-|Database                                      | قاعدة بيانات                                                                 |                      |
 |Database administrator                        | مدير قاعدة معطيات                                                            |                      |
 |Database analyst                              | محلل قاعدة معطيات                                                            |                      |
 |Database machine                              | مكنة قاعدة معطيات                                                            |                      |
@@ -1105,19 +1101,20 @@
 |Database normalisation                        |                                                                              |                      |
 |Database query language                       | لغة استعلام قواعد البيانات                                                   |                      |
 |Database server                               | خادم قاعدة معطيات                                                            |                      |
+|Database                                      | قاعدة بيانات                                                                 |                      |
 |Data bus                                      | ناقل البيانات                                                                |                      |
 |Datacenter manager                            | مدير مركز البيانات                                                           |                      |
 |Data channel                                  | قناة البيانات                                                                |                      |
 |Data communications analyst                   | محلل مواصلات المعطيات                                                        |                      |
 |Data compression                              | ضغط بيانات                                                                   |                      |
 |Data connection                               |                                                                              |                      |
-|Data dictionary                               | قاموس بيانات                                                                 |                      |
 |Data dictionary file                          | ملف قاموس بيانات                                                             |                      |
+|Data dictionary                               | قاموس بيانات                                                                 |                      |
 |Data driven                                   | مُساق من البيانات                                                            |                      |
-|Data flow                                     | تدفّق البيانات                                                               |                      |
-|Dataflow                                      | تدفًق بيانات                                                                 |                      |
 |Data flow analysis                            | تحليل تدفًق بيانات                                                           |                      |
 |Data flow diagram                             | مخطًط تدفق البيانات                                                          |                      |
+|Data flow                                     | تدفّق البيانات                                                               |                      |
+|Dataflow                                      | تدفًق بيانات                                                                 |                      |
 |Data fork                                     | تشعًب معطيات                                                                 |                      |
 |Data frame                                    | إطار قاعدة معطيات                                                            |                      |
 |Data glove                                    | قفاز بيانات                                                                  |                      |
@@ -1131,100 +1128,101 @@
 |Data logging                                  |                                                                              |                      |
 |Data mart                                     | سوق قاعدة معطيات                                                             |                      |
 |Data mining                                   | أستغلال البيانات                                                             |                      |
-|Data model                                    | نموذج المعطيات                                                               |                      |
 |Data modeling                                 | نمذجة المعطيات                                                               |                      |
 |Data modelling                                | نمذجة المعطيات                                                               |                      |
+|Data model                                    | نموذج المعطيات                                                               |                      |
 |Data packet                                   | رزمة بيانات                                                                  |                      |
 |Data path                                     | مسار بيانات                                                                  |                      |
 |Data processing                               | معالجة البيانات                                                              |                      |
 |Data rate                                     | معدل نقل البيانات                                                            |                      |
 |Data segment                                  | قطعة بيانات                                                                  |                      |
-|Data service                                  | خدمة بيانات                                                                  |                      |
 |Data service unit                             | وحدة خدمة البيانات                                                           |                      |
-|Data set                                      | مجموعة بيانات                                                                |                      |
+|Data service                                  | خدمة بيانات                                                                  |                      |
 |Dataset                                       |                                                                              |                      |
 |Data set organization                         | تنظيم مجموعة البيانات                                                        |                      |
+|Data set                                      | مجموعة بيانات                                                                |                      |
 |Data striping                                 |                                                                              |                      |
 |Data structure                                | بنية البيانات                                                                |                      |
 |Data transfer bus                             | مسرى نقل المعطيات                                                            |                      |
 |Data transfer rate                            | معدّل نقل البيانات                                                           |                      |
-|Data type                                     | نوع البيانات                                                                 |                      |
 |Datatype definition                           | تعريف نوع المعطيات                                                           |                      |
+|Data type                                     | نوع البيانات                                                                 |                      |
 |Data unit                                     | وحدة بيانات                                                                  |                      |
 |Data warehouse                                | مخزن معطيات                                                                  |                      |
 |Data warehousing                              | خزن المعطيات                                                                 |                      |
+|Data                                          | بيانات                                                                       |                      |
 |Date                                          | تاريخ                                                                        |                      |
 |Datum                                         | معطى                                                                         |                      |
-|Daughter                                      | سليلة                                                                        |                      |
 |Daughterboard                                 | لوحة سليلة                                                                   |                      |
 |Daughtercard                                  | بطاقة سليلة                                                                  |                      |
-|Day                                           | يوم                                                                          |                      |
+|Daughter                                      | سليلة                                                                        |                      |
 |Day mode                                      | نهاري النمط                                                                  |                      |
+|Day                                           | يوم                                                                          |                      |
 |Deactivate                                    | بطّل                                                                         |                      |
-|Dead                                          | عاطل، ميت                                                                    |                      |
 |Dead code                                     |                                                                              |                      |
 |Deadlock                                      | أزمة،مأزق                                                                    |                      |
 |Deadly embrace                                |                                                                              |                      |
+|Dead                                          | عاطل، ميت                                                                    |                      |
 |Dealer                                        | مُتَّجِر                                                                     |                      |
 |Death code                                    |                                                                              |                      |
 |Deb                                           |                                                                              |                      |
 |Debianize                                     | دَبيَنة                                                                      |                      |
-|Debug                                         | تنقيح                                                                        |                      |
 |Debugger                                      | منقّح                                                                        |                      |
 |Debugging                                     |                                                                              |                      |
+|Debug                                         | تنقيح                                                                        |                      |
 |Decay                                         | تضاؤل                                                                        |                      |
 |Dechunker                                     |                                                                              |                      |
 |Decidability                                  |                                                                              |                      |
 |Decidable                                     |                                                                              |                      |
-|Decimal                                       | عشري                                                                         |                      |
 |Decimal point                                 | فاصل عُشري                                                                   |                      |
+|Decimal                                       | عشري                                                                         |                      |
 |Decision problem                              | مشكلة قرار                                                                   |                      |
-|Decision support                              | دعم قرار                                                                     |                      |
 |Decision support database                     | قاعدة بيانات دعم القرار، قاعدة معلومات دعم القرار                            |                      |
+|Decision support                              | دعم قرار                                                                     |                      |
 |Decision theory                               | نظرية القرار                                                                 |                      |
 |Declaration                                   | إبلاغ، علانية                                                                |                      |
 |Declarative language                          | لغة تقريرية                                                                  |                      |
 |Declare                                       | إدلاء،إعلان                                                                  |                      |
-|Decode                                        | فك ترميز                                                                     |                      |
 |Decoder                                       |                                                                              |                      |
+|Decode                                        | فك ترميز                                                                     |                      |
 |Decompress                                    | فك ضغط                                                                       |                      |
 |Decorative                                    | زخرفي                                                                        |                      |
 |Decrease                                      | تخفيض،تخفيف،تقليل                                                            |                      |
-|Decrypt                                       | فَك التعمية                                                                  |                      |
 |Decryption                                    | فك تشفير                                                                     |                      |
+|Decrypt                                       | فَك التعمية                                                                  |                      |
 |Dedicated line                                | خطً مُكرًس                                                                   |                      |
 |Deductive database                            | قاعدة معطيات إستنتاجية                                                       |                      |
 |Deductive tableau                             | لوح إستنتاجي                                                                 |                      |
-|Deep                                          | غميق                                                                         |                      |
 |Deep magic                                    |                                                                              |                      |
+|Deep                                          | غميق                                                                         |                      |
 |De facto standard                             | معيار فعلي،معيار واقعي                                                       |                      |
-|Default                                       | مبدئي                                                                        |                      |
 |Default master                                |                                                                              |                      |
 |Default route                                 |                                                                              |                      |
-|Defect                                        | عيب                                                                          |                      |
+|Default                                       | مبدئي                                                                        |                      |
 |Defect analysis                               | تحليل العلًة                                                                 |                      |
 |Defect density                                | كثافة العلل                                                                  |                      |
+|Defect                                        | عيب                                                                          |                      |
 |Deferral                                      | إِرْجاء                                                                      |                      |
 |Define                                        | تعريف، تحديد                                                                 |                      |
 |Definite clause                               |                                                                              |                      |
 |Definite sentence                             |                                                                              |                      |
-|Definition                                    | تعريف                                                                        |                      |
 |Definitional constraint programming           |                                                                              |                      |
-|Deflate                                       | منكمش                                                                        |                      |
+|Definition                                    | تعريف                                                                        |                      |
 |Deflate compression                           | ضغط منكمش                                                                    |                      |
+|Deflate                                       | منكمش                                                                        |                      |
 |Deforestation                                 | إجتثاث الغابة،إزالة الغابة                                                   |                      |
 |Defragment                                    | إزالة التشظية                                                                |                      |
 |Defunct process                               | إجراء ميت،إجراء فان                                                          |                      |
-|Degree                                        | درجة                                                                         |                      |
-|Degrees                                       | درجات                                                                        |                      |
 |Degrees of freedom                            | درجات الحرية                                                                 |                      |
+|Degrees                                       | درجات                                                                        |                      |
+|Degree                                        | درجة                                                                         |                      |
 |Deinstallation                                | إزالة التثبيت،فك التثبيت                                                     |                      |
 |Deinterlace                                   |                                                                              |                      |
 |Dejagging                                     |                                                                              |                      |
-|Delay                                         | مهلة، تأخير                                                                  |                      |
 |Delayed control-transfer                      |                                                                              |                      |
 |Delay instruction                             |                                                                              |                      |
 |Delay slot                                    |                                                                              |                      |
+|Delay                                         | مهلة، تأخير                                                                  |                      |
 |Delegation                                    | بعثة، نيابة                                                                  |                      |
 |Delete                                        | حذف                                                                          |                      |
 |Deletia                                       |                                                                              |                      |
@@ -1232,19 +1230,19 @@
 |Delimiter                                     | مُحِد                                                                        |                      |
 |Deliverable                                   | مُسْتَلَم                                                                    |                      |
 |Delivery                                      | تسليم                                                                        |                      |
-|Delta                                         | دَال                                                                         |                      |
 |Delta conversion                              |                                                                              |                      |
 |Delta reduction                               |                                                                              |                      |
-|Demand                                        | ألضرورة،المطلب                                                               |                      |
+|Delta                                         | دَال                                                                         |                      |
 |Demand driven                                 | منساق بلضرورة                                                                |                      |
 |Demand paged                                  | صفحيً الضرورة                                                                |                      |
 |Demand paging                                 |                                                                              |                      |
-|Demo                                          | عرض                                                                          |                      |
+|Demand                                        | ألضرورة،المطلب                                                               |                      |
 |Demodulate                                    | فكً الترنيم،كشف الترنيم                                                      |                      |
 |Demodulation                                  | كشف الترنيم                                                                  |                      |
 |Demo mode                                     | نمط العرض التوضيحي                                                           |                      |
 |Demote                                        | حط من الرتبة                                                                 |                      |
 |Demo version                                  | اصدارة العرض التوضيحي                                                        |                      |
+|Demo                                          | عرض                                                                          |                      |
 |Denominator                                   | قاسم                                                                         |                      |
 |Denotational semantics                        |                                                                              |                      |
 |Deny                                          | رفض                                                                          |                      |
@@ -1254,90 +1252,88 @@
 |Dependancy                                    |                                                                              |                      |
 |Dependence                                    | تبعية، ارتباط                                                                |                      |
 |Dependency                                    | اعتمادية                                                                     |                      |
-|Deprecate                                     | أدان                                                                         |                      |
 |Deprecated                                    | مهجور                                                                        |                      |
+|Deprecate                                     | أدان                                                                         |                      |
 |Deprecation                                   | إِدَانَة                                                                     |                      |
-|Depth                                         | عمق                                                                          |                      |
 |Depth-first search                            | البحث بالعمق أولا                                                            |                      |
+|Depth                                         | عمق                                                                          |                      |
 |Dereference                                   |                                                                              |                      |
 |Derivative                                    | مشتق                                                                         |                      |
-|Derived                                       | مُشتق                                                                        |                      |
 |Derived class                                 | فئة مشتقة                                                                    |                      |
 |Derived type                                  | نوع مشتق                                                                     |                      |
+|Derived                                       | مُشتق                                                                        |                      |
 |Desaturate                                    |                                                                              |                      |
 |Descender                                     | مخسوف،هابط                                                                   |                      |
-|Descending                                    | تناقصي                                                                       |                      |
 |Descending sort                               | ترتيب تنازلي                                                                 |                      |
+|Descending                                    | تناقصي                                                                       |                      |
 |Descent function                              |                                                                              |                      |
 |Description                                   | الوصف                                                                        |                      |
 |Descriptor                                    | واصف                                                                         |                      |
 |Deselect                                      | عدم انتقاء                                                                   |                      |
-|Design                                        | تصميم                                                                        |                      |
 |Design pattern                                |                                                                              |                      |
 |Design recovery                               |                                                                              |                      |
-|Desk                                          | مِنضدة،مكتب                                                                  |                      |
+|Design                                        | تصميم                                                                        |                      |
 |Desk check                                    | فحص مكتبي                                                                    |                      |
 |Deskside                                      | جانب المنضدة،جانب المكتب                                                     |                      |
-|Desktop                                       | سطح مكتب                                                                     |                      |
 |Desktop background                            | خلفية سطح المكتب                                                             |                      |
 |Desktop database                              | قاعدة بيانات سطح المكتب                                                      |                      |
 |Desktop environment                           | محيط سطح المكتب                                                              |                      |
 |Desktop manager                               |                                                                              |                      |
 |Desktop publisher                             | محرر سطح المكتب                                                              |                      |
 |Desktop publishing                            | نشر عبر سطح المكتب                                                           |                      |
+|Desktop                                       | سطح مكتب                                                                     |                      |
+|Desk                                          | مِنضدة،مكتب                                                                  |                      |
 |Destination                                   | مقصد                                                                         |                      |
 |Destroy                                       | تدمير                                                                        |                      |
 |Destructor                                    | مبيد،متلف                                                                    |                      |
 |Detach                                        | نزع                                                                          |                      |
 |Detail                                        | تفاصيل                                                                       |                      |
-|Detect                                        | كشف                                                                          |                      |
 |Detection                                     | اكتشاف                                                                       |                      |
 |Detective                                     | كاشف                                                                         |                      |
+|Detect                                        | كشف                                                                          |                      |
 |Deterministic                                 |                                                                              |                      |
 |Deterministic automaton                       |                                                                              |                      |
 |Devel                                         |                                                                              |                      |
-|Develop                                       | طوّر                                                                         |                      |
 |Developement                                  | تطوير                                                                        |                      |
 |Developer                                     | مطوِّر                                                                       |                      |
-|Development                                   | تطوير                                                                        |                      |
 |Development environment                       | محيط التطوير                                                                 |                      |
-|Device                                        | جهاز                                                                         |                      |
+|Development                                   | تطوير                                                                        |                      |
+|Develop                                       | طوّر                                                                         |                      |
 |Device-dependent                              | خاضع للتجهيزة                                                                |                      |
 |Device driver                                 |                                                                              |                      |
 |Device group                                  | مجموعة جهاز،مجموعة تجهيزات                                                   |                      |
-|Device-independent                            | إستقلالي من التجهيزة                                                         |                      |
 |Device independent bitmap                     |                                                                              |                      |
+|Device-independent                            | إستقلالي من التجهيزة                                                         |                      |
 |Device name                                   | اسم الجهاز                                                                   |                      |
 |Device number                                 | رقم الجهاز                                                                   |                      |
+|Device                                        | جهاز                                                                         |                      |
 |Diacritic                                     |                                                                              |                      |
-|Diagonal                                      | قطري                                                                         |                      |
 |Diagonal line                                 | خط قطري                                                                      |                      |
+|Diagonal                                      | قطري                                                                         |                      |
 |Diagram                                       | خطاطة                                                                        |                      |
-|Dial                                          | هتف                                                                          |                      |
 |Dialer                                        |                                                                              |                      |
-|Dialog                                        | حوار                                                                         |                      |
 |Dialog box                                    | مربع حوار                                                                    |                      |
+|Dialog                                        | حوار                                                                         |                      |
 |Dialout Device                                | جهاز الإدخال                                                                 |                      |
+|Dial-up link                                  |                                                                              |                      |
+|Dial-up login                                 | تسجيل دخول هتفي                                                                    |   ابل |
 |Dial-up                                       | طلب هاتفي                                                                    |                      |
 |Dialup                                        | مهاتفة، هاتفي                                                                |                      |
-|Dial-up link                                  |                                                                              |                      |
-|Dial-up login                                 | ولوج هتفي                                                                    |                      |
+|Dial                                          | هتف                                                                          |                      |
 |Diameter                                      | قُطر                                                                         |                      |
-|Diamond                                       | الماس                                                                        |                      |
 |Diamond key                                   | مفتاح ماسيً                                                                  |                      |
+|Diamond                                       | الماس                                                                        |                      |
 |Dictate                                       | يفرض                                                                         |                      |
 |Dictionary                                    | قاموس                                                                        |                      |
-|Difference                                    | فارق،خلاف                                                                    |                      |
 |Difference equation                           | معادلة فارق                                                                  |                      |
-|Differential                                  | تفاضلي                                                                       |                      |
+|Difference                                    | فارق،خلاف                                                                    |                      |
 |Differential backup                           | نسخ احتياطي تفاضلي                                                           |                      |
 |Differential driver                           |                                                                              |                      |
 |Differential line                             | خطً تفاضلي                                                                   |                      |
+|Differential                                  | تفاضلي                                                                       |                      |
 |Diges                                         |                                                                              |                      |
 |Digest                                        | خلاصة                                                                        |                      |
 |Digi-                                         |                                                                              |                      |
-|Digit                                         | رقم                                                                          |                      |
-|Digital                                       | رقمي                                                                         |                      |
 |Digital audio                                 | صوت رقمي                                                                     |                      |
 |Digital camera                                | كمرة رقمية، آلة تصوير رقمية                                                  |                      |
 |Digital carrier                               | حامل رقمي،ناقل رقمي                                                          |                      |
@@ -1352,10 +1348,12 @@
 |Digital service unit                          | وحدة الخدمة الرقمية                                                          |                      |
 |Digital signature                             | توقيع رقمي                                                                   |                      |
 |Digital versatile disc                        | قرص رقمي بارع                                                                |                      |
+|Digital                                       | رقمي                                                                         |                      |
 |Digitize                                      | رقمنة                                                                        |                      |
 |Digits                                        | ارقام                                                                        |                      |
-|Dimension                                     | بُعد،قياس                                                                    |                      |
+|Digit                                         | رقم                                                                          |                      |
 |Dimensioning                                  | تعريف أو تثبيت الأبعاد                                                       |                      |
+|Dimension                                     | بُعد،قياس                                                                    |                      |
 |Dingbat                                       | محرف تزييني                                                                  |                      |
 |Diode                                         | صمًام ثنائي                                                                  |                      |
 |Diplex                                        |                                                                              |                      |
@@ -1363,34 +1361,33 @@
 |Directed graph                                | مخطوط موجه                                                                   |                      |
 |Directed set                                  | زمرة موجًهة                                                                  |                      |
 |Direct graphic                                | رسوميات مباشرة،بيانات مباشرة                                                 |                      |
-|Direction                                     | اتجاه                                                                        |                      |
 |Directional coupler                           |                                                                              |                      |
+|Direction                                     | اتجاه                                                                        |                      |
 |Directive                                     | أمر توجيهي                                                                   |                      |
 |Direct mapped cache                           | خابية مباشرة التخطيط                                                         |                      |
 |Direct memory                                 | ذاكرة مباشرة                                                                 |                      |
-|Directory                                     | دليل                                                                         |                      |
 |Directory service                             | خدمة الدليل،خدمة المجلًد                                                     |                      |
 |Directory stack                               | رُكام الدليل،ركام المجلد،تكوم الدليل                                         |                      |
+|Directory                                     | دليل                                                                         |                      |
 |Direct virtual                                |                                                                              |                      |
 |Dirty                                         | وسخ،بذيء                                                                     |                      |
 |Disable                                       | تعطيل                                                                        |                      |
 |Disassemble                                   | فِكً،إخلع                                                                    |                      |
 |Disassembly                                   | فَكً،خلع                                                                     |                      |
-|Disc                                          | قرص                                                                          |                      |
 |Discard                                       | نَبَذَ                                                                       |                      |
 |Disc drive                                    |                                                                              |                      |
 |Disclaimer                                    | إِخلاء مسؤولية                                                               |                      |
-|Disconnect                                    | قطع اتصال                                                                    |                      |
 |Disconnected                                  | مخلوع،مفكك،مقطوع                                                             |                      |
-|Discrete                                      | منفصل،متقطع                                                                  |                      |
+|Disconnect                                    | قطع اتصال                                                                    |                      |
 |Discrete cosine transform                     |                                                                              |                      |
 |Discrete Fourier transform                    | تحويلة "فوريه" المتقطعة                                                      |                      |
 |Discrete preorder                             |                                                                              |                      |
+|Discrete                                      | منفصل،متقطع                                                                  |                      |
 |Discriminated union                           | إتحاد متقطًع                                                                 |                      |
-|Discussion                                    | حوار                                                                         |                      |
 |Discussion group                              | مجموعة تجادل،مجموعة تناقش                                                    |                      |
+|Discussion                                    | حوار                                                                         |                      |
+|Disc                                          | قرص                                                                          |                      |
 |Disjoint union                                | إتحاد منفصل،إتحاد مخلوع المفصل                                               |                      |
-|Disk                                          | قرص                                                                          |                      |
 |Disk array                                    | رصف أقراص                                                                    |                      |
 |Disk controller                               | مراقب القرص                                                                  |                      |
 |Disk device group                             | مجموعة أداة القرص                                                            |                      |
@@ -1404,55 +1401,55 @@
 |Disk operating system                         | نظام تشغيل من القرص                                                          |                      |
 |Disk path                                     | مسار قرص                                                                     |                      |
 |Disk striping                                 |                                                                              |                      |
+|Disk                                          | قرص                                                                          |                      |
 |Disman                                        |                                                                              |                      |
 |Dismiss                                       | عزل،إبعاد                                                                    |                      |
 |Dispatch                                      | إيفاد                                                                        |                      |
-|Display                                       | عرض                                                                          |                      |
 |Display device                                | جهاز العرض                                                                   |                      |
 |Display Manager                               |                                                                              |                      |
 |Display Report                                |                                                                              |                      |
 |Display report                                | اعرض التقرير                                                                 |                      |
 |Display standard                              |                                                                              |                      |
 |Display terminal                              | مطراف عرض                                                                    |                      |
+|Display                                       | عرض                                                                          |                      |
 |Dissertation                                  | أطروحة، مبحث                                                                 |                      |
 |Dissipation                                   | تبدُّد                                                                       |                      |
 |Dissolve                                      | إذابة                                                                        |                      |
 |Distance                                      | فارق،فاصل، مسافة                                                             |                      |
 |Distinct                                      | مميز                                                                         |                      |
 |Distort                                       | تشوه، التواء                                                                 |                      |
-|Distribute                                    | وزّع                                                                         |                      |
-|Distributed                                   | موزع                                                                         |                      |
 |Distributed computing                         |                                                                              |                      |
 |Distributed database                          | قاعدة بيانات موزعة                                                           |                      |
 |Distributed file                              | ملف موزع                                                                     |                      |
 |Distributed memory                            | ذاكرة موزعة                                                                  |                      |
-|Distributed system                            | نظام موزع                                                                    |                      |
 |Distributed systems                           | الأنظمة الموزعة                                                              |                      |
-|Distribution                                  | توزيعة                                                                       |                      |
+|Distributed system                            | نظام موزع                                                                    |                      |
+|Distributed                                   | موزع                                                                         |                      |
+|Distribute                                    | وزّع                                                                         |                      |
 |Distribution list                             | قائمة التوزيع                                                                |                      |
+|Distribution                                  | توزيعة                                                                       |                      |
 |Distributive lattice                          | شابك توزيعي،عريش توزيعي                                                      |                      |
 |Distributor                                   | موزّع                                                                        |                      |
-|Dither                                        | تظليل وهمي                                                                   |                      |
 |Dithering                                     | ثبات الألوان                                                                 |                      |
+|Dither                                        | تظليل وهمي                                                                   |                      |
 |Diverge                                       |                                                                              |                      |
 |Divergence                                    | إنفراق،تباعد،إنفراج                                                          |                      |
 |Divergent                                     | تباعدي، إنفراجي                                                              |                      |
-|Divide                                        | قسمة                                                                         |                      |
 |Dividend                                      | مقسوم،ربح السهم                                                              |                      |
-|Division                                      | قسمة                                                                         |                      |
+|Divide                                        | قسمة                                                                         |                      |
 |Division by zero                              | قسمة على صفر                                                                 |                      |
+|Division                                      | قسمة                                                                         |                      |
 |Divisor                                       | قاسم                                                                         |                      |
 |DMA                                           | دي.ام.أيه                                                                    |                      |
 |DNS                                           |                                                                              |                      |
 |Docbook                                       | كتاب التوثيق                                                                 |                      |
-|Dock                                          | إرساء                                                                        |                      |
 |Docking station                               | قاعدة تركيب                                                                  |                      |
-|Document                                      | مستند                                                                        |                      |
+|Dock                                          | إرساء                                                                        |                      |
 |Documentation                                 | توثيق                                                                        |                      |
 |Documentor                                    | موثِّق                                                                       |                      |
+|Document                                      | مستند                                                                        |                      |
 |Dollar                                        | دولار                                                                        |                      |
 |Do loop                                       | حلقة التكرار                                                                 |                      |
-|Domain                                        | نطاق                                                                         |                      |
 |Domain address                                | عنوان المجال، عنوان الحقل                                                    |                      |
 |Domain architecture                           | عمارة المجال                                                                 |                      |
 |Domain calculus                               |                                                                              |                      |
@@ -1463,15 +1460,15 @@
 |Domain selection                              | أختيار المجال                                                                |                      |
 |Domain-specific language                      | لغة مجال محدد                                                                |                      |
 |Domain theory                                 | نظرية مجال                                                                   |                      |
-|Dot                                           | نقطة                                                                         |                      |
+|Domain                                        | نطاق                                                                         |                      |
 |Dot address                                   | عنوان نقطي،عنونة نقطية                                                       |                      |
 |Dot file                                      | ملف نُقطي                                                                    |                      |
 |Dot matrix printer                            | طابعة مصفوفة النقاط                                                          |                      |
 |Dot notation                                  | تنويت نُقَطي                                                                 |                      |
 |Dot pitch                                     | خطوة النقطة                                                                  |                      |
-|Dotted                                        | مُنَقّط                                                                      |                      |
 |Dotted quad                                   |                                                                              |                      |
-|Double                                        | مضاعف                                                                        |                      |
+|Dotted                                        | مُنَقّط                                                                      |                      |
+|Dot                                           | نقطة                                                                         |                      |
 |Double click                                  | نقرتان                                                                       |                      |
 |Double-click                                  | ينقر مزودجا                                                                  |                      |
 |Double density                                | كثافة مزدوجة                                                                 |                      |
@@ -1479,28 +1476,29 @@
 |Double-ended queue                            | طابور ذو نهايتين،صف ذو نهايتين                                               |                      |
 |Double-precision                              | مزدوج الدقًة                                                                 |                      |
 |Double quote                                  | علامة إقتباس مزدوجة                                                          |                      |
+|Double                                        | مضاعف                                                                        |                      |
 |Doubly linked list                            | قائمة موصولة من الطرفين                                                      |                      |
-|Down                                          | نزولاً                                                                       |                      |
 |Download                                      | تنزيل                                                                        |                      |
 |Downstream                                    |                                                                              |                      |
-|Downtime                                      | زمن التوقيف                                                                  |                      |
 |Down-time                                     | زمن إيقاف التشغيل                                                            |                      |
+|Downtime                                      | زمن التوقيف                                                                  |                      |
 |Downward closed                               |                                                                              |                      |
+|Down                                          | نزولاً                                                                       |                      |
 |Dpi                                           | نقطة في البوصة                                                               |                      |
 |Draft                                         | مسودة                                                                        |                      |
-|Drag                                          | سحب                                                                          |                      |
-|Drag and drop                                 | سحب وإفلات                                                                   |                      |
 |Drag-and-drop                                 |                                                                              |                      |
+|Drag and drop                                 | سحب وإفلات                                                                   |                      |
 |Dragging                                      | سحب،ساحب                                                                     |                      |
 |Drag-n-drop                                   |                                                                              |                      |
+|Drag                                          | سحب                                                                          |                      |
 |Drakconf                                      |                                                                              |                      |
-|Draw                                          | رسم                                                                          |                      |
 |Drawer                                        |                                                                              |                      |
-|Drawing                                       | رسم                                                                          |                      |
 |Drawing Area                                  | منطقة الرسم                                                                  |                      |
+|Drawing                                       | رسم                                                                          |                      |
 |Draw object(s)                                |                                                                              |                      |
-|Drive                                         | محرك أقراص                                                                   |                      |
+|Draw                                          | رسم                                                                          |                      |
 |Driver                                        | تعريف                                                                        |                      |
+|Drive                                         | محرك أقراص                                                                   |                      |
 |Drop                                          |                                                                              |                      |
 |Drop cable                                    |                                                                              |                      |
 |Dropdown                                      |                                                                              |                      |
@@ -1513,7 +1511,6 @@
 |Drugged                                       |                                                                              |                      |
 |Druid                                         |                                                                              |                      |
 |Dry run                                       | تشغيل إختباري                                                                |                      |
-|Dual                                          | مزدوج                                                                        |                      |
 |Dual-attached                                 |                                                                              |                      |
 |Dual boot                                     | تشغيل مزودج                                                                  |                      |
 |Dual head                                     | مزدوج الرأس                                                                  |                      |
@@ -1521,8 +1518,9 @@
 |Dual-partition                                | ثنائيّ القسيمة                                                               |                      |
 |Dual ported                                   |                                                                              |                      |
 |Dual-stack                                    | مزدوج الكومة،مزدوج الكدسة                                                    |                      |
-|Dumb                                          | معتوه                                                                        |                      |
+|Dual                                          | مزدوج                                                                        |                      |
 |Dumb Terminal                                 | مطراف مَعتوه                                                                 |                      |
+|Dumb                                          | معتوه                                                                        |                      |
 |Dummy                                         | دمية، أفتراضي، هامد                                                          |                      |
 |Dump                                          | طرْح                                                                         |                      |
 |Duplex                                        | مزدَوج                                                                       |                      |
@@ -1532,7 +1530,6 @@
 |DVD                                           |                                                                              |                      |
 |Dword                                         |                                                                              |                      |
 |Dyadic                                        |                                                                              |                      |
-|Dynamic                                       | حركي                                                                         |                      |
 |Dynamic adaptive routing                      |                                                                              |                      |
 |Dynamically scoped                            |                                                                              |                      |
 |Dynamically typed                             | مكتوب ديناميكياً                                                             |                      |
@@ -1547,47 +1544,48 @@
 |Dynamic scoping                               |                                                                              |                      |
 |Dynamic translation                           | translated دينامية                                                           |                      |
 |Dynamic typing                                | كتابة ديناميكية                                                              |                      |
+|Dynamic                                       | حركي                                                                         |                      |
 |Eager evaluation                              |                                                                              |                      |
 |Earliest deadline firs                        |                                                                              |                      |
 |Earliest deadline first                       | الموعد الأقصى الأبكر أولاً                                                   |                      |
-|Echo                                          | صدى                                                                          |                      |
 |Echo cancellation                             | إلغاء الصدى                                                                  |                      |
+|Echo                                          | صدى                                                                          |                      |
 |E-commerce                                    | التجارة الالكترونية                                                          |                      |
 |E-ddress                                      |                                                                              |                      |
 |Edge                                          | حافة                                                                         |                      |
-|Edit                                          | تحرير                                                                        |                      |
 |Edition                                       | تحرير، طبعة                                                                  |                      |
-|Editor                                        | محرِّر                                                                       |                      |
 |Editor pane                                   |                                                                              |                      |
 |Editor panel                                  | لوحة المحرر                                                                  |                      |
+|Editor                                        | محرِّر                                                                       |                      |
+|Edit                                          | تحرير                                                                        |                      |
 |E-dress                                       |                                                                              |                      |
-|Edu                                           | تربوي/تعليمي                                                                 |                      |
-|Education                                     | تربية                                                                        |                      |
 |Education contact                             | مراسل تربوي،صلة في المجمتع التربوي                                           |                      |
+|Education                                     | تربية                                                                        |                      |
 |Edutainment                                   | ترفيه تربوي                                                                  |                      |
-|Effect                                        | مؤثّر،تأثير                                                                  |                      |
+|Edu                                           | تربوي/تعليمي                                                                 |                      |
 |Effective computable                          |                                                                              |                      |
 |Effective number of bits                      | عدد البِت الفعال                                                             |                      |
 |Effects                                       | مؤثرات                                                                       |                      |
+|Effect                                        | مؤثّر،تأثير                                                                  |                      |
 |Efficiency                                    | نجاعة                                                                        |                      |
 |Eigenvalue                                    | جذر مميز (ذاتي) لمصفوفة،قيمة ذاتية                                           |                      |
-|Eigenvector                                   | متًجه مميز، متًجه ذاتي                                                       |                      |
 |Eigenvectort                                  | أنظر Eigenvector                                                             |                      |
+|Eigenvector                                   | متًجه مميز، متًجه ذاتي                                                       |                      |
 |Eight-bit clean                               |                                                                              |                      |
 |Eight queens problem                          |                                                                              |                      |
 |Eight queens puzzle                           |                                                                              |                      |
 |Eighty-twenty rule                            | قاعدة الثمانون-عشرون                                                         |                      |
 |Eject                                         | أقذف                                                                         |                      |
 |El(alpha)                                     |                                                                              |                      |
-|Electronic                                    | الكتروني                                                                     |                      |
 |Electronic commerce                           | التجارة الالكترونية                                                          |                      |
 |Electronic data interchange                   | تبادل بيانات إلكتروني                                                        |                      |
-|Electronic funds transfer                     | نقل اموال الكتروني                                                           |                      |
 |Electronic funds transfer system              | نظام نقل الاموال الالكتروني                                                  |                      |
+|Electronic funds transfer                     | نقل اموال الكتروني                                                           |                      |
 |Electronic magazine                           | مجلة إلكترونية                                                               |                      |
-|Electronic mail                               | بريد الكتروني                                                                |                      |
 |Electronic mail address                       | عنوان بريد الكتروني                                                          |                      |
+|Electronic mail                               | بريد الكتروني                                                                |                      |
 |Electronic whiteboarding                      |                                                                              |                      |
+|Electronic                                    | الكتروني                                                                     |                      |
 |Element                                       | عنصر                                                                         |                      |
 |Elephant                                      | فيل                                                                          |                      |
 |Elevator controller                           |                                                                              |                      |
@@ -1595,88 +1593,87 @@
 |Elite                                         | نخبة،أعيان،وجهاء                                                             |                      |
 |Ellipse                                       | إهليج                                                                        |                      |
 |Ellipsoid                                     | إهليلجي                                                                      |                      |
-|Em                                            | إم                                                                           |                      |
-|Email                                         | بريد إلكتروني                                                                |                      |
-|E-Mail                                        | بريد (إلكتروني)                                                              |                      |
-|E-mail                                        | بريد الكتروني                                                                |                      |
 |E-mail address                                | عنوان بريد إلكتروني                                                          |                      |
 |Email attachement                             | مرفق بريد الكتروني                                                           |                      |
-|Embed                                         | تضمين                                                                        |                      |
+|E-Mail                                        | بريد (إلكتروني)                                                              |                      |
+|Email                                         | بريد إلكتروني                                                                |                      |
+|E-mail                                        | بريد الكتروني                                                                |                      |
 |Embeddable                                    | قابل للطمر،قابل للإنطمار                                                     |                      |
-|Embedded                                      | مضمَّن                                                                       |                      |
 |Embedded system                               | نظام مطمور                                                                   |                      |
+|Embedded                                      | مضمَّن                                                                       |                      |
 |Embedding                                     | طمر،إنطمار                                                                   |                      |
+|Embed                                         | تضمين                                                                        |                      |
 |Embosser                                      | مبرِز،مجسِم،مجسِد                                                            |                      |
 |Emoticon                                      | وجه تعبيري                                                                   |                      |
 |Emphasis                                      |                                                                              |                      |
-|Empty                                         | فارغ                                                                         |                      |
 |Empty element tag                             |                                                                              |                      |
+|Empty                                         | فارغ                                                                         |                      |
 |Emulate                                       | محاكاه                                                                       |                      |
 |Emulation                                     | محاكاة                                                                       |                      |
 |Emulator                                      | محاكي                                                                        |                      |
-|Enable                                        | تفعيل                                                                        |                      |
+|Em                                            | إم                                                                           |                      |
 |Enabled                                       |                                                                              |                      |
+|Enable                                        | تفعيل                                                                        |                      |
 |Enabling                                      | فسح،تمكين                                                                    |                      |
 |Encapsulated Postscript                       | PostScript مغلف                                                              |                      |
 |Encapsulation                                 | تغليف                                                                        |                      |
 |Enclosure                                     | مُغلّف                                                                       |                      |
-|Encode                                        | يرمّز،ترميز                                                                  |                      |
 |Encoder                                       | أداة ترميز                                                                   |                      |
+|Encode                                        | يرمّز،ترميز                                                                  |                      |
 |Encoding                                      | ترميز                                                                        |                      |
-|Encrypt                                       | تعمية                                                                        |                      |
 |Encrypted                                     | مشفر                                                                         |                      |
 |Encryption                                    |                                                                              |                      |
-|End                                           | ختام                                                                         |                      |
+|Encrypt                                       | تعمية                                                                        |                      |
 |Endl                                          |                                                                              |                      |
-|Endless                                       | أبدي،لا نهائي                                                                |                      |
 |Endless loop                                  | حلقة لامتناهية                                                               |                      |
+|Endless                                       | أبدي،لا نهائي                                                                |                      |
 |Endnote                                       |                                                                              |                      |
 |End of file                                   | نهاية ملف                                                                    |                      |
 |Endpoint                                      | نقطة النهاية                                                                 |                      |
 |End tag                                       |                                                                              |                      |
 |End-user                                      | مستخدم نهائي                                                                 |                      |
+|End                                           | ختام                                                                         |                      |
 |Engage                                        |                                                                              |                      |
-|Engine                                        | محرك                                                                         |                      |
 |Engineer                                      |                                                                              |                      |
 |Engineering                                   | هندسة                                                                        |                      |
+|Engine                                        | محرك                                                                         |                      |
 |Enhanced parallel port                        | منفذ متوازي مسند                                                             |                      |
 |Enhancement                                   | تحسين                                                                        |                      |
-|Enlarge                                       | تكبير                                                                        |                      |
 |Enlargement                                   | إنتفاخ،تضخيم                                                                 |                      |
+|Enlarge                                       | تكبير                                                                        |                      |
 |Enqueue                                       |                                                                              |                      |
-|Enter                                         | دخول                                                                         |                      |
 |Enterprise                                    | (إقبال على) مشروع جديد                                                       |                      |
 |Entertainment                                 | ترفيه                                                                        |                      |
-|Entity                                        | كيان                                                                         |                      |
+|Enter                                         | دخول                                                                         |                      |
 |Entity-relationship diagram                   |                                                                              |                      |
 |Entity-relationship model                     |                                                                              |                      |
+|Entity                                        | كيان                                                                         |                      |
 |Entries                                       | خانات                                                                        |                      |
 |Entropy                                       |                                                                              |                      |
 |Entry                                         | مدخلة                                                                        |                      |
 |Enumerated type                               | نوع معدّد                                                                    |                      |
 |Enumeration                                   | تَعْداد،إحصاء                                                                |                      |
 |Envelope                                      | ظرف،غلاف                                                                     |                      |
-|Environment                                   | بيئة                                                                         |                      |
 |Environment variable                          | متغير بيئة                                                                   |                      |
-|Ephemeral                                     | موسمي                                                                        |                      |
+|Environment                                   | بيئة                                                                         |                      |
 |Ephemeral port                                | منفذ موسمي                                                                   |                      |
+|Ephemeral                                     | موسمي                                                                        |                      |
 |Episode                                       |                                                                              |                      |
 |Epoch                                         | تاريخ بدء الحساب                                                             |                      |
 |Epsilon                                       | إبسلون                                                                       |                      |
-|Equal                                         | مساوِ،معادِل                                                                 |                      |
 |Equalizer                                     | معادِل                                                                       |                      |
-|Equation                                      | المعادلة                                                                     |                      |
+|Equal                                         | مساوِ،معادِل                                                                 |                      |
 |Equational logic                              |                                                                              |                      |
+|Equation                                      | المعادلة                                                                     |                      |
 |Equipment                                     | مُعدّات                                                                      |                      |
-|Equivalence class                             | صنف مكافئة                                                                   |                      |
 |Equivalence class partitioning                |                                                                              |                      |
+|Equivalence class                             | صنف مكافئة                                                                   |                      |
 |Equivalence partitioning                      |                                                                              |                      |
 |Equivalence relation                          | علاقة التكافؤ                                                                |                      |
 |Equivalent                                    | مكافِئ                                                                       |                      |
-|Era                                           | زمن                                                                          |                      |
 |Erase                                         | مسح                                                                          |                      |
+|Era                                           | زمن                                                                          |                      |
 |Ergonomic                                     | بيئيات العمل                                                                 |                      |
-|Error                                         | خطأ                                                                          |                      |
 |Error-based testing                           |                                                                              |                      |
 |Error correcting memory                       | ذاكرة مصححة الخطأ                                                            |                      |
 |Error detection and correction                | إكتشاف و تصحيح الأخطاء                                                       |                      |
@@ -1684,9 +1681,10 @@
 |Error indicator                               | مؤشر خطأ                                                                     |                      |
 |Error message                                 | رسالة خطأ                                                                    |                      |
 |Error recovery                                | تصحيح بعد الخطأ                                                              |                      |
-|Escape                                        | الخلوص                                                                       |                      |
+|Error                                         | خطأ                                                                          |                      |
 |Escape character                              | محرف الخلوص                                                                  |                      |
 |Escape sequence                               |                                                                              |                      |
+|Escape                                        | الخلوص                                                                       |                      |
 |Escrow                                        |                                                                              |                      |
 |Esim                                          |                                                                              |                      |
 |Essential complexity                          | تعقيد أساسي                                                                  |                      |
@@ -1697,11 +1695,11 @@
 |E-tex                                         |                                                                              |                      |
 |Ethernet                                      |                                                                              |                      |
 |Ethics                                        | أصول، انضباط، آداب، علم الأخلاق                                              |                      |
-|Evaluation                                    | تخمين،تثمين،تقويم                                                            |                      |
 |Evaluation strategy                           |                                                                              |                      |
+|Evaluation                                    | تخمين،تثمين،تقويم                                                            |                      |
 |Evaluator                                     |                                                                              |                      |
-|Event                                         | حدث                                                                          |                      |
 |Event-driven                                  |                                                                              |                      |
+|Event                                         | حدث                                                                          |                      |
 |Every                                         | كلً                                                                          |                      |
 |Evolutionary algorithm                        | خوارزمية تطورية                                                              |                      |
 |Evolutionary computation                      |                                                                              |                      |
@@ -1711,37 +1709,37 @@
 |Exabyte                                       | إكسابايت                                                                     |                      |
 |Exact                                         | تام                                                                          |                      |
 |Example                                       | مثال                                                                         |                      |
-|Exception                                     | استثناء                                                                      |                      |
 |Exception handler                             |                                                                              |                      |
 |Exception handling                            |                                                                              |                      |
 |Exceptions                                    | إستثنائات                                                                    |                      |
+|Exception                                     | استثناء                                                                      |                      |
 |Excercise                                     | تمرين                                                                        |                      |
 |Excl                                          |                                                                              |                      |
 |Exclamation mark                              | علامة التعجّب                                                                |                      |
 |Exclamation point                             | علامة تهليل                                                                  |                      |
 |Exclude                                       | يستثني                                                                       |                      |
 |Exclusive OR                                  | ال_منظّمة:                                                                   |                      |
-|Executable                                    | تنفيذي                                                                       |                      |
 |Executable content                            | محتوى تنفيذي                                                                 |                      |
 |Executable file                               | ملف تنفيذي                                                                   |                      |
+|Executable                                    | تنفيذي                                                                       |                      |
 |Execute                                       | تنفيذ                                                                        |                      |
 |Execution                                     | تنفيذ                                                                        |                      |
 |Executive                                     | تنفيذي                                                                       |                      |
 |Exhaustive testing                            | إختبار معمق،إختبار شامل                                                      |                      |
-|Exist                                         | موجود،حيً                                                                    |                      |
 |Existential quantifier                        |                                                                              |                      |
 |Existing                                      | موجود                                                                        |                      |
+|Exist                                         | موجود،حيً                                                                    |                      |
 |Exit                                          | خروج                                                                         |                      |
-|Expand                                        | توسيع                                                                        |                      |
-|Expanded                                      | واسع النطاق، ممتد، موسَّع                                                    |                      |
-|Expanded memory                               | ذاكرة موسعة                                                                  |                      |
 |Expanded memory manager                       |                                                                              |                      |
 |Expanded memory page frame                    |                                                                              |                      |
-|Expansion                                     | توسيع                                                                        |                      |
+|Expanded memory                               | ذاكرة موسعة                                                                  |                      |
+|Expanded                                      | واسع النطاق، ممتد، موسَّع                                                    |                      |
+|Expand                                        | توسيع                                                                        |                      |
 |Expansion card                                | بطاقة توسعة                                                                  |                      |
 |Expansion slot                                | شقب توسيع                                                                    |                      |
-|Expect                                        | إرتقب،توقع                                                                   |                      |
+|Expansion                                     | توسيع                                                                        |                      |
 |Expected location                             | المكان المرتقب،الموقع المرتقب                                                |                      |
+|Expect                                        | إرتقب،توقع                                                                   |                      |
 |Expert system                                 | نظام خبير                                                                    |                      |
 |Expire                                        | إنقضة الصلاحية                                                               |                      |
 |Explicit parallelism                          |                                                                              |                      |
@@ -1749,55 +1747,55 @@
 |Explicit type conversion                      |                                                                              |                      |
 |Exploit                                       | ثغرة                                                                         |                      |
 |Explore                                       | استطلاع                                                                      |                      |
-|Exponent                                      | أُس                                                                          |                      |
-|Exponential                                   | أسِّي                                                                        |                      |
 |Exponential notation                          | رموز موسيقية إغريقية قديمة                                                   |                      |
-|Exponential-time                              | زمن أسِّي                                                                    |                      |
 |Exponential-time algorithm                    | خوارزم أسِّية الزمن                                                          |                      |
-|Export                                        | تصدير                                                                        |                      |
+|Exponential-time                              | زمن أسِّي                                                                    |                      |
+|Exponential                                   | أسِّي                                                                        |                      |
+|Exponent                                      | أُس                                                                          |                      |
 |Exporting                                     | مصدر                                                                         |                      |
-|Expression                                    | تعبير                                                                        |                      |
+|Export                                        | تصدير                                                                        |                      |
 |Expression tree                               |                                                                              |                      |
+|Expression                                    | تعبير                                                                        |                      |
 |Expunge                                       | شطب                                                                          |                      |
-|Extend                                        | تمديد                                                                        |                      |
 |Extended                                      |                                                                              |                      |
-|Extended memory                               | ذاكرة موسعة                                                                  |                      |
 |Extended memory manager                       |                                                                              |                      |
-|Extensible                                    | قابل للتمديد                                                                 |                      |
+|Extended memory                               | ذاكرة موسعة                                                                  |                      |
+|Extend                                        | تمديد                                                                        |                      |
 |Extensible database                           |                                                                              |                      |
-|Extension                                     | امتداد                                                                       |                      |
+|Extensible                                    | قابل للتمديد                                                                 |                      |
 |Extensional                                   |                                                                              |                      |
 |Extensional equality                          |                                                                              |                      |
 |Extensionality                                |                                                                              |                      |
+|Extension                                     | امتداد                                                                       |                      |
 |Extent                                        |                                                                              |                      |
-|External                                      | خارجية                                                                       |                      |
 |External data                                 | بيانات خارجية                                                                |                      |
 |External memory                               | ذاكرة خارجيّة                                                                |                      |
-|Extra                                         | إضافي                                                                        |                      |
+|External                                      | خارجية                                                                       |                      |
 |Extract                                       | استخرج                                                                       |                      |
 |Extranet                                      | إكسترانت                                                                     |                      |
+|Extra                                         | إضافي                                                                        |                      |
 |Eyedropper                                    | جاسوس،متنصت                                                                  |                      |
 |E-zine                                        | e-zine                                                                       |                      |
 |Facsimile                                     | نُسْخَةٌ طِبْقُ الأَصْل                                                      |                      |
-|Fact                                          | واقع،معلومة                                                                  |                      |
 |Factor                                        |                                                                              |                      |
 |Factorial                                     | مَضْروب                                                                      |                      |
 |Factor of proportion                          | معامل تناسب                                                                  |                      |
 |Factory                                       | مصنع،معمل                                                                    |                      |
-|Fade                                          | تلاشي / تضاؤل                                                                |                      |
+|Fact                                          | واقع،معلومة                                                                  |                      |
 |Fade in                                       |                                                                              |                      |
 |Fade out                                      |                                                                              |                      |
-|Fail                                          | فشل                                                                          |                      |
+|Fade                                          | تلاشي / تضاؤل                                                                |                      |
 |Failback                                      |                                                                              |                      |
 |Failfast                                      |                                                                              |                      |
-|Failover                                      | تجاوز الفشل                                                                  |                      |
 |Failover resource                             |                                                                              |                      |
-|Failure                                       | فشل                                                                          |                      |
+|Failover                                      | تجاوز الفشل                                                                  |                      |
 |Failure-directed testing                      |                                                                              |                      |
 |Failure fencing                               |                                                                              |                      |
+|Failure                                       | فشل                                                                          |                      |
+|Fail                                          | فشل                                                                          |                      |
+|Fallback procedure                            | إجراءات التراجع                                                              |                      |
 |Fall back                                     | اللُّجُوءُ،الحلً في حالة التراجع                                             |                      |
 |Fallback                                      | اللُّجُوءُ،الحلً في حالة التراجع                                             |                      |
-|Fallback procedure                            | إجراءات التراجع                                                              |                      |
 |Fall forward                                  |                                                                              |                      |
 |Fallout                                       | سقط                                                                          |                      |
 |Fall over                                     |                                                                              |                      |
@@ -1807,70 +1805,70 @@
 |Farkled                                       |                                                                              |                      |
 |Farm                                          | مزرعة                                                                        |                      |
 |Fast                                          | سريع                                                                         |                      |
-|Fatal                                         | قاتل، فادح                                                                   |                      |
 |Fatal error                                   | خطأ فادح                                                                     |                      |
 |Fatal exception                               |                                                                              |                      |
+|Fatal                                         | قاتل، فادح                                                                   |                      |
 |Fat binary                                    |                                                                              |                      |
 |Fat client                                    |                                                                              |                      |
-|Fault                                         | صدع،غلط                                                                      |                      |
 |Fault-based testing                           |                                                                              |                      |
 |Fault monitor                                 |                                                                              |                      |
 |Fault tolerance                               | الاستجابة للخطأ                                                              |                      |
 |Fault tolerant                                |                                                                              |                      |
 |Fault tree analysis                           |                                                                              |                      |
 |Faulty                                        | مصدوع،غلط                                                                    |                      |
+|Fault                                         | صدع،غلط                                                                      |                      |
 |Favorite                                      | مفضل،منتخب                                                                   |                      |
 |Fax                                           | فَاكْس                                                                       |                      |
 |Feasible                                      |                                                                              |                      |
-|Feature                                       | ميزة                                                                         |                      |
 |Feature creep                                 |                                                                              |                      |
-|Feed                                          | تلقيم                                                                        |                      |
-|Feedback                                      | انطباع                                                                       |                      |
+|Feature                                       | ميزة                                                                         |                      |
 |Feedback control                              |                                                                              |                      |
+|Feedback                                      | انطباع                                                                       |                      |
 |Feed-forward                                  |                                                                              |                      |
+|Feed                                          | تلقيم                                                                        |                      |
 |Feeper                                        |                                                                              |                      |
 |Femto-                                        |                                                                              |                      |
 |Fence                                         | عائق،سيج                                                                     |                      |
-|Fetch                                         | جلب                                                                          |                      |
 |Fetch-execute cycle                           |                                                                              |                      |
 |Fetchmail                                     |                                                                              |                      |
+|Fetch                                         | جلب                                                                          |                      |
 |Fiber optics                                  | علوم، تقنية بصريات الألياف                                                   |                      |
 |Fibre optics                                  | علوم، تقنية بصريات الألياف                                                   |                      |
-|Field                                         | حقل                                                                          |                      |
 |Field mouse                                   | فأرة الحقل                                                                   |                      |
 |Field-programmable gate array                 |                                                                              |                      |
 |Field-replaceable                             |                                                                              |                      |
-|Fields                                        | حقول                                                                         |                      |
 |Field separator                               | فاصل حقول                                                                    |                      |
 |Fields involved                               | الحقول المتورطة                                                              |                      |
+|Fields                                        | حقول                                                                         |                      |
+|Field                                         | حقل                                                                          |                      |
 |Fiery                                         |                                                                              |                      |
 |FIFO                                          | الداخل أولاً، خارج أولا                                                      |                      |
 |Figure                                        | شكل                                                                          |                      |
-|File                                          | ملف                                                                          |                      |
 |File compression                              | ضغط ملف                                                                      |                      |
 |File control block                            | كتلة ذاكرة التحكم بالملفات                                                   |                      |
-|File descriptor                               | واصف الملف                                                                   |                      |
 |File descriptor leak                          | تسرب واصف الملف                                                              |                      |
+|File descriptor                               | واصف الملف                                                                   |                      |
 |File extension                                | إمتدادة الملف                                                                |                      |
+|Filename extension                            | امتداد اسم ملف                                                               |                      |
 |File name                                     | اسم ملف                                                                      |                      |
 |Filename                                      | اسم ملف                                                                      |                      |
-|Filename extension                            | امتداد اسم ملف                                                               |                      |
 |File permissions                              | أذون ملف                                                                     |                      |
-|Files                                         | ملفات                                                                        |                      |
 |File server                                   | خادم ملفات                                                                   |                      |
 |File signature                                | أمضاء ملف                                                                    |                      |
 |File system                                   | نظام الملفات                                                                 |                      |
 |Filesystem                                    | نظام ملفات                                                                   |                      |
+|Files                                         | ملفات                                                                        |                      |
 |File transfer                                 | نقل الملف                                                                    |                      |
 |File type                                     | نوع الملف                                                                    |                      |
 |File (verb)                                   |                                                                              |                      |
+|File                                          | ملف                                                                          |                      |
 |Filing system                                 |                                                                              |                      |
-|Fill                                          | ملء                                                                          |                      |
 |Fillcolor                                     | لون الإملاء                                                                  |                      |
 |Fill-out form                                 |                                                                              |                      |
-|Filter                                        | مُرشِّح                                                                      |                      |
+|Fill                                          | ملء                                                                          |                      |
 |Filtering                                     | تصفية، ترشيح                                                                 |                      |
 |Filter promotion                              | ترقية المرشح                                                                 |                      |
+|Filter                                        | مُرشِّح                                                                      |                      |
 |Finalize                                      | اختتام،إتمام،إكمال                                                           |                      |
 |Financial                                     | ماليً                                                                        |                      |
 |Find                                          | بحث :: عثور (على)                                                            |                      |
@@ -1878,10 +1876,10 @@
 |Fine-tune                                     | موالفة دقيقة                                                                 |                      |
 |Finger                                        | يحصل على                                                                     |                      |
 |Finish                                        | إنهاء،إتمام،إكمال                                                            |                      |
-|Finite                                        | متناهي                                                                       |                      |
 |Finite automata                               | تلقائي الحركة متناهي                                                         |                      |
 |Finite differencing                           |                                                                              |                      |
 |Finite state machine                          |                                                                              |                      |
+|Finite                                        | متناهي                                                                       |                      |
 |Firebottle                                    | قارورة تأجج ( الإلكترونات في الشاشة)                                         |                      |
 |Firefighting                                  | مقاومة النار                                                                 |                      |
 |Firewall                                      | جدار ناري                                                                    |                      |
@@ -1895,21 +1893,21 @@
 |First in first out                            | الداخل أولاً، خارج أولا                                                      |                      |
 |First-in                                      | first-out                                                                    | الداخل أولا يخرج أولا|
 |First normal form                             |                                                                              |                      |
-|First-order                                   | أولي الترتيب،أوليً الدرجة                                                    |                      |
 |First-order logic                             | منطق أوليً الترتيب،منطق أوًلي الدرجة                                         |                      |
-|Fit                                           | تناسب                                                                        |                      |
+|First-order                                   | أولي الترتيب،أوليً الدرجة                                                    |                      |
 |Fit-to-window                                 | توافقي للنافذة                                                               |                      |
-|Fix                                           | إصلاح                                                                        |                      |
-|Fixed                                         | مثبت،ثابت التصحيح،ثابت التصليح                                               |                      |
+|Fit                                           | تناسب                                                                        |                      |
 |Fixed disk                                    | قرص مثبًت                                                                    |                      |
 |Fixed Font                                    | خط ثابت                                                                      |                      |
 |Fixed point                                   |                                                                              |                      |
-|Fixed-point                                   | ثابت الفاصلة                                                                 |                      |
 |Fixed point combinator                        |                                                                              |                      |
+|Fixed-point                                   | ثابت الفاصلة                                                                 |                      |
+|Fixed width font                              | خط ثابت العَرض                                                               |                      |
 |Fixed width                                   | عرض ثابت                                                                     |                      |
 |Fixed-width                                   | عرض ثابت                                                                     |                      |
-|Fixed width font                              | خط ثابت العَرض                                                               |                      |
+|Fixed                                         | مثبت،ثابت التصحيح،ثابت التصليح                                               |                      |
 |Fixpoint                                      |                                                                              |                      |
+|Fix                                           | إصلاح                                                                        |                      |
 |Flag                                          | علم                                                                          |                      |
 |Flamage                                       |                                                                              |                      |
 |Flame                                         |                                                                              |                      |
@@ -1918,55 +1916,55 @@
 |Flaming                                       |                                                                              |                      |
 |Flap                                          |                                                                              |                      |
 |Flapping router                               |                                                                              |                      |
-|Flash                                         | بريق                                                                         |                      |
 |Flash disk                                    |                                                                              |                      |
 |Flash memory                                  |                                                                              |                      |
-|Flat                                          | مسطح                                                                         |                      |
+|Flash                                         | بريق                                                                         |                      |
 |Flat address space                            |                                                                              |                      |
 |Flat color                                    |                                                                              |                      |
 |Flat file                                     |                                                                              |                      |
 |Flatten                                       |                                                                              |                      |
 |Flat thunk                                    |                                                                              |                      |
-|Flavor                                        | نكهة،طعم،مذاق                                                                |                      |
+|Flat                                          | مسطح                                                                         |                      |
 |Flavorful                                     | مليئ بلنكهة،مليئ بلمذاق                                                      |                      |
+|Flavor                                        | نكهة،طعم،مذاق                                                                |                      |
 |Flip                                          |                                                                              |                      |
 |Flip-flop                                     |                                                                              |                      |
-|Float                                         | حُر                                                                          |                      |
 |Floating head                                 |                                                                              |                      |
 |Floating point                                |                                                                              |                      |
-|Floating-point                                | الفاصلة العائمة                                                              |                      |
 |Floating-point accelerator                    |                                                                              |                      |
 |Floating-point arithmetic                     |                                                                              |                      |
 |Floating point underflow                      |                                                                              |                      |
+|Floating-point                                | الفاصلة العائمة                                                              |                      |
 |Floating underflow                            |                                                                              |                      |
 |Float (verb)                                  | طفو                                                                          |                      |
+|Float                                         | حُر                                                                          |                      |
 |Flood                                         | أَغرَقَ                                                                      |                      |
 |Floor                                         | دور،طابق                                                                     |                      |
-|Floppy                                        | مرن                                                                          |                      |
-|Floppy disk                                   | قرص مرن                                                                      |                      |
 |Floppy disk drive                             | محرك الأقراص المرنة                                                          |                      |
+|Floppy disk                                   | قرص مرن                                                                      |                      |
 |Floppy drive                                  | مشغّل قرص مرن                                                                |                      |
+|Floppy                                        | مرن                                                                          |                      |
 |Floptical                                     | قرص مرن ضوئي                                                                 |                      |
 |Floss                                         | البرمجيات الحرّة مفتوحة المصدر - اختصار لاسم: Free Libre Open Source Software|                      |
-|Flow                                          | دفق،جريان                                                                    |                      |
 |Flow analysis                                 | تحليل التدفق                                                                 |                      |
-|Flow chart                                    | مخطّط جَرَيان                                                                |                      |
 |Flowchart                                     | قائمة التدفق                                                                 |                      |
+|Flow chart                                    | مخطّط جَرَيان                                                                |                      |
 |Flow control                                  | مراقبة الدفق،مراقبة الجريان                                                  |                      |
 |Flower key                                    | مفتاح الوردة (خاص بلماكِنتوش)                                                |                      |
 |Flow of control                               |                                                                              |                      |
+|Flow                                          | دفق،جريان                                                                    |                      |
 |Flush                                         |                                                                              |                      |
 |Fly page                                      |                                                                              |                      |
 |Flytrap                                       |                                                                              |                      |
-|Focus                                         | بؤرة                                                                         |                      |
 |Focus group                                   |                                                                              |                      |
+|Focus                                         | بؤرة                                                                         |                      |
 |Fold                                          |                                                                              |                      |
 |Fold case                                     |                                                                              |                      |
 |Folder                                        | مجلّد                                                                        |                      |
 |Follow-on bus                                 |                                                                              |                      |
 |Follow-up                                     |                                                                              |                      |
-|Font                                          | خط                                                                           |                      |
 |Fontwork                                      | معمل الخطوط                                                                  |                      |
+|Font                                          | خط                                                                           |                      |
 |Foo                                           |                                                                              |                      |
 |Foobar                                        |                                                                              |                      |
 |Foogol                                        |                                                                              |                      |
@@ -1982,21 +1980,20 @@
 |Foreign key                                   |                                                                              |                      |
 |Fork                                          | إنفراج،تشعًب                                                                 |                      |
 |For loop                                      |                                                                              |                      |
-|Form                                          | استمارة،شكل                                                                  |                      |
 |Formal argument                               |                                                                              |                      |
 |Formal methods                                |                                                                              |                      |
 |Formal parameter                              | مُسِط شكلي                                                                   |                      |
 |Formal review                                 |                                                                              |                      |
-|Format                                        | تهيئة، تنسيق، نسق                                                            |                      |
 |Format (noun)                                 | نسق (نص)، هيئة (ملف، مخزن)                                                   |                      |
 |Formatted                                     |                                                                              |                      |
 |Format (verb)                                 | تنسيق (نص)، تهيئة (ملف، مخزن)                                                |                      |
+|Format                                        | تهيئة، تنسيق، نسق                                                            |                      |
 |Form factor                                   |                                                                              |                      |
 |Form feed                                     |                                                                              |                      |
-|Formula                                       | صيغة                                                                         |                      |
 |Formulas                                      |                                                                              |                      |
+|Formula                                       | صيغة                                                                         |                      |
+|Form                                          | استمارة،شكل                                                                  |                      |
 |Forum                                         | منتدى                                                                        |                      |
-|Forward                                       | إلى الأمام                                                                   |                      |
 |Forward analysis                              |                                                                              |                      |
 |Forward chaining                              |                                                                              |                      |
 |Forward compatibility                         | التطابق المستقبلي،الإنسجام المستقبلي                                         |                      |
@@ -2006,6 +2003,7 @@
 |Forwarding                                    |                                                                              |                      |
 |Forwards compatibility                        |                                                                              |                      |
 |Forwards compatible                           |                                                                              |                      |
+|Forward                                       | إلى الأمام                                                                   |                      |
 |FOSS                                          |                                                                              |                      |
 |Foundation                                    | تأسيس،مؤسسة                                                                  |                      |
 |Four-colour glossies                          |                                                                              |                      |
@@ -2015,17 +2013,16 @@
 |Fourth generation computer                    | حاسوب الجيل الرابع                                                           |                      |
 |Fourth generation language                    | لغة الجيل الرابع                                                             |                      |
 |Fourth normal form                            |                                                                              |                      |
-|Fractal                                       | كُسوري                                                                       |                      |
 |Fractal compression                           | ضغط (صور) كسوري                                                              |                      |
 |Fractal dimension                             | بُعد كسوري                                                                   |                      |
+|Fractal                                       | كُسوري                                                                       |                      |
 |Fraction                                      | كسر                                                                          |                      |
-|Frag                                          | قتلة                                                                         |                      |
 |Fragile                                       | سريع العطب                                                                   |                      |
-|Fragment                                      | كٍِسرة                                                                       |                      |
 |Fragmentation                                 | تجزئة                                                                        |                      |
-|Frame                                         | إطار                                                                         |                      |
-|Frame buffer                                  | صِوان الإطار                                                                 |                      |
+|Fragment                                      | كٍِسرة                                                                       |                      |
+|Frag                                          | قتلة                                                                         |                      |
 |Framebuffer                                   |                                                                              |                      |
+|Frame buffer                                  | صِوان الإطار                                                                 |                      |
 |Frame grabber                                 | ملتقط الإطارات                                                               |                      |
 |Frame pointer                                 |                                                                              |                      |
 |Frame rate                                    | معدل الإطار                                                                  |                      |
@@ -2033,30 +2030,30 @@
 |Frame set                                     | طقم إطارات                                                                   |                      |
 |Frames per second                             | إطار في الثانية                                                              |                      |
 |Framework                                     | هيكل                                                                         |                      |
+|Frame                                         | إطار                                                                         |                      |
 |Framing specification                         |                                                                              |                      |
-|Free                                          | حر                                                                           |                      |
 |Free disk space                               |                                                                              |                      |
 |Free software                                 | برمجيات حرة                                                                  |                      |
 |Free space                                    | مساحة فارغة                                                                  |                      |
 |Free variable                                 | متغيًر حرً،متغيًر طليق                                                       |                      |
 |Freeware                                      | برمجيات مجانية                                                               |                      |
 |Freeze                                        | تجميد                                                                        |                      |
-|Frequency                                     | تردد، تواتر                                                                  |                      |
+|Free                                          | حر                                                                           |                      |
 |Frequency division multiple access            |                                                                              |                      |
 |Frequency division multiplexing               |                                                                              |                      |
+|Frequency                                     | تردد، تواتر                                                                  |                      |
 |Frequently asked question                     | أسئلة و أجوبة                                                                |                      |
 |Friction feed                                 |                                                                              |                      |
 |Frobnicate                                    |                                                                              |                      |
-|Front end                                     | نهاية أمامية                                                                 |                      |
 |Front-end                                     |                                                                              |                      |
 |Frontend                                      |                                                                              |                      |
 |Front-end processor                           | معالج وسيط للاتصال                                                           |                      |
+|Front end                                     | نهاية أمامية                                                                 |                      |
 |Front side bus                                |                                                                              |                      |
 |Frotzed                                       |                                                                              |                      |
 |Fry                                           |                                                                              |                      |
 |FTP                                           | FTP                                                                          |                      |
 |Fudge factor                                  |                                                                              |                      |
-|Full                                          | كامل                                                                         |                      |
 |Full-custom                                   |                                                                              |                      |
 |Full-duplex                                   |                                                                              |                      |
 |Full-duplex Switched Ethernet                 |                                                                              |                      |
@@ -2066,19 +2063,20 @@
 |Full screen                                   | ملء الشاشة                                                                   |                      |
 |Fully associative cache                       |                                                                              |                      |
 |Fully lazy lambda lifting                     |                                                                              |                      |
+|Full                                          | كامل                                                                         |                      |
 |Function                                      |                                                                              |                      |
-|Functional                                    | وظيفي                                                                        |                      |
 |Functional database                           | قاعدة بيانات داليّة، قاعدة بيانات إقترانيّة                                  |                      |
 |Functional dependency                         | تابعية وظيفية،إنقياد وظيفي                                                   |                      |
 |Functionality                                 | التأدية الوظيفية                                                             |                      |
 |Functional language                           | لغة وظيفية                                                                   |                      |
-|Functional program                            | برنامج وظيفي                                                                 |                      |
-|Functional programming                        | برمجة وظيفية                                                                 |                      |
 |Functional programming language               | لغة برمجة وظيفية                                                             |                      |
+|Functional programming                        | برمجة وظيفية                                                                 |                      |
+|Functional program                            | برنامج وظيفي                                                                 |                      |
 |Functional requirements                       | متطلًبات وظيفية،لزوم وظيفية                                                  |                      |
 |Functional specification                      | مواصفة وظيفية                                                                |                      |
 |Functional testing                            | إختبار وظيفي                                                                 |                      |
 |Functional unit                               | وحدة وظيفية                                                                  |                      |
+|Functional                                    | وظيفي                                                                        |                      |
 |Function application                          | تطبيق وظيفة                                                                  |                      |
 |Function call                                 | إستدعاء وظيفة                                                                |                      |
 |Function key                                  | مفتاح وظيفة                                                                  |                      |
@@ -2088,35 +2086,34 @@
 |Functor                                       |                                                                              |                      |
 |Fusion                                        |                                                                              |                      |
 |Future date testing                           |                                                                              |                      |
-|Fuzzy                                         | مُبهم، ضبابي                                                                 |                      |
 |Fuzzy computing                               | حوسبة ضبابية                                                                 |                      |
 |Fuzzy logic                                   | منطق ضبابي                                                                   |                      |
 |Fuzzy subset                                  | زمرة فرعيًة غامضة                                                            |                      |
 |Fuzzy translation                             | ترجمة مُبهمة                                                                 |                      |
 |Fuzzy variable                                |                                                                              |                      |
+|Fuzzy                                         | مُبهم، ضبابي                                                                 |                      |
 |Gadget                                        |                                                                              |                      |
 |Gallery                                       | معرض                                                                         |                      |
-|Game                                          | لعبة                                                                         |                      |
 |Game tree                                     |                                                                              |                      |
-|Gamma                                         | جاما                                                                         |                      |
+|Game                                          | لعبة                                                                         |                      |
 |Gamma correction                              |                                                                              |                      |
+|Gamma                                         | جاما                                                                         |                      |
 |Gamut                                         |                                                                              |                      |
 |Gantt Chart                                   | مخطط جانت                                                                    |                      |
 |Gap                                           | ثَغْرة، فَجْوة، فراغ                                                         |                      |
-|Garbage                                       | نفاية،فضلات                                                                  |                      |
 |Garbage collect                               |                                                                              |                      |
 |Garbage collection                            |                                                                              |                      |
-|Gas                                           | غاز                                                                          |                      |
+|Garbage                                       | نفاية،فضلات                                                                  |                      |
 |Gas plasma display                            | شاشة عرض بلازمية                                                             |                      |
-|Gate                                          | بوابة                                                                        |                      |
+|Gas                                           | غاز                                                                          |                      |
 |Gated                                         | مارً عبر بوابة                                                               |                      |
 |Gateway                                       | بوابة                                                                        |                      |
+|Gate                                          | بوابة                                                                        |                      |
 |Geek                                          |                                                                              |                      |
 |General                                       | عام،إجمالي                                                                   |                      |
 |Generate                                      | توليد                                                                        |                      |
 |Generation                                    | توليد، جيل                                                                   |                      |
 |Generator                                     | مولِّد                                                                       |                      |
-|Generic                                       | عام                                                                          |                      |
 |Generic identifier                            | معرف عميم                                                                    |                      |
 |Genericity                                    | عمومية                                                                       |                      |
 |Generic markup                                |                                                                              |                      |
@@ -2125,6 +2122,7 @@
 |Generic resource                              | مورد عميم                                                                    |                      |
 |Generic thunk                                 |                                                                              |                      |
 |Generic type variable                         | متغيًر عميم النوع                                                            |                      |
+|Generic                                       | عام                                                                          |                      |
 |Genetic algorithm                             | خوارزمية وراثية                                                              |                      |
 |Genetic programming file                      | ملف برمجة وراثي                                                              |                      |
 |Genre                                         |                                                                              |                      |
@@ -2140,19 +2138,18 @@
 |Glass                                         |                                                                              |                      |
 |Glass box testing                             |                                                                              |                      |
 |Glitch                                        | شائبة،عِلّة                                                                  |                      |
-|Global                                        | عمومي                                                                        |                      |
 |Global device                                 |                                                                              |                      |
 |Global index                                  |                                                                              |                      |
 |Global interface                              | واجهة إجمالية،واجهة عميمة                                                    |                      |
 |Globalisation                                 |                                                                              |                      |
 |Global resource                               | مورد عمومي                                                                   |                      |
 |Global variable                               | متغيّر عمومي                                                                 |                      |
-|Glue                                          | صمغ،غراء،لصاق                                                                |                      |
+|Global                                        | عمومي                                                                        |                      |
 |Glue language                                 |                                                                              |                      |
+|Glue                                          | صمغ،غراء،لصاق                                                                |                      |
 |Glyph                                         | الصورة الرمزية                                                               |                      |
 |GNOME                                         | جينوم                                                                        |                      |
 |GNU                                           | جنو                                                                          |                      |
-|Go                                            | إذهب،إنطلق                                                                   |                      |
 |Goal                                          | هدف،مقصد                                                                     |                      |
 |Go gold                                       |                                                                              |                      |
 |Gold                                          | (معدن) الذهب                                                                 |                      |
@@ -2161,54 +2158,55 @@
 |Gorilla arm                                   |                                                                              |                      |
 |Gorp                                          |                                                                              |                      |
 |Go voice                                      |                                                                              |                      |
+|Go                                            | إذهب،إنطلق                                                                   |                      |
 |GPL                                           | GPL                                                                          |                      |
-|Grab                                          | قبض                                                                          |                      |
 |Grab handle                                   |                                                                              |                      |
+|Grab                                          | قبض                                                                          |                      |
 |Gradient                                      | تدرّج                                                                        |                      |
 |Grain                                         | تحبب                                                                         |                      |
-|Grammar                                       | قواعد                                                                        |                      |
 |Grammar analysis                              |                                                                              |                      |
+|Grammar                                       | قواعد                                                                        |                      |
 |Grammatical inference                         |                                                                              |                      |
-|Graph                                         | مبيان                                                                        |                      |
 |Graph colouring                               |                                                                              |                      |
-|Graphic                                       | رسومي                                                                        |                      |
-|Graphical                                     | رسومي                                                                        |                      |
 |Graphical user interface                      | واجهة مستخدم رسومية                                                          |                      |
-|Graphics                                      | رسوميات                                                                      |                      |
+|Graphical                                     | رسومي                                                                        |                      |
 |Graphics accelerator                          | مسرِّع بياني                                                                 |                      |
 |Graphics adapter                              |                                                                              |                      |
 |Graphics adaptor                              |                                                                              |                      |
 |Graphics card                                 | بطاقة رسوميات                                                                |                      |
+|Graphics                                      | رسوميات                                                                      |                      |
 |Graphic workstation                           |                                                                              |                      |
+|Graphic                                       | رسومي                                                                        |                      |
 |Graph plotter                                 |                                                                              |                      |
 |Graph reduction                               |                                                                              |                      |
 |Graph rewriting system                        |                                                                              |                      |
+|Graph                                         | مبيان                                                                        |                      |
 |Gravel                                        |                                                                              |                      |
 |Gray                                          |                                                                              |                      |
 |Gray code                                     | رماز Gray                                                                    |                      |
 |Gray-scale                                    |                                                                              |                      |
-|Grayscale                                     | تدرج رمادي                                                                   |                      |
 |Gray-scale image                              |                                                                              |                      |
-|Greater                                       | أكبر من، أعظم من                                                             |                      |
+|Grayscale                                     | تدرج رمادي                                                                   |                      |
 |Greater or equal                              | أكبر من أو مساو                                                              |                      |
 |Greater than                                  | أكبَر مِن                                                                    |                      |
+|Greater                                       | أكبر من، أعظم من                                                             |                      |
 |Greatest common divisor                       | القاسم المشترك الأعظم                                                        |                      |
 |Greatest lower bound                          |                                                                              |                      |
-|Greedy                                        | شرِه                                                                         |                      |
 |Greedy algorithm                              |                                                                              |                      |
-|Green                                         | أخضر                                                                         |                      |
+|Greedy                                        | شرِه                                                                         |                      |
 |Green lightning                               |                                                                              |                      |
 |Green monitor                                 |                                                                              |                      |
+|Green                                         | أخضر                                                                         |                      |
 |Grey-scale                                    | متدرًج الرمادي                                                               |                      |
 |Grick                                         |                                                                              |                      |
 |Grid                                          | شبيكة                                                                        |                      |
 |Grok                                          |                                                                              |                      |
 |Gronked                                       |                                                                              |                      |
-|Group                                         | مجموعة /ج مجموعات                                                            |                      |
 |Group attribute                               | صِفة مجموعة                                                                  |                      |
 |Group identifier                              | معرًف مجموعة                                                                 |                      |
 |Group object                                  |                                                                              |                      |
 |Groupware                                     |                                                                              |                      |
+|Group                                         | مجموعة /ج مجموعات                                                            |                      |
 |Growth                                        | نمو،تضخم                                                                     |                      |
 |Grub                                          |                                                                              |                      |
 |Grunge                                        |                                                                              |                      |
@@ -2218,23 +2216,23 @@
 |Guard                                         | حارس                                                                         |                      |
 |Guess                                         | تخمين                                                                        |                      |
 |Guest                                         | ضيف                                                                          |                      |
-|GUI                                           | واجهة المستخدم الرسومية                                                      |                      |
-|Guide                                         | دليل                                                                         |                      |
 |Guideline                                     | إرشادات                                                                      |                      |
+|Guide                                         | دليل                                                                         |                      |
+|GUI                                           | واجهة المستخدم الرسومية                                                      |                      |
 |Guru                                          | غورو                                                                         |                      |
 |Gutter                                        |                                                                              |                      |
-|Hack                                          | هاك                                                                          |                      |
 |Hacker                                        | هاكر                                                                         |                      |
 |Hack value                                    | قيمة الهاك                                                                   |                      |
-|Hair                                          | غامض، معقّد                                                                  |                      |
+|Hack                                          | هاك                                                                          |                      |
 |Hairy ball                                    |                                                                              |                      |
+|Hair                                          | غامض، معقّد                                                                  |                      |
 |Haiti                                         | هايتي                                                                        |                      |
 |Half-duplex                                   | أحادي الاتجاه                                                                |                      |
 |Half-Sphere                                   | نصف كرة                                                                      |                      |
 |Halftone                                      | طباعة نصفية                                                                  |                      |
 |Halfword                                      | نصف كلمة                                                                     |                      |
-|Halt                                          | إغلاق، إيقاف                                                                 |                      |
 |Halting problem                               | مشكلة إيقاف، مشكلة توقف                                                      |                      |
+|Halt                                          | إغلاق، إيقاف                                                                 |                      |
 |Handbook                                      | كتيّب                                                                        |                      |
 |Handheld                                      | محمول باليد                                                                  |                      |
 |Handle                                        |                                                                              |                      |
@@ -2245,14 +2243,14 @@
 |Handshake                                     | إقامة الإتصال                                                                |                      |
 |Handshaking                                   | تأكيد الإتصال، إقامة الإتصال                                                 |                      |
 |Hang                                          | تعليق                                                                        |                      |
-|Haptic                                        | لمسى، متعلق باللمس                                                           |                      |
 |Haptic interface                              | واجهة لمسية                                                                  |                      |
+|Haptic                                        | لمسى، متعلق باللمس                                                           |                      |
 |Hard code                                     |                                                                              |                      |
 |Hard-coded                                    |                                                                              |                      |
 |Hard coding                                   |                                                                              |                      |
 |Hard copy                                     | نسخة ورقية                                                                   |                      |
-|Hard disk                                     | قرص ثابت                                                                     |                      |
 |Hard disk drive                               | محرّك قرص صلب                                                                |                      |
+|Hard disk                                     | قرص ثابت                                                                     |                      |
 |Hard drive                                    | قرص صلب                                                                      |                      |
 |Hard limit                                    | حدّ قوى                                                                      |                      |
 |Hard link                                     |                                                                              |                      |
@@ -2260,11 +2258,10 @@
 |Hard linking                                  | ربْط صلب                                                                     |                      |
 |Hard return                                   |                                                                              |                      |
 |Hard sector                                   | قطاع صلب                                                                     |                      |
-|Hardware                                      | عتاد                                                                         |                      |
 |Hardware circular buffer                      |                                                                              |                      |
 |Hardware handshaking                          | تأكيد اتصال عتادى                                                            |                      |
+|Hardware                                      | عتاد                                                                         |                      |
 |Hard wrap                                     |                                                                              |                      |
-|Hash                                          | تلبيد                                                                        |                      |
 |Hash bucket                                   |                                                                              |                      |
 |Hash character                                |                                                                              |                      |
 |Hash coding                                   |                                                                              |                      |
@@ -2272,13 +2269,14 @@
 |Hash function                                 | دالة تجزئة                                                                   |                      |
 |Hashing                                       |                                                                              |                      |
 |Hash table                                    |                                                                              |                      |
+|Hash                                          | تلبيد                                                                        |                      |
 |Hassle                                        | إزعاج                                                                        |                      |
 |Hatching                                      | ترقين                                                                        |                      |
 |HD (Video)                                    |                                                                              |                      |
 |Head                                          |                                                                              |                      |
-|Header                                        | ترويسة                                                                       |                      |
 |Header file                                   | ملف الترويسة                                                                 |                      |
 |Headers                                       |                                                                              |                      |
+|Header                                        | ترويسة                                                                       |                      |
 |Heading                                       | (1) ترويسة (2) عنوان                                                         |                      |
 |Head normalisation theorem                    |                                                                              |                      |
 |Headphone                                     |                                                                              |                      |
@@ -2298,27 +2296,26 @@
 |Help                                          | مساعدة                                                                       |                      |
 |Henry                                         |                                                                              |                      |
 |Here document                                 |                                                                              |                      |
-|Heterogeneous                                 | غير متجانس                                                                   |                      |
 |Heterogeneous network                         | شبكة غير متجانسة                                                             |                      |
+|Heterogeneous                                 | غير متجانس                                                                   |                      |
 |Heterogenous                                  | غير متجانس                                                                   |                      |
-|Heuristic                                     | كسبية                                                                        |                      |
 |Heuristics testing                            | إختبار الكسبية                                                               |                      |
-|Hex                                           | ست                                                                           |                      |
+|Heuristic                                     | كسبية                                                                        |                      |
 |Hexadecimal                                   | ست عشري                                                                      |                      |
 |Hexidecimal                                   |                                                                              |                      |
+|Hex                                           | ست                                                                           |                      |
 |Hibernate                                     | سبات                                                                         |                      |
-|Hidden                                        | مخفي،مختبئ                                                                   |                      |
 |Hidden file                                   | ملف مخفى                                                                     |                      |
-|Hide                                          | إخفاء                                                                        |                      |
+|Hidden                                        | مخفي،مختبئ                                                                   |                      |
 |Hidef                                         |                                                                              |                      |
+|Hide                                          | إخفاء                                                                        |                      |
 |Hierachy                                      | هرمي                                                                         |                      |
-|Hierarchical                                  | شجرى                                                                         |                      |
 |Hierarchical database                         | قاعدة بيانات شجرية                                                           |                      |
 |Hierarchical file system                      | نظام ملفات شجرى                                                              |                      |
 |Hierarchical navigation                       | تصفح شجرى                                                                    |                      |
 |Hierarchical routing                          | توجيه هرمي                                                                   |                      |
+|Hierarchical                                  | شجرى                                                                         |                      |
 |Hierarchy                                     | شجرة                                                                         |                      |
-|High                                          | عالى، مرتفع                                                                  |                      |
 |High colour                                   | عالي الألوان                                                                 |                      |
 |High definition                               | عالي التحديد                                                                 |                      |
 |High density                                  | عالي الكثافة                                                                 |                      |
@@ -2326,10 +2323,11 @@
 |Higher-order macro                            |                                                                              |                      |
 |Highest                                       | الأعلى، أعلى قيمة                                                            |                      |
 |High-level language                           | لغة عالية المستوى                                                            |                      |
-|Highlight                                     | إبراز                                                                        |                      |
 |Highlighting                                  | إبانة،إبراز                                                                  |                      |
+|Highlight                                     | إبراز                                                                        |                      |
 |High memory area                              | منطقة ذاكرة عالية                                                            |                      |
 |High speed serial interface                   | واجهة تسلسلية عالية السرعة                                                   |                      |
+|High                                          | عالى، مرتفع                                                                  |                      |
 |Hill climbing                                 | تسلًق التلال                                                                 |                      |
 |Hindi                                         | الهندية                                                                      |                      |
 |Histogram                                     | رسم بياني نسيجي، مدرّج تكراري                                                |                      |
@@ -2339,19 +2337,18 @@
 |Hog                                           |                                                                              |                      |
 |Hold Down                                     | ضغط مع التعليق / نقر مع التعليق                                              |                      |
 |Hole                                          | ثقب، فتحة                                                                    |                      |
-|Home                                          | منزل                                                                         |                      |
 |Home box                                      |                                                                              |                      |
 |Home directory                                | دليل رئيسي                                                                   |                      |
 |Home page                                     | صفحة البداية                                                                 |                      |
 |Homepage                                      | صفحة رئيسية                                                                  |                      |
-|Homogeneous                                   | متجانس                                                                       |                      |
+|Home                                          | منزل                                                                         |                      |
 |Homogeneous environment                       | بيئة متجانسة                                                                 |                      |
+|Homogeneous                                   | متجانس                                                                       |                      |
 |Homogenous                                    | متجانس                                                                       |                      |
 |Homomorphism                                  |                                                                              |                      |
 |Hook                                          | موضع إضافة في الروتين                                                        |                      |
 |Hop                                           |                                                                              |                      |
 |Hopping                                       |                                                                              |                      |
-|Horizontal                                    | أفقى                                                                         |                      |
 |Horizontal application                        | تطبيق أفقى                                                                   |                      |
 |Horizontal encoding                           | ترميز أفقى                                                                   |                      |
 |Horizontal line                               | خط أفقى                                                                      |                      |
@@ -2360,7 +2357,7 @@
 |Horizontal microcode                          |                                                                              |                      |
 |Horizontal scan rate                          | معدل المسح الأفقي                                                            |                      |
 |Horizontal tabulation                         | جدولة أفقية                                                                  |                      |
-|Host                                          | مضيف                                                                         |                      |
+|Horizontal                                    | أفقى                                                                         |                      |
 |Host adaptor                                  | مهيِّئ مضيف                                                                  |                      |
 |Host bus adapter                              | مكيًف ناقل مضيف                                                              |                      |
 |Host computer                                 | حاسوب مضيف                                                                   |                      |
@@ -2369,6 +2366,7 @@
 |Hostname                                      | اسم مضيف                                                                     |                      |
 |Host number                                   | رقم المضيف                                                                   |                      |
 |Host-resident                                 | مقيم على المضيف                                                              |                      |
+|Host                                          | مضيف                                                                         |                      |
 |Hot Key                                       | اتفاق على المفتاح                                                            |                      |
 |Hotlink                                       | رابط ساخن                                                                    |                      |
 |Hotlist                                       | قائمة شائعة                                                                  |                      |
@@ -2377,11 +2375,11 @@
 |Hot spot                                      | نقطة فعّالة                                                                  |                      |
 |Hot-swappable                                 |                                                                              |                      |
 |Hot swapping                                  | توصيل فوري                                                                   |                      |
-|Hour                                          | ساعة                                                                         |                      |
 |Hourglass                                     |                                                                              |                      |
+|Hour                                          | ساعة                                                                         |                      |
 |Housekeeping                                  | تدابير تحضيرية                                                               |                      |
-|Hover                                         | حوم/حومان                                                                    |                      |
 |Hover link                                    |                                                                              |                      |
+|Hover                                         | حوم/حومان                                                                    |                      |
 |Html                                          |                                                                              |                      |
 |HTML                                          | HTML                                                                         |                      |
 |HTTP                                          | HTTP                                                                         |                      |
@@ -2390,9 +2388,9 @@
 |Humanist technology                           | تقنية انسانية الهدف                                                          |                      |
 |Humor                                         | ظَرَافَة                                                                     |                      |
 |Hung                                          |                                                                              |                      |
-|Hybrid                                        | هجين                                                                         |                      |
 |Hybrid multiprocessing                        | تعدد الإجراء الهجين،تعدد المعالجة الهجين                                     |                      |
 |Hybrid testing                                | إختبار مهجن                                                                  |                      |
+|Hybrid                                        | هجين                                                                         |                      |
 |Hyper                                         |                                                                              |                      |
 |Hypercube                                     | مكعًب فائق                                                                   |                      |
 |Hyperlink                                     |                                                                              |                      |
@@ -2405,27 +2403,27 @@
 |Hyphens                                       | علامات الوصل                                                                 |                      |
 |Hypotenuse                                    | وَتَر                                                                        |                      |
 |Iceland                                       | أيسلندا                                                                      |                      |
-|Icon                                          | أيقونة                                                                       |                      |
 |Iconic interface                              | واجهة أيقونية                                                                |                      |
-|ID                                            | هوية                                                                         |                      |
-|Ide                                           | بيئة تطوير متكاملة                                                           |                      |
-|IDE                                           | بيئة تطوير متكاملة                                                           |                      |
+|Icon                                          | أيقونة                                                                       |                      |
 |Ideal                                         | مثالي                                                                        |                      |
 |Identification                                | تعريف                                                                        |                      |
 |Identifier                                    | معرًف،مثبت الهوية                                                            |                      |
 |Identify                                      | تعرّف                                                                        |                      |
+|Ide                                           | بيئة تطوير متكاملة                                                           |                      |
+|IDE                                           | بيئة تطوير متكاملة                                                           |                      |
 |Idle                                          | ساكن                                                                         |                      |
+|ID                                            | هوية                                                                         |                      |
 |Ignore                                        | تجاهل                                                                        |                      |
 |Illegal                                       |                                                                              |                      |
 |Illumination                                  | إضائة،تنوير                                                                  |                      |
 |Illustration                                  | تصوير،رسم،توضيح، تفسير                                                       |                      |
-|Image                                         | صورة                                                                         |                      |
 |Image format                                  | صيغة الصورة                                                                  |                      |
 |Image map                                     |                                                                              |                      |
 |Image processing                              | معالجة الصور                                                                 |                      |
 |Image recognition                             |                                                                              |                      |
 |Image sequence                                | تتابع صور،تعاقب صور                                                          |                      |
 |Image stitching                               |                                                                              |                      |
+|Image                                         | صورة                                                                         |                      |
 |Imaging                                       |                                                                              |                      |
 |Immediately                                   |                                                                              |                      |
 |Immediate version                             | إصدار فوري،إصدار عاجل                                                        |                      |
@@ -2436,44 +2434,44 @@
 |Implicit parallelism                          | الموازاة الدفينة،الموازاة الضِمنيًة                                          |                      |
 |Implicit type conversion                      | تحويل نوع ضِمنيً،مبادلة نوع ضمنيًة                                           |                      |
 |Implies                                       | حَوَى،شَمَلَ،ضَمّ                                                            |                      |
-|Import                                        | استيراد                                                                      |                      |
 |Imported                                      |                                                                              |                      |
 |Importing                                     |                                                                              |                      |
 |Imports                                       |                                                                              |                      |
+|Import                                        | استيراد                                                                      |                      |
 |Impossible                                    | مستحيل،مستصعب                                                                |                      |
 |Imprecise probability                         |                                                                              |                      |
-|Inactive                                      | خامل                                                                         |                      |
 |Inactive window                               | نافذة غير نشطة                                                               |                      |
+|Inactive                                      | خامل                                                                         |                      |
 |In-band                                       |                                                                              |                      |
 |Inbox                                         | صندوق الوارد                                                                 |                      |
 |Incantation                                   | تعويذة                                                                       |                      |
 |Inch                                          | بوصة                                                                         |                      |
-|Include                                       | تضمين                                                                        |                      |
 |Include file                                  |                                                                              |                      |
 |Include war                                   |                                                                              |                      |
+|Include                                       | تضمين                                                                        |                      |
 |Inclusive                                     |                                                                              |                      |
 |Incoming                                      | وارد                                                                         |                      |
 |Incomparable                                  |                                                                              |                      |
 |Incompatible                                  | غير متوافق                                                                   |                      |
 |Increase                                      | إكثار،إرتفاع،تزايد، تصاعد                                                    |                      |
-|Increment                                     | مَزيد ?                                                                      |                      |
-|Incremental                                   | تزايدي                                                                       |                      |
 |Incremental analysis                          |                                                                              |                      |
 |Incremental backup                            |                                                                              |                      |
 |Incremental constraint solver                 |                                                                              |                      |
 |Incremental update                            | تحديث تزايدي                                                                 |                      |
+|Incremental                                   | تزايدي                                                                       |                      |
+|Increment                                     | مَزيد ?                                                                      |                      |
 |Indent                                        |                                                                              |                      |
 |Indentation                                   | إزاحة                                                                        |                      |
 |Indented                                      |                                                                              |                      |
 |Indent style                                  | أسلوب الإزاحة                                                                |                      |
 |Independent                                   | مستقلّ                                                                       |                      |
-|Index                                         | فهرس                                                                         |                      |
 |Indexing                                      |                                                                              |                      |
+|Index                                         | فهرس                                                                         |                      |
 |Indicate                                      |                                                                              |                      |
 |Indicator                                     | دالّ، مؤشر                                                                   |                      |
 |Indice                                        |                                                                              |                      |
-|Indirect address                              | عنوان غير مباشر                                                              |                      |
 |Indirect addressing                           | عنونة غير مباشرة                                                             |                      |
+|Indirect address                              | عنوان غير مباشر                                                              |                      |
 |Indirection                                   |                                                                              |                      |
 |Induction                                     | الحثً                                                                        |                      |
 |Inductive inference                           |                                                                              |                      |
@@ -2484,30 +2482,30 @@
 |Inference engine                              |                                                                              |                      |
 |Inference rule                                |                                                                              |                      |
 |Infimum                                       | الحدً الأدنى الأعظم                                                          |                      |
-|Infinite                                      | لا نهائي                                                                     |                      |
 |Infinite loop                                 | حلقة لا نهائية                                                               |                      |
 |Infinite set                                  |                                                                              |                      |
+|Infinite                                      | لا نهائي                                                                     |                      |
 |Infinity                                      | اللاتناهي                                                                    |                      |
 |Infix notation                                | تنْويت داخلي                                                                 |                      |
 |Infix syntax                                  |                                                                              |                      |
 |Inflate                                       |                                                                              |                      |
-|Info                                          | معلومات                                                                      |                      |
-|Information                                   | معلومات                                                                      |                      |
 |Information highway                           | جادة المعلومات،سكة المعلومات،طريق المعلومات                                  |                      |
 |Information overload                          |                                                                              |                      |
 |Information superhighway                      |                                                                              |                      |
+|Information                                   | معلومات                                                                      |                      |
+|Info                                          | معلومات                                                                      |                      |
 |Infrared                                      | تحت أحمر                                                                     |                      |
 |Infrastructure                                | بنية تحتيّة                                                                  |                      |
 |Inheritance                                   |                                                                              |                      |
 |Inherited                                     | موروث                                                                        |                      |
 |Inhertence                                    |                                                                              |                      |
-|Initial                                       | إبتدائي،بدائي                                                                |                      |
 |Initialise                                    |                                                                              |                      |
-|Initialization                                | تمهيد                                                                        |                      |
 |Initialization file                           | ملف تهيئة                                                                    |                      |
+|Initialization                                | تمهيد                                                                        |                      |
 |Initialize                                    |                                                                              |                      |
 |Initializing                                  |                                                                              |                      |
 |Initials                                      |                                                                              |                      |
+|Initial                                       | إبتدائي،بدائي                                                                |                      |
 |Initiate                                      |                                                                              |                      |
 |Initiator                                     |                                                                              |                      |
 |Init state                                    |                                                                              |                      |
@@ -2522,30 +2520,30 @@
 |Inner product                                 |                                                                              |                      |
 |Inode                                         |                                                                              |                      |
 |In-order traversal                            |                                                                              |                      |
-|Input                                         | دَخْل                                                                        |                      |
 |Input device                                  | جهاز إدخال                                                                   |                      |
 |Input method                                  | طريقة الإدخال                                                                |                      |
 |Input/output                                  | إدخال/إخراج                                                                  |                      |
 |Input side                                    |                                                                              |                      |
+|Input                                         | دَخْل                                                                        |                      |
 |Inquire                                       | إستخبر،تساءل                                                                 |                      |
 |In row                                        |                                                                              |                      |
 |Inscription                                   |                                                                              |                      |
 |Insensitive version                           |                                                                              |                      |
-|Insert                                        | إدراج                                                                        |                      |
 |Inserted                                      | مدموج،مُدخل                                                                  |                      |
 |Insertion point                               | علامة الإقحام                                                                |                      |
 |Insertions                                    |                                                                              |                      |
 |Insertion sort                                |                                                                              |                      |
 |Insert mode                                   | نمط الإدراج،نمط الإدخال                                                      |                      |
-|Inside                                        | جواني،داخل،باطني                                                             |                      |
+|Insert                                        | إدراج                                                                        |                      |
 |Inside (centered)                             |                                                                              |                      |
+|Inside                                        | جواني،داخل،باطني                                                             |                      |
 |Inspect                                       |                                                                              |                      |
 |Inspection                                    | اِسْتِقْصاء، تَفَقُّد                                                        |                      |
-|Install                                       | تثبيت                                                                        |                      |
 |Installable file system                       |                                                                              |                      |
 |Installation                                  | تثبيت                                                                        |                      |
 |Installed user base                           |                                                                              |                      |
 |Installer                                     | مثبِّت                                                                       |                      |
+|Install                                       | تثبيت                                                                        |                      |
 |Instance                                      |                                                                              |                      |
 |Instance method                               |                                                                              |                      |
 |Instance variable                             |                                                                              |                      |
@@ -2553,25 +2551,25 @@
 |Instantiation                                 |                                                                              |                      |
 |Instant messenger                             | مِرْسال فوري                                                                 |                      |
 |Institution                                   |                                                                              |                      |
-|Instruction                                   | تعليمة                                                                       |                      |
 |Instruction mnemonic                          |                                                                              |                      |
 |Instruction pointer                           |                                                                              |                      |
 |Instruction prefetch                          |                                                                              |                      |
 |Instruction scheduling                        | جدولة التعليمات                                                              |                      |
 |Instruction set                               |                                                                              |                      |
 |Instruction set architecture                  |                                                                              |                      |
+|Instruction                                   | تعليمة                                                                       |                      |
 |Instrument                                    | آلة                                                                          |                      |
 |Insufficient                                  |                                                                              |                      |
 |Integer                                       | عدد صحيح                                                                     |                      |
 |Integral                                      | مدمج                                                                         |                      |
-|Integrate                                     | يدمج                                                                         |                      |
 |Integrated                                    |                                                                              |                      |
 |Integrated circuit                            |                                                                              |                      |
 |Integrated development environment            | بيئة التطوير المتكامل                                                        |                      |
-|Integration                                   | دمج                                                                          |                      |
+|Integrate                                     | يدمج                                                                         |                      |
 |Integration testing                           |                                                                              |                      |
-|Integrity                                     | تكامل                                                                        |                      |
+|Integration                                   | دمج                                                                          |                      |
 |Integrity constrain                           |                                                                              |                      |
+|Integrity                                     | تكامل                                                                        |                      |
 |Intellectual property                         | الملكية الفكرية                                                              |                      |
 |Intelligent backtracking                      |                                                                              |                      |
 |Intelligent database                          | قاعدة معطيات ذكيًة                                                           |                      |
@@ -2580,17 +2578,17 @@
 |Intensional                                   |                                                                              |                      |
 |Intensity                                     | شِدّة                                                                        |                      |
 |Interaction                                   |                                                                              |                      |
-|Interactive                                   | تفاعلي                                                                       |                      |
 |Interactive development environment           |                                                                              |                      |
+|Interactive                                   | تفاعلي                                                                       |                      |
 |Interactivity                                 | تفاعلية                                                                      |                      |
 |Intercept                                     |                                                                              |                      |
 |Interchange File Format                       |                                                                              |                      |
 |Interconnect                                  | شبكة وصل                                                                     |                      |
 |Interest                                      |                                                                              |                      |
 |Inter-exchange carrier                        |                                                                              |                      |
-|Interface                                     | واجهة                                                                        |                      |
 |Interface analysis                            |                                                                              |                      |
 |Interface card                                |                                                                              |                      |
+|Interface                                     | واجهة                                                                        |                      |
 |Interference                                  | تداخل                                                                        |                      |
 |Interlace                                     |                                                                              |                      |
 |Interlaced                                    |                                                                              |                      |
@@ -2600,18 +2598,18 @@
 |Interleaving                                  |                                                                              |                      |
 |Intermediate                                  | متوسّط                                                                       |                      |
 |Intermercial                                  |                                                                              |                      |
-|Internal                                      | داخلية، باطنية                                                               |                      |
 |Internal bug                                  | عيب داخلي                                                                    |                      |
 |Internal error                                | خطأ داخلي                                                                    |                      |
 |Internal field separator                      |                                                                              |                      |
 |Internal frame                                | إطار داخلي                                                                   |                      |
-|International                                 | دُوَلي                                                                       |                      |
+|Internal                                      | داخلية، باطنية                                                               |                      |
 |Internationalisation                          |                                                                              |                      |
 |Internationalization                          | تدويل                                                                        |                      |
-|Internet                                      | إنترنت                                                                       |                      |
+|International                                 | دُوَلي                                                                       |                      |
 |Internet address                              | عنوان الإنترنت                                                               |                      |
 |Internet number                               | رقم إنترنت                                                                   |                      |
 |Internetworking                               |                                                                              |                      |
+|Internet                                      | إنترنت                                                                       |                      |
 |Interoperability                              |                                                                              |                      |
 |Interoperable database                        |                                                                              |                      |
 |Inter-packet gap                              |                                                                              |                      |
@@ -2632,18 +2630,18 @@
 |Interworking                                  |                                                                              |                      |
 |Intranet                                      | إنترانت                                                                      |                      |
 |Intrusion detection system                    |                                                                              |                      |
-|Intuition                                     | بداهة                                                                        |                      |
 |Intuitionism                                  | حدسيّة                                                                       |                      |
 |Intuitionistic logic                          | منطق بديهي                                                                   |                      |
 |Intuitionistic probability                    |                                                                              |                      |
+|Intuition                                     | بداهة                                                                        |                      |
 |Intuitive                                     | حَدسي                                                                        |                      |
 |Invalid                                       |                                                                              |                      |
 |Invariant                                     |                                                                              |                      |
-|Inverse                                       | عكس                                                                          |                      |
 |Inverse comment convention                    |                                                                              |                      |
-|Invert                                        | عكس                                                                          |                      |
+|Inverse                                       | عكس                                                                          |                      |
 |Inverted index                                |                                                                              |                      |
 |Invert Selection                              | قلب الإختيار                                                                 |                      |
+|Invert                                        | عكس                                                                          |                      |
 |Invisible                                     | خفيّ                                                                         |                      |
 |Invoke                                        | استدعاء                                                                      |                      |
 |Involved                                      | متورط                                                                        |                      |
@@ -2670,26 +2668,26 @@
 |Jaz Drive                                     | السواقة مفتوحة                                                               |                      |
 |Jewel case                                    |                                                                              |                      |
 |Jitter                                        | إرتعاش،رجرجة                                                                 |                      |
-|Job                                           | شغل                                                                          |                      |
 |Job control                                   | مراقبة المهمة                                                                |                      |
 |Job number                                    | رقم المهمة                                                                   |                      |
-|Join                                          | انضمام                                                                       |                      |
+|Job                                           | شغل                                                                          |                      |
 |Joint                                         | مفصلي                                                                        |                      |
-|Journal                                       | اليومية                                                                      |                      |
+|Join                                          | انضمام                                                                       |                      |
 |Journaling file system                        |                                                                              |                      |
+|Journal                                       | اليومية                                                                      |                      |
 |Joypad                                        |                                                                              |                      |
 |Joy stick                                     | عصا الألعاب                                                                  |                      |
 |Joystick                                      | عصا الألعاب                                                                  |                      |
 |JPEG                                          | JPEG تهيئة صورة                                                              |                      |
 |Jukebox                                       |                                                                              |                      |
-|Jump                                          | قفز، تجاوز                                                                   |                      |
 |Jumper                                        | نطاط،قفاز                                                                    |                      |
 |Jumpstart                                     |                                                                              |                      |
 |Jump table                                    |                                                                              |                      |
 |Jump trace buffer                             |                                                                              |                      |
+|Jump                                          | قفز، تجاوز                                                                   |                      |
 |Junction                                      | توصيلة                                                                       |                      |
-|Junk                                          | قمامة، غير هام، كراكيب                                                       |                      |
 |Junk mail                                     |                                                                              |                      |
+|Junk                                          | قمامة، غير هام، كراكيب                                                       |                      |
 |Justification                                 | محاذاة                                                                       |                      |
 |Justified                                     | محاذى                                                                        |                      |
 |Justify                                       | تسوية                                                                        |                      |
@@ -2700,15 +2698,15 @@
 |KDM                                           |                                                                              |                      |
 |Keep                                          | ترك                                                                          |                      |
 |Kernal                                        | النواة، اللّب                                                                |                      |
-|Kernel                                        | نواة                                                                         |                      |
 |Kernel panic                                  | إرتياع، ذعر                                                                  |                      |
+|Kernel                                        | نواة                                                                         |                      |
 |Kerning                                       | تأليف (الأحرف)                                                               |                      |
 |Key                                           |                                                                              |                      |
 |Key agreement                                 |                                                                              |                      |
-|Keybind                                       | ارتباط المفتاح                                                               |                      |
 |Key binding                                   | ارتباط المفتاح                                                               |                      |
-|Keyboard                                      | لوحة مفاتيح                                                                  |                      |
+|Keybind                                       | ارتباط المفتاح                                                               |                      |
 |Keyboard focus                                | بؤرة لوحة المفاتيح، تركيز لوحة المفاتيح                                      |                      |
+|Keyboard                                      | لوحة مفاتيح                                                                  |                      |
 |Key (Button)                                  | زر                                                                           |                      |
 |Key-encrypting                                | التشفير بالمفاتيح                                                            |                      |
 |Key escrow                                    | مؤتمن المفتاح                                                                |                      |
@@ -2719,52 +2717,52 @@
 |Keypal                                        | صديق مراسلة                                                                  |                      |
 |Key stroke                                    | ضغطة زر                                                                      |                      |
 |Keystroke                                     | ضغطة زر                                                                      |                      |
-|Key word                                      | كلمة أساسية                                                                  |                      |
-|Keyword                                       | كلمة مفتاحيَّة                                                               |                      |
 |Keyword in context                            | كلمة مفتاحية فى السياق                                                       |                      |
 |Keywords                                      | كلمات مفتاحية                                                                |                      |
+|Key word                                      | كلمة أساسية                                                                  |                      |
+|Keyword                                       | كلمة مفتاحيَّة                                                               |                      |
 |Khaledali                                     |                                                                              |                      |
 |Kiboze                                        |                                                                              |                      |
-|Kill                                          | قتل                                                                          |                      |
 |Kill app                                      | قتل برنامج                                                                   |                      |
 |Killer poke                                   |                                                                              |                      |
-|Kilo-                                         | كيلو-                                                                        |                      |
+|Kill                                          | قتل                                                                          |                      |
 |Kilobaud                                      | كيلوبود                                                                      |                      |
-|Kilobit                                       | كيلوبت                                                                       |                      |
 |Kilobits per second                           | كيلوبت في الثانية                                                            |                      |
+|Kilobit                                       | كيلوبت                                                                       |                      |
 |Kilobyte                                      | كيلوبايت                                                                     |                      |
 |Kiloflops                                     | كيلو نقطة عائمة فى الثانية                                                   |                      |
 |Kilometer                                     | كيلومتر                                                                      |                      |
+|Kilo-                                         | كيلو-                                                                        |                      |
 |Kiosk                                         | كوخ، ظلًة                                                                    |                      |
 |Kit                                           |                                                                              |                      |
 |Knapsack problem                              | مشكلة فى الحقيبة                                                             |                      |
 |Knowbot                                       | بوت معرفة                                                                    |                      |
 |Know-how                                      | دِراية،خِبْرة                                                                |                      |
-|Knowledge                                     | معرفة                                                                        |                      |
-|Knowledge base                                | قاعدة معارف                                                                  |                      |
 |Knowledge-based system                        | نظام مبنى على المعرفة                                                        |                      |
+|Knowledge base                                | قاعدة معارف                                                                  |                      |
 |Knowledge level                               | مستوى المعرفة                                                                |                      |
 |Knowledge representation                      | تمثيل المعرفة                                                                |                      |
-|Label                                         | لصيقة                                                                        |                      |
+|Knowledge                                     | معرفة                                                                        |                      |
 |Label edge router                             |                                                                              |                      |
 |Label switched path                           |                                                                              |                      |
 |Label switching                               | تبديل الرقعات                                                                |                      |
+|Label                                         | لصيقة                                                                        |                      |
 |Lag                                           | تَبَاطُؤ                                                                     |                      |
-|Lambda                                        | لامدا                                                                        |                      |
 |Lambda abstraction                            |                                                                              |                      |
 |Lambda-calculus                               |                                                                              |                      |
 |Lambda expression                             |                                                                              |                      |
 |Lambda lifting                                |                                                                              |                      |
+|Lambda                                        | لامدا                                                                        |                      |
 |Lamp-post error                               |                                                                              |                      |
 |Landscape                                     | عرضي                                                                         |                      |
-|Language                                      | لغة                                                                          |                      |
 |Language-based editor                         | محرر مبنى على اللغة                                                          |                      |
 |Language-sensitive editor                     | محرر حساس لللغة                                                              |                      |
-|Laptop                                        | حاسوب محمول                                                                  |                      |
+|Language                                      | لغة                                                                          |                      |
 |Laptop computer                               | حاسوب محمول                                                                  |                      |
+|Laptop                                        | حاسوب محمول                                                                  |                      |
 |Larges                                        |                                                                              |                      |
-|Laser                                         | ليزر                                                                         |                      |
 |Laser printer                                 | طابعة ليزر                                                                   |                      |
+|Laser                                         | ليزر                                                                         |                      |
 |Last call optimisation                        |                                                                              |                      |
 |Last-in first-out                             | الداخل آخراً، خارج أولا                                                      |                      |
 |Latch                                         |                                                                              |                      |
@@ -2772,9 +2770,9 @@
 |Latex                                         |                                                                              |                      |
 |LaTeX                                         |                                                                              |                      |
 |Lattice                                       | شبيكة،عريش                                                                   |                      |
-|Launch                                        | تنفيذ                                                                        |                      |
 |Launcher                                      | مُطْلِق                                                                      |                      |
 |Launch icon                                   |                                                                              |                      |
+|Launch                                        | تنفيذ                                                                        |                      |
 |Lavender                                      | الخُزَامَى                                                                   |                      |
 |Law                                           | قانون                                                                        |                      |
 |Layer                                         | طبقة                                                                         |                      |
@@ -2785,8 +2783,8 @@
 |Leader                                        | رائد                                                                         |                      |
 |Leading                                       | أولي،رئيسي،قيادي                                                             |                      |
 |Leaf                                          | ورقة                                                                         |                      |
-|Leak                                          | تسريب                                                                        |                      |
 |Leaky heap                                    |                                                                              |                      |
+|Leak                                          | تسريب                                                                        |                      |
 |Leap second                                   |                                                                              |                      |
 |Leased line                                   | خط مؤجر                                                                      |                      |
 |Least fixed point                             |                                                                              |                      |
@@ -2794,7 +2792,6 @@
 |Least significant bit                         |                                                                              |                      |
 |Least upper bound                             |                                                                              |                      |
 |Lee                                           |                                                                              |                      |
-|Left                                          | يسار                                                                         |                      |
 |Left arrow                                    | سهم يساري                                                                    |                      |
 |Left brace                                    | حاصرة يسارية                                                                 |                      |
 |Left bracket                                  | قوس يسار(ي)                                                                  |                      |
@@ -2804,24 +2801,25 @@
 |Left outer joint                              |                                                                              |                      |
 |Left outside                                  |                                                                              |                      |
 |Left parenthesis                              | هلال يساري                                                                   |                      |
+|Left                                          | يسار                                                                         |                      |
 |Legacy                                        |                                                                              |                      |
 |Legacy code                                   | شفرة تراثى                                                                   |                      |
 |Legacy software                               | برامج تراثية                                                                 |                      |
 |Legacy system                                 |                                                                              |                      |
-|Legal                                         | قانوني                                                                       |                      |
 |Legalese                                      | حقوقيات،قانونيات                                                             |                      |
+|Legal                                         | قانوني                                                                       |                      |
 |Legend                                        | دليل مصطلحات،أسطورة                                                          |                      |
 |Lemma                                         |                                                                              |                      |
 |Length                                        | طول                                                                          |                      |
 |Lenient evaluation                            |                                                                              |                      |
-|Less                                          | أقل                                                                          |                      |
 |Less than                                     | أقل من                                                                       |                      |
+|Less                                          | أقل                                                                          |                      |
 |Let floating                                  |                                                                              |                      |
 |Letter                                        | رسالة                                                                        |                      |
-|Level                                         | مستوى                                                                        |                      |
 |Level one cache                               | خابية (معالج) من المستوى الأوًل                                              |                      |
 |Level-sensitive scan design                   |                                                                              |                      |
 |Level two cache                               | خابية (معالج) من المستوى الثاني                                              |                      |
+|Level                                         | مستوى                                                                        |                      |
 |Lexeme                                        |                                                                              |                      |
 |Lexer                                         | see lexical analyser                                                         |                      |
 |Lexical analyser                              | محلل لغوي                                                                    |                      |
@@ -2831,32 +2829,30 @@
 |Lexicon                                       | معجم                                                                         |                      |
 |Liar paradox                                  |                                                                              |                      |
 |Libraries                                     | مكتبات                                                                       |                      |
-|Library                                       | مكتبة                                                                        |                      |
 |Library routines                              | صيغ مكتبية                                                                   |                      |
-|License                                       | ترخيص                                                                        |                      |
+|Library                                       | مكتبة                                                                        |                      |
 |License agreement                             | إتفاقية الترخيص                                                              |                      |
+|License                                       | ترخيص                                                                        |                      |
 |Liechtenstein                                 |                                                                              |                      |
-|Life                                          | حياة                                                                         |                      |
 |Life-cycle                                    | دورة حياة                                                                    |                      |
 |Life science                                  | علم الأحياء                                                                  |                      |
+|Life                                          | حياة                                                                         |                      |
 |LIFO                                          | الداخل آخراً، خارج أولا                                                      |                      |
 |Lifted domain                                 | مجال مرفوع                                                                   |                      |
 |Ligature                                      |                                                                              |                      |
-|Light                                         | نور                                                                          |                      |
 |Light client                                  | عميل خفيف                                                                    |                      |
 |Light pen                                     | قلم خفيف                                                                     |                      |
 |Light pipe                                    |                                                                              |                      |
 |Light precipitation                           | هطول مجهول                                                                   |                      |
-|Lightweight                                   | خفيف الوزن                                                                   |                      |
 |Light-weight process                          | عملية خفيفة الوزن                                                            |                      |
-|Like                                          | مثل                                                                          |                      |
+|Lightweight                                   | خفيف الوزن                                                                   |                      |
+|Light                                         | نور                                                                          |                      |
 |Like this                                     | مثل هذا                                                                      |                      |
+|Like                                          | مثل                                                                          |                      |
 |Lilo                                          | محمل لينكس                                                                   |                      |
 |Limes                                         |                                                                              |                      |
-|Limit                                         | حد                                                                           |                      |
 |Limits                                        |                                                                              |                      |
-|Line                                          | سطر                                                                          |                      |
-|Linear                                        | خطيّة                                                                        |                      |
+|Limit                                         | حد                                                                           |                      |
 |Linear address space                          |                                                                              |                      |
 |Linear argument                               |                                                                              |                      |
 |Linear assignment                             |                                                                              |                      |
@@ -2869,6 +2865,7 @@
 |Linear transfer                               | نقل خطى                                                                      |                      |
 |Linear transformation                         | تحويل خطي                                                                    |                      |
 |Linear type                                   | نوع خطي                                                                      |                      |
+|Linear                                        | خطيّة                                                                        |                      |
 |Line buffering                                | تصوين السطر،تصوين الخط                                                       |                      |
 |Line conditioning                             |                                                                              |                      |
 |Line discipline                               |                                                                              |                      |
@@ -2882,7 +2879,7 @@
 |Lines per minute                              | سطور في الدقيقة                                                              |                      |
 |Line starve                                   |                                                                              |                      |
 |Linewrap                                      |                                                                              |                      |
-|Link                                          | رابط                                                                         |                      |
+|Line                                          | سطر                                                                          |                      |
 |Linkage editor                                | محرر التوصيلات                                                               |                      |
 |Linked to                                     | موصل الى                                                                     |                      |
 |Linker                                        | موصل                                                                         |                      |
@@ -2890,33 +2887,33 @@
 |Link loader                                   |                                                                              |                      |
 |Link rot                                      | وصلة عفنة                                                                    |                      |
 |Links                                         | وصلات                                                                        |                      |
+|Link                                          | رابط                                                                         |                      |
 |Linux                                         | لينِكس                                                                       |                      |
 |Liquid crystal display                        | معراض سائل البلًور                                                           |                      |
-|List                                          | لائحة                                                                        |                      |
 |Listbox                                       |                                                                              |                      |
 |List comprehension                            |                                                                              |                      |
 |Listing                                       | عرض                                                                          |                      |
 |Listless                                      | بدون قائمة                                                                   |                      |
 |Lists                                         |                                                                              |                      |
-|Lite                                          | خفيف                                                                         |                      |
+|List                                          | لائحة                                                                        |                      |
 |Literal                                       | حرفي،لفظي                                                                    |                      |
 |Literate programming                          |                                                                              |                      |
 |Literature                                    | المؤلفات                                                                     |                      |
+|Lite                                          | خفيف                                                                         |                      |
 |Little-endian                                 |                                                                              |                      |
 |Live CD                                       | قرص حي                                                                       |                      |
-|Load                                          | حِمْل، تحميل                                                                 |                      |
-|Loadable                                      | قابل للتحميل                                                                 |                      |
 |Loadable kernel                               | نواة قابل للتحميل                                                            |                      |
-|Load balancing                                | موازنة الحِمل،موازنة التحميل                                                 |                      |
+|Loadable                                      | قابل للتحميل                                                                 |                      |
 |Load-balancing                                |                                                                              |                      |
-|Local                                         | محلِّي                                                                       |                      |
+|Load balancing                                | موازنة الحِمل،موازنة التحميل                                                 |                      |
+|Load                                          | حِمْل، تحميل                                                                 |                      |
 |Local area network                            | شبكة منطقة محلية                                                             |                      |
 |Local bus                                     | حافلة محلية                                                                  |                      |
 |Local data sources                            | مصادر بيانات محلية                                                           |                      |
 |Local disk                                    | قرص محلًي                                                                    |                      |
-|Locale                                        | محلية                                                                        |                      |
 |Local echo                                    | صدى محلًي                                                                    |                      |
 |Local exchange carrier                        |                                                                              |                      |
+|Locale                                        | محلية                                                                        |                      |
 |Local file                                    | ملف محلي                                                                     |                      |
 |Local host                                    | مضيف محلي                                                                    |                      |
 |Localhost                                     | مُضيف محلي                                                                   |                      |
@@ -2925,94 +2922,95 @@
 |Locality                                      |                                                                              |                      |
 |Localization                                  | توطين                                                                        |                      |
 |Localize                                      |                                                                              |                      |
-|Local loop                                    | حلقة محلية                                                                   |                      |
 |Local loopback addresses                      |                                                                              |                      |
+|Local loop                                    | حلقة محلية                                                                   |                      |
 |Locals                                        |                                                                              |                      |
 |Local variable                                | متغيًر محليً                                                                 |                      |
+|Local                                         | محلِّي                                                                       |                      |
 |Location                                      | موقع                                                                         |                      |
 |Locator                                       | محدد المواقع                                                                 |                      |
-|Lock                                          | قفل                                                                          |                      |
-|Locked                                        | مؤمّن                                                                        |                      |
 |Locked file                                   | ملف مقفول                                                                    |                      |
 |Locked up                                     |                                                                              |                      |
+|Locked                                        | مؤمّن                                                                        |                      |
 |Lock-in                                       |                                                                              |                      |
 |Locking                                       | إقفال، إغلاق                                                                 |                      |
-|Log                                           | سجل                                                                          |                      |
-|Logarithm                                     | لوغارتم                                                                      |                      |
+|Lock                                          | قفل                                                                          |                      |
 |Logarithmus dualist                           |                                                                              |                      |
+|Logarithm                                     | لوغارتم                                                                      |                      |
 |Log file                                      | ملف السجل                                                                    |                      |
-|Logic                                         | منطق                                                                         |                      |
-|Logical                                       | منطقي                                                                        |                      |
 |Logical address                               | عنوان منطقي                                                                  |                      |
 |Logical complement                            |                                                                              |                      |
 |Logical disk                                  | قرص منطقي                                                                    |                      |
 |Logical-hostname                              | أسم مضيف منطقي                                                               |                      |
 |Logical network                               | شبكة منطقية                                                                  |                      |
 |Logical relation                              | علاقة منطقية                                                                 |                      |
-|Logical shift                                 | تغيير منطقى                                                                  |                      |
 |Logical shift left                            | تغيير منطقى يسارى                                                            |                      |
 |Logical shift right                           | تغيير منطقى يمينى                                                            |                      |
+|Logical shift                                 | تغيير منطقى                                                                  |                      |
+|Logical                                       | منطقي                                                                        |                      |
 |Logic emulator                                | محاكى منطقى                                                                  |                      |
 |Logic gate                                    | بوابة منطقية                                                                 |                      |
 |Logic programming                             | برمجة منطقية                                                                 |                      |
 |Logic variable                                | متغييرة منطقية                                                               |                      |
+|Logic                                         | منطق                                                                         |                      |
 |Log in                                        |                                                                              |                      |
-|Login                                         | ولوج                                                                         |                      |
 |Login banner                                  |                                                                              |                      |
 |Login directory                               | دليل الولوج                                                                  |                      |
 |Login name                                    | اسم الولوج                                                                   |                      |
 |Login prompt                                  | محث الولوج                                                                   |                      |
-|Login shell                                   | صدفة ولوج                                                                    |                      |
-|Logo                                          | شِعار                                                                        |                      |
+|Login shell                                   | صدفة تسجيل دخول                                                                    |                      |
+|Login                                         | تسجيل دخول                                                                         |                      |
 |Log off                                       |                                                                              |                      |
 |Logon                                         |                                                                              |                      |
 |Log out                                       |                                                                              |                      |
 |Logout                                        | خروج                                                                         |                      |
+|Logo                                          | شِعار                                                                        |                      |
+|Log                                           | سجل                                                                          |                      |
 |Longitudinal parity                           |                                                                              |                      |
-|Look                                          | منظر                                                                         |                      |
 |Lookahead                                     |                                                                              |                      |
 |Look and feel                                 | المنظر و الأحساس                                                             |                      |
-|Lookup                                        | بحث                                                                          |                      |
 |Look-up table                                 |                                                                              |                      |
-|Loop                                          | ينفذ بتكرار،حلقة،يكرر                                                        |                      |
-|Loopback                                      | إسترجاع                                                                      |                      |
+|Lookup                                        | بحث                                                                          |                      |
+|Look                                          | منظر                                                                         |                      |
 |Loopback file                                 |                                                                              |                      |
+|Loopback                                      | إسترجاع                                                                      |                      |
 |Loop combination                              |                                                                              |                      |
 |Loop fusion                                   |                                                                              |                      |
 |Loop through                                  |                                                                              |                      |
+|Loop                                          | ينفذ بتكرار،حلقة،يكرر                                                        |                      |
 |Loose bytes                                   | بايتات مفككة                                                                 |                      |
-|Loss                                          | ضياع                                                                         |                      |
-|Lossless                                      | غير فقود(ة)                                                                  |                      |
 |Lossless audio compression                    | ضغط الصوت بدون خسارة                                                         |                      |
 |Lossless compression                          | ضغط غير فقود                                                                 |                      |
-|Lossy                                         | فقود                                                                         |                      |
+|Lossless                                      | غير فقود(ة)                                                                  |                      |
 |Lossy audio compression                       |                                                                              |                      |
 |Lossy compression                             | ضغط فقود                                                                     |                      |
+|Lossy                                         | فقود                                                                         |                      |
+|Loss                                          | ضياع                                                                         |                      |
 |Love                                          | حب                                                                           |                      |
-|Low                                           | منخفض                                                                        |                      |
 |Low-bandwidth                                 | طول موجة منخفض                                                               |                      |
 |Low earth orbit                               | مدار أرضي منخفض (الإرتفاع)                                                   |                      |
-|Lower                                         | أقل                                                                          |                      |
 |Lowercase                                     |                                                                              |                      |
 |Lower-case                                    | حرف صغير                                                                     |                      |
 |Lower set                                     | مجموعة أدنى                                                                  |                      |
 |Lower Stream                                  |                                                                              |                      |
+|Lower                                         | أقل                                                                          |                      |
 |Lowest                                        | الأدنى                                                                       |                      |
 |Low-level language                            | لغة منخفضة المستوى                                                           |                      |
 |Low memory area                               | منطقة ذاكرة منخفضة                                                           |                      |
+|Low                                           | منخفض                                                                        |                      |
 |Lub                                           |                                                                              |                      |
 |Luminance                                     |                                                                              |                      |
 |Lump uncurrying                               |                                                                              |                      |
-|Lurk                                          | يندس                                                                         |                      |
 |Lurker                                        | مندسس                                                                        |                      |
 |Lurking                                       | يندسس                                                                        |                      |
-|Machine                                       | آلة، حاسوب                                                                   |                      |
+|Lurk                                          | يندس                                                                         |                      |
 |Machine address                               | عنوان آلة                                                                    |                      |
 |Machine code                                  | لغة الآلة                                                                    |                      |
 |Machine-collating                             |                                                                              |                      |
 |Machine cycle                                 | دورة الآلة                                                                   |                      |
 |Machine language                              | لغة الآلة                                                                    |                      |
 |Machine learning                              | تعلم الآلة                                                                   |                      |
+|Machine                                       | آلة، حاسوب                                                                   |                      |
 |Macro                                         |                                                                              |                      |
 |Macroblock                                    | قالب كبير                                                                    |                      |
 |Macrology                                     | علم الماكرو                                                                  |                      |
@@ -3020,16 +3018,15 @@
 |Macros                                        | ماكرو                                                                        |                      |
 |Magazine                                      | مجلّة                                                                        |                      |
 |Magenta                                       | أرجوانى                                                                      |                      |
-|Magic                                         | سحري                                                                         |                      |
 |Magic bullet                                  | رصاصة سحرية                                                                  |                      |
 |Magic number                                  | الرقم السحري                                                                 |                      |
+|Magic                                         | سحري                                                                         |                      |
 |Magnetic disk                                 | قرص مغناطيسي                                                                 |                      |
 |Magnetic stripe                               | شريط مغناطيسى                                                                |                      |
-|Magnetic tape                                 | شريط مغناطيسي                                                                |                      |
 |Magnetic tape drive                           | مِسوق شريط مغناطيسي                                                          |                      |
+|Magnetic tape                                 | شريط مغناطيسي                                                                |                      |
 |Magneto-optical disk                          | قرص مغناطيسى بصري                                                            |                      |
 |Magnetostrictive delay line                   |                                                                              |                      |
-|Mail                                          | بريد                                                                         |                      |
 |Mail bomb                                     | قنبلة بريدية                                                                 |                      |
 |Mailbox                                       | صندوق بريد                                                                   |                      |
 |Mail bridge                                   | جسر البريد                                                                   |                      |
@@ -3048,6 +3045,7 @@
 |Mail services                                 | خدمات البريد                                                                 |                      |
 |Mail to                                       | بريد إلى                                                                     |                      |
 |Mail user agent                               | عميل مستخدم البريد                                                           |                      |
+|Mail                                          | بريد                                                                         |                      |
 |Main board                                    | لوحة رئيسية                                                                  |                      |
 |Mainboard                                     | لوحة رئيسية                                                                  |                      |
 |Main body                                     | جسم رئيسي                                                                    |                      |
@@ -3055,8 +3053,8 @@
 |Main memory                                   | ذاكرة رئيسية                                                                 |                      |
 |Maintain                                      |                                                                              |                      |
 |Maintained                                    |                                                                              |                      |
-|Maintainer                                    | مصين                                                                         |                      |
 |Maintainer script                             | مخطوط مصين                                                                   |                      |
+|Maintainer                                    | مصين                                                                         |                      |
 |Maintenance                                   | صيانة                                                                        |                      |
 |Major delivery                                | توصيلة كبيرة                                                                 |                      |
 |Major release                                 | إصدارة هامة                                                                  |                      |
@@ -3065,33 +3063,33 @@
 |Mall                                          |                                                                              |                      |
 |Malta                                         | مالطا                                                                        |                      |
 |Malware                                       | برمجية خبيثة                                                                 |                      |
-|Manage                                        | إدارة                                                                        |                      |
 |Management                                    | إدارة                                                                        |                      |
 |Manager                                       | مدير                                                                         |                      |
+|Manage                                        | إدارة                                                                        |                      |
 |Manifest section                              |                                                                              |                      |
 |Manipulation                                  | تلاعب                                                                        |                      |
 |Manipulator                                   |                                                                              |                      |
-|Man page                                      | صفحة المساعدة                                                                |                      |
 |Man Pages                                     | صفحات دليل مان                                                               |                      |
+|Man page                                      | صفحة المساعدة                                                                |                      |
 |Mantainer                                     | مبقى                                                                         |                      |
 |Mantissa                                      | الجزء العشري،الأساس العشري                                                   |                      |
-|Manual                                        | دليل                                                                         |                      |
 |Manual page                                   | صفحة يدوية                                                                   |                      |
 |Manual testing                                | اختبار يدوي                                                                  |                      |
-|Map                                           | خريطة /ج خرائط                                                               |                      |
-|Mapped                                        | معينة                                                                        |                      |
+|Manual                                        | دليل                                                                         |                      |
 |Mapped memory                                 | ذاكرة معينة                                                                  |                      |
+|Mapped                                        | معينة                                                                        |                      |
 |Mapping                                       | تعيين                                                                        |                      |
 |Map to                                        | تعيين الى                                                                    |                      |
+|Map                                           | خريطة /ج خرائط                                                               |                      |
 |Marble                                        | رخام                                                                         |                      |
-|Margin                                        | هامش                                                                         |                      |
 |Marginalia                                    | هامشيات                                                                      |                      |
 |Margins                                       | حواشي                                                                        |                      |
-|Marked                                        | معلم                                                                         |                      |
+|Margin                                        | هامش                                                                         |                      |
 |Marked only                                   |                                                                              |                      |
-|Marker                                        | واسم                                                                         |                      |
+|Marked                                        | معلم                                                                         |                      |
 |Marker object                                 | هدف واسم                                                                     |                      |
 |Marker primitive                              |                                                                              |                      |
+|Marker                                        | واسم                                                                         |                      |
 |Mark-sweep garbage collection                 |                                                                              |                      |
 |MARKUP                                        |                                                                              |                      |
 |Markup                                        | رقْم                                                                         |                      |
@@ -3099,80 +3097,79 @@
 |Marshalling                                   |                                                                              |                      |
 |Mask                                          | حجاب، قناع                                                                   |                      |
 |Masquerading                                  | تنكُر                                                                        |                      |
-|Master                                        | رئيس، رئيسي                                                                  |                      |
 |Master boot record                            | سجل الاقلاع الرئيسي (على القرص)                                              |                      |
 |Master server                                 | خادم رئيسي                                                                   |                      |
 |Master-slave                                  | تابع ومتبوع                                                                  |                      |
-|Match                                         | تطابق                                                                        |                      |
+|Master                                        | رئيس، رئيسي                                                                  |                      |
 |Matching                                      | مواءمة                                                                       |                      |
+|Match                                         | تطابق                                                                        |                      |
 |Material                                      | عتاد، مادة                                                                   |                      |
-|Math                                          | رياضيات                                                                      |                      |
 |Mathematical                                  | رياضيّ                                                                       |                      |
-|Matrix                                        | مصفوفة                                                                       |                      |
+|Math                                          | رياضيات                                                                      |                      |
 |Matrixes                                      |                                                                              |                      |
+|Matrix                                        | مصفوفة                                                                       |                      |
 |Maturity                                      | استحقاق                                                                      |                      |
-|Max                                           | أقصى                                                                         |                      |
 |Maximal free expression                       |                                                                              |                      |
 |Maximin                                       |                                                                              |                      |
 |Maximize                                      | تكبير                                                                        |                      |
-|Maximum                                       | الأقصى                                                                       |                      |
 |Maximum segment size                          |                                                                              |                      |
+|Maximum                                       | الأقصى                                                                       |                      |
+|Max                                           | أقصى                                                                         |                      |
 |MDI                                           | واجهة المستندات المتعددة                                                     |                      |
-|Mean                                          | متوسط                                                                        |                      |
 |Meaning                                       | معنى /ج معاني                                                                |                      |
-|Measure                                       | قياس                                                                         |                      |
+|Mean                                          | متوسط                                                                        |                      |
 |Measurement                                   | قياس                                                                         |                      |
+|Measure                                       | قياس                                                                         |                      |
 |Mechanism                                     | آلية                                                                         |                      |
-|Media                                         | وسائط                                                                        |                      |
 |Median                                        |                                                                              |                      |
 |Media type                                    | نوع الوسائط                                                                  |                      |
+|Media                                         | وسائط                                                                        |                      |
 |Medium                                        | وسط                                                                          |                      |
 |Meg                                           |                                                                              |                      |
-|Mega-                                         | ميجا-                                                                        |                      |
 |Megabits per second                           | ملايين النبضات في الثانية                                                    |                      |
 |Megabyte                                      | ميجابايت                                                                     |                      |
 |Megaflop                                      |                                                                              |                      |
 |Megaflops                                     |                                                                              |                      |
+|Mega-                                         | ميجا-                                                                        |                      |
 |Meltdown                                      | انصهار                                                                       |                      |
-|Member                                        | عضو                                                                          |                      |
 |Member function                               | دالة المستخدم                                                                |                      |
 |Membership function                           | دالة العضوية                                                                 |                      |
 |Member variable                               | متغيّر عضو                                                                   |                      |
+|Member                                        | عضو                                                                          |                      |
 |Memetic algorithm                             |                                                                              |                      |
-|Memo                                          | محضر،مذكرة                                                                   |                      |
 |Memo function                                 | وظيفة المذكرة                                                                |                      |
 |Memoisation                                   |                                                                              |                      |
 |Memoised function                             |                                                                              |                      |
 |Memoization                                   |                                                                              |                      |
 |Memoized function                             |                                                                              |                      |
 |Memorandum                                    | محضر،إستحضار                                                                 |                      |
-|Memory                                        | ذاكرة                                                                        |                      |
-|Memory access                                 | ولوج ذاكرة                                                                   |                      |
+|Memory access                                 | تسجيل دخول ذاكرة                                                                   |                      |
 |Memory address space                          | مساحة عنوان الذاكرة                                                          |                      |
 |Memory heap                                   | تكدس ذاكرة                                                                   |                      |
 |Memory leak                                   | تسرب ذاكرة                                                                   |                      |
 |Memory location                               | موقع الذاكرة                                                                 |                      |
 |Memory management                             | ادارة ذاكرة                                                                  |                      |
 |Memory protection                             | حماية ذاكرة                                                                  |                      |
-|Menu                                          | قائمة                                                                        |                      |
-|Menu bar                                      | شريط القوائم                                                                 |                      |
+|Memory                                        | ذاكرة                                                                        |                      |
+|Memo                                          | محضر،مذكرة                                                                   |                      |
 |Menubar                                       | شريط القائمة                                                                 |                      |
+|Menu bar                                      | شريط القوائم                                                                 |                      |
 |Menu item                                     | خانة قائمة                                                                   |                      |
+|Menu                                          | قائمة                                                                        |                      |
 |Mercury delay line                            | خط تأخير ميركرى                                                              |                      |
 |Merge                                         | دمج                                                                          |                      |
-|Mesh                                          | شبكة                                                                         |                      |
 |Mesh network                                  | شبكة عرويّة                                                                  |                      |
-|Message                                       | رسالة                                                                        |                      |
+|Mesh                                          | شبكة                                                                         |                      |
 |Message block                                 | قالب الرسالة                                                                 |                      |
 |Message board                                 | لوحات النقاش                                                                 |                      |
 |Message catalog                               | بيان الرسالة                                                                 |                      |
 |Message digest function                       |                                                                              |                      |
 |Message of the day                            | رسالة اليوم                                                                  |                      |
 |Message passing                               | تمرير الرسائل                                                                |                      |
-|Messages                                      | رسائل                                                                        |                      |
 |Message switching                             |                                                                              |                      |
+|Messages                                      | رسائل                                                                        |                      |
+|Message                                       | رسالة                                                                        |                      |
 |Messenger                                     | مِرْسال                                                                      |                      |
-|Meta                                          | أعلى                                                                         |                      |
 |Metacharacter                                 | حرف أعلى                                                                     |                      |
 |Meta-data                                     |                                                                              |                      |
 |Metadata                                      | بيانات وصفية                                                                 |                      |
@@ -3180,19 +3177,18 @@
 |Metaheuristic                                 |                                                                              |                      |
 |Metainformation                               | معلومات أعلى                                                                 |                      |
 |Meta key                                      | مفتاح أعلى                                                                   |                      |
-|Metal                                         | معدن                                                                         |                      |
 |Metalanguage                                  | لغة مترفعة                                                                   |                      |
+|Metal                                         | معدن                                                                         |                      |
 |Metaphone                                     | هاتف أعلى                                                                    |                      |
 |Metaprogram                                   | برنامج أعلى                                                                  |                      |
 |Metasyntax                                    |                                                                              |                      |
+|Meta                                          | أعلى                                                                         |                      |
 |Meter                                         | متر                                                                          |                      |
-|Method                                        | طريقة                                                                        |                      |
 |Methodology                                   | منهجية                                                                       |                      |
-|Metric                                        | متري                                                                         |                      |
+|Method                                        | طريقة                                                                        |                      |
 |Metric space                                  | الفضاء المتري،المجال المتري                                                  |                      |
+|Metric                                        | متري                                                                         |                      |
 |Mice                                          | فئران                                                                        |                      |
-|Micro-                                        | ميكرو-                                                                       |                      |
-|Micro                                         | ميكرو                                                                        |                      |
 |Microcentury                                  | 52.6 ثانية تقريباً                                                           |                      |
 |Microcode                                     | شفرة ميكرو                                                                   |                      |
 |Microcomputer                                 | حاسب ميكرو                                                                   |                      |
@@ -3208,17 +3204,19 @@
 |Microprocessor                                | معالج ميكرو                                                                  |                      |
 |Microprogramming                              | برمجة ميكرو                                                                  |                      |
 |Microsecond                                   | ثانية ميكرو                                                                  |                      |
+|Micro                                         | ميكرو                                                                        |                      |
+|Micro-                                        | ميكرو-                                                                       |                      |
 |Middle-endian                                 |                                                                              |                      |
 |Middleware                                    |                                                                              |                      |
 |Midi                                          | الميدى                                                                       |                      |
 |Mid-level network                             |                                                                              |                      |
 |Migrate                                       |                                                                              |                      |
 |Miles                                         | أميال                                                                        |                      |
-|Mill                                          | طاحونة                                                                       |                      |
 |Millennium bug                                | حشرة الألفية                                                                 |                      |
 |Millennium meltdown                           |                                                                              |                      |
 |Millimeter                                    | ملمتر                                                                        |                      |
 |Millisecond                                   | ملى ثانية                                                                    |                      |
+|Mill                                          | طاحونة                                                                       |                      |
 |MIME                                          |                                                                              |                      |
 |Mime Type                                     | نوع MIME:                                                                    |                      |
 |Mind mouse                                    |                                                                              |                      |
@@ -3234,48 +3232,48 @@
 |Minix                                         | مينكس                                                                        |                      |
 |Minor fault                                   |                                                                              |                      |
 |Minor faults                                  | أخطاء صغيرة                                                                  |                      |
-|Minus                                         | ناقص                                                                         |                      |
 |Minus infinity                                |                                                                              |                      |
+|Minus                                         | ناقص                                                                         |                      |
 |Minute                                        | دقيقة                                                                        |                      |
-|Mirror                                        | مرآة                                                                         |                      |
 |Mirrored                                      | معكوس                                                                        |                      |
 |Mirroring                                     | تصوير مرآوي                                                                  |                      |
 |Mirror site                                   | موقع مرآة                                                                    |                      |
+|Mirror                                        | مرآة                                                                         |                      |
 |Miscellaneous                                 | متنوع                                                                        |                      |
 |Misfeature                                    |                                                                              |                      |
 |Missed call                                   | اتصال فائت                                                                   |                      |
 |Missile address                               | عنوان الصاروخ                                                                |                      |
 |Mistake                                       | خطأ                                                                          |                      |
 |Mixer device                                  | جهاز خلاط،تجهيزة خلط                                                         |                      |
-|Mnemonic                                      | رمز تذكُري                                                                   |                      |
 |Mnemonic key                                  | مفتاح تذكيري                                                                 |                      |
-|Modal                                         | مشروط                                                                        |                      |
+|Mnemonic                                      | رمز تذكُري                                                                   |                      |
 |Modal logic                                   |                                                                              |                      |
 |Modal (value)                                 | قيمة التحجيم                                                                 |                      |
-|Mode                                          | وضع                                                                          |                      |
+|Modal                                         | مشروط                                                                        |                      |
 |Mode bi                                       |                                                                              |                      |
-|Model                                         | طراز                                                                         |                      |
 |Model checking                                |                                                                              |                      |
 |Modeling                                      |                                                                              |                      |
 |Modelling                                     | نمذجة                                                                        |                      |
+|Model                                         | طراز                                                                         |                      |
 |Modem                                         | مودم                                                                         |                      |
 |Moderator                                     | مشرف                                                                         |                      |
 |Modern                                        | عصري                                                                         |                      |
+|Mode                                          | وضع                                                                          |                      |
 |Modification                                  | تغيير                                                                        |                      |
 |Modified                                      | مغيير                                                                        |                      |
-|Modifier                                      | مغيير                                                                        |                      |
 |Modifier key                                  | مفتاح مغيير                                                                  |                      |
+|Modifier                                      | مغيير                                                                        |                      |
 |Modify                                        | تعديل                                                                        |                      |
-|Modular                                       | تركيبي                                                                       |                      |
 |Modular arithmetic                            |                                                                              |                      |
 |Modularization                                |                                                                              |                      |
 |Modular Synthesis                             |                                                                              |                      |
+|Modular                                       | تركيبي                                                                       |                      |
 |Modulate                                      | رنًم                                                                         |                      |
 |Modulation                                    | الترنيم                                                                      |                      |
 |Module                                        | وحدة                                                                         |                      |
-|Modulo                                        | مقياس                                                                        |                      |
 |Modulo arithmetic                             |                                                                              |                      |
 |Modulo operator                               |                                                                              |                      |
+|Modulo                                        | مقياس                                                                        |                      |
 |Modulus                                       |                                                                              |                      |
 |Molecule                                      | جزىء                                                                         |                      |
 |Monadic                                       |                                                                              |                      |
@@ -3296,13 +3294,12 @@
 |Mosaic                                        | فسيفِساء (ص. فسيفسائي)                                                       |                      |
 |Most general unifier                          |                                                                              |                      |
 |Most significant bit                          |                                                                              |                      |
-|Mother                                        | أمً                                                                          |                      |
 |Motherboard                                   | اللوحة الأم                                                                  |                      |
+|Mother                                        | أمً                                                                          |                      |
 |Motion                                        | حركة                                                                         |                      |
-|Mount                                         | وصْل                                                                         |                      |
 |Mounting                                      | تركيب                                                                        |                      |
 |Mount point                                   | نقطة وصْل                                                                    |                      |
-|Mouse                                         | فأرة                                                                         |                      |
+|Mount                                         | وصْل                                                                         |                      |
 |Mouse Cursor                                  | مؤشر الفأرة                                                                  |                      |
 |Mouse droppings                               |                                                                              |                      |
 |Mouse grab                                    | قبضة الفأرة                                                                  |                      |
@@ -3310,15 +3307,16 @@
 |Mouse-over                                    | مرور على ـ فأرة                                                              |                      |
 |Mouse pad                                     | وسادة الفأرة                                                                 |                      |
 |Mouse trails                                  | أثر الفأرة                                                                   |                      |
+|Mouse                                         | فأرة                                                                         |                      |
 |Move                                          | تحريك                                                                        |                      |
 |MSDOS                                         | م.س.دوس                                                                      |                      |
 |MS                                            | MS                                                                           |                      |
 |MTU                                           | MTU:                                                                         |                      |
 |Multiboot                                     | متعدد الإقلاع                                                                |                      |
 |Multibyte                                     | متعدد البايت                                                                 |                      |
-|Multicast                                     | إذاعة متعددة                                                                 |                      |
 |Multicast addressing                          | عنونة إذاعة متعددة                                                           |                      |
 |Multicast backbone                            |                                                                              |                      |
+|Multicast                                     | إذاعة متعددة                                                                 |                      |
 |Multiclick                                    | ضغط متعدد                                                                    |                      |
 |Multihomed hos                                |                                                                              |                      |
 |Multihomed host                               |                                                                              |                      |
@@ -3326,9 +3324,8 @@
 |Multilayer perceptron                         |                                                                              |                      |
 |Multilingualization                           | تعدد اللغات                                                                  |                      |
 |Multimedia                                    | وسائط متعددة                                                                 |                      |
-|Multipart                                     | متعدد الاقسام                                                                |                      |
 |Multi-part key                                | مفتاح متعدد الأجزاء                                                          |                      |
-|Multiple                                      | متعدد                                                                        |                      |
+|Multipart                                     | متعدد الاقسام                                                                |                      |
 |Multiple access                               | دخول متعدد                                                                   |                      |
 |Multiple boot                                 | متعدد الاقلاع                                                                |                      |
 |Multiple inheritance                          | توارث مضاعف                                                                  |                      |
@@ -3337,6 +3334,7 @@
 |Multiplexer                                   | متعدد الإرسال                                                                |                      |
 |Multiplexing                                  | اتصال متعدد                                                                  |                      |
 |Multiplex printer                             |                                                                              |                      |
+|Multiple                                      | متعدد                                                                        |                      |
 |Multiply                                      | تضاعف                                                                        |                      |
 |Multiprocessing                               | متعدد الاجراء                                                                |                      |
 |Multiprocessor                                | متعدد المعالج                                                                |                      |
@@ -3347,9 +3345,9 @@
 |Multitasking                                  | تعدد المهام                                                                  |                      |
 |Multi-threaded                                |                                                                              |                      |
 |Multithreaded                                 |                                                                              |                      |
-|Multi threading                               | تشعب تعددي                                                                   |                      |
 |Multi-threading                               |                                                                              |                      |
 |Multithreading                                |                                                                              |                      |
+|Multi threading                               | تشعب تعددي                                                                   |                      |
 |Multi-touch                                   |                                                                              |                      |
 |Multiuser system                              | نظام متعدد المستخدمين                                                        |                      |
 |Multi-way branch                              |                                                                              |                      |
@@ -3362,42 +3360,41 @@
 |Mutual recursion                              | تكرار متبادل                                                                 |                      |
 |Mux                                           |                                                                              |                      |
 |Naive                                         | بريء،ساذج                                                                    |                      |
-|Name                                          | اسم                                                                          |                      |
 |Name capture                                  |                                                                              |                      |
-|Named                                         | مسمى                                                                         |                      |
 |Named pipe                                    | أنبوبة اتصال مسماة                                                           |                      |
 |Named Stream                                  |                                                                              |                      |
+|Named                                         | مسمى                                                                         |                      |
 |Name resolution                               | تمييز الاسم                                                                  |                      |
-|Names                                         | أسماء                                                                        |                      |
 |Name service switching                        |                                                                              |                      |
 |Namespace                                     | مساحة الاسم                                                                  |                      |
-|Nano-                                         | نانو                                                                         |                      |
+|Names                                         | أسماء                                                                        |                      |
+|Name                                          | اسم                                                                          |                      |
 |Nanocomputer                                  | نانو حاسب آلى                                                                |                      |
 |Nanometre                                     | نانو متر                                                                     |                      |
 |Nanosecond                                    | نانو ثانية                                                                   |                      |
 |Nanotechnology                                | تقنية النانو                                                                 |                      |
+|Nano-                                         | نانو                                                                         |                      |
 |Narrowband                                    | حزمة ضيقة                                                                    |                      |
 |Narrowing                                     | تضييق                                                                        |                      |
-|Native                                        | أصيل                                                                         |                      |
 |Native code                                   | رماز أصيل                                                                    |                      |
 |Native compiler                               | مجمع فطرى                                                                    |                      |
+|Native                                        | أصيل                                                                         |                      |
 |NAT (Network address translation)             |                                                                              |                      |
 |Natural deduction                             | حسم طبيعى                                                                    |                      |
-|Natural language                              | لغة طبيعية                                                                   |                      |
 |Natural language processing                   | معالجة لغة طبيعية                                                            |                      |
+|Natural language                              | لغة طبيعية                                                                   |                      |
 |Natural number                                | رقم طبيعى                                                                    |                      |
 |Nature                                        | طبيعة                                                                        |                      |
 |Nautilus                                      | نوتيلاس                                                                      |                      |
 |Navigate                                      | ملاحة                                                                        |                      |
 |Navigating                                    | يبحر                                                                         |                      |
-|Navigation                                    | تصفح                                                                         |                      |
 |Navigation key                                | زر الأبحار                                                                   |                      |
+|Navigation                                    | تصفح                                                                         |                      |
 |Navigator                                     | ملاح                                                                         |                      |
 |Negation by failure                           |                                                                              |                      |
 |Negative acknowledgement                      |                                                                              |                      |
 |Negative Binomial                             |                                                                              |                      |
 |Neighborhood                                  |                                                                              |                      |
-|Net                                           | شبكة                                                                         |                      |
 |Netbook                                       |                                                                              |                      |
 |Netcafe                                       | مقهى إنترنت                                                                  |                      |
 |Netiquette                                    | آداب التعامل في الشبكة                                                       |                      |
@@ -3405,7 +3402,6 @@
 |Netmask                                       | قناع الشبكة                                                                  |                      |
 |Netscape                                      | نيتسكيب                                                                      |                      |
 |Netting                                       |                                                                              |                      |
-|Network                                       | شبكة                                                                         |                      |
 |Network-address                               | عنوان ـ شبكى                                                                 |                      |
 |Network byte order                            | ترتيب بايت شبكي                                                              |                      |
 |Network card                                  | بطاقة شبكة                                                                   |                      |
@@ -3416,8 +3412,8 @@
 |Networking                                    | ربط الشبكات                                                                  |                      |
 |Network interface card                        | بطاقة واجهة الشبكة                                                           |                      |
 |Network interface controller                  | متحكم واجهة الشبكة                                                           |                      |
-|Network layer                                 | طبقة الشبكة                                                                  |                      |
 |Network layer reachability information        |                                                                              |                      |
+|Network layer                                 | طبقة الشبكة                                                                  |                      |
 |Network management                            | إدارة الشبكة                                                                 |                      |
 |Network mask                                  | قناع الشبكة                                                                  |                      |
 |Network meltdown                              |                                                                              |                      |
@@ -3430,6 +3426,8 @@
 |Network storm                                 | عاصفة شبكة                                                                   |                      |
 |Network                                       | the                                                                          | الشبكة               |
 |Network transparency                          | شفافية الشبكة                                                                |                      |
+|Network                                       | شبكة                                                                         |                      |
+|Net                                           | شبكة                                                                         |                      |
 |Neural nets                                   |                                                                              |                      |
 |Neural network                                |                                                                              |                      |
 |Neuron                                        | عصب                                                                          |                      |
@@ -3439,35 +3437,34 @@
 |Neutrosophic set                              |                                                                              |                      |
 |Neutrosophic statistics                       |                                                                              |                      |
 |Never                                         | أبدأ، قطً                                                                    |                      |
-|New                                           | جديد                                                                         |                      |
 |Newbie                                        | مبتدئ                                                                        |                      |
-|News                                          | أخبار                                                                        |                      |
 |News feed                                     |                                                                              |                      |
+|Newsgroups                                    | مجموعات إخبارية                                                              |                      |
 |News group                                    | مجموعة أخبار                                                                 |                      |
 |Newsgroup                                     | مجموعة أخبار                                                                 |                      |
-|Newsgroups                                    | مجموعات إخبارية                                                              |                      |
 |Newsletter                                    | جريدة الأخبار                                                                |                      |
 |News reader                                   | قارءى الأخبار                                                                |                      |
 |News Site                                     | موقع إخباري                                                                  |                      |
+|News                                          | أخبار                                                                        |                      |
 |New talk                                      | حديث جديد                                                                    |                      |
 |New text                                      | نص جديد                                                                      |                      |
+|New                                           | جديد                                                                         |                      |
 |Next                                          | التالي                                                                       |                      |
 |Nibble                                        | قضم                                                                          |                      |
 |NIC                                           |                                                                              |                      |
-|Nice                                          | خلوق،لطيف                                                                    |                      |
 |Niceness value                                |                                                                              |                      |
-|Nick                                          | اللقب                                                                        |                      |
+|Nice                                          | خلوق،لطيف                                                                    |                      |
 |Nickle                                        | النكل                                                                        |                      |
 |Nick name                                     | اسم مستعار                                                                   |                      |
 |Nickname                                      | كُنية                                                                        |                      |
+|Nick                                          | اللقب                                                                        |                      |
 |Night mode                                    | نمط ليلي                                                                     |                      |
 |Nipple                                        | حلمة                                                                         |                      |
-|No                                            | لا                                                                           |                      |
 |No assignment                                 |                                                                              |                      |
 |NO-DAEMON                                     | لا-جنّي                                                                      |                      |
 |Node                                          | عقدة                                                                         |                      |
-|Noise                                         | ضجًة، ضجيج                                                                   |                      |
 |Noise shaping                                 | تشكيل الضجًة                                                                 |                      |
+|Noise                                         | ضجًة، ضجيج                                                                   |                      |
 |Non-algorithmic procedure                     |                                                                              |                      |
 |Noname                                        | لا أسم                                                                       |                      |
 |Noncluster mode                               | نمط لا عنقودي، نمط لا خصلي                                                   |                      |
@@ -3475,8 +3472,8 @@
 |Nondeterministic                              |                                                                              |                      |
 |Nondeterministic automaton                    |                                                                              |                      |
 |Nondeterministic polynomial time              |                                                                              |                      |
-|None                                          | لا شيء، بدون، لا أحد                                                         |                      |
 |Non-existant                                  | غير موجود                                                                    |                      |
+|None                                          | لا شيء، بدون، لا أحد                                                         |                      |
 |Non-impact printer                            |                                                                              |                      |
 |Non-inclusive                                 |                                                                              |                      |
 |Non-interlaced                                |                                                                              |                      |
@@ -3488,12 +3485,10 @@
 |Nontrivial                                    | غير مبتذل                                                                    |                      |
 |No numbering                                  | بدون تعداد                                                                   |                      |
 |Non-uniform quantising logarithmic compression|                                                                              |                      |
-|Non-volatile                                  | غير-متطاير                                                                   |                      |
-|Nonvolatile                                   | غير متطاير                                                                   |                      |
 |Non-volatile memory                           | ذاكرة غير-متطايرة                                                            |                      |
 |Non-volatile storage                          | تخزين غير-متطاير                                                             |                      |
-|Norm                                          | معيار                                                                        |                      |
-|Normal                                        | عادي،طبيعي                                                                   |                      |
+|Non-volatile                                  | غير-متطاير                                                                   |                      |
+|Nonvolatile                                   | غير متطاير                                                                   |                      |
 |Normal distribution                           | توزيع طبيعى                                                                  |                      |
 |Normal form                                   | شكل عادى                                                                     |                      |
 |Normalisation                                 | التطبّيع                                                                     |                      |
@@ -3501,59 +3496,62 @@
 |Normalize                                     | يقلل التكرار                                                                 |                      |
 |Normal order reduction                        |                                                                              |                      |
 |Normal vector                                 |                                                                              |                      |
+|Normal                                        | عادي،طبيعي                                                                   |                      |
 |Normed space                                  |                                                                              |                      |
-|North                                         | الشمال                                                                       |                      |
+|Norm                                          | معيار                                                                        |                      |
 |Northbridge                                   | جسر شمالي                                                                    |                      |
+|North                                         | الشمال                                                                       |                      |
 |Notation                                      | تدوين                                                                        |                      |
 |Not between                                   |                                                                              |                      |
 |Note                                          |                                                                              |                      |
 |Notebook                                      | حاسوب محمول                                                                  |                      |
 |Not empty                                     | غير فارغ                                                                     |                      |
-|Not equal                                     | غير معادل                                                                    |                      |
 |Not equal to                                  | غير معادل الى                                                                |                      |
+|Not equal                                     | غير معادل                                                                    |                      |
 |Notice                                        | اشعار                                                                        |                      |
-|Notification                                  | تنبيه                                                                        |                      |
 |Notifications                                 |                                                                              |                      |
+|Notification                                  | تنبيه                                                                        |                      |
 |Notify                                        | تبليغ                                                                        |                      |
 |Notwork                                       | شبكة                                                                         |                      |
 |No-write allocation                           |                                                                              |                      |
+|No                                            | لا                                                                           |                      |
 |N-th Roo                                      |                                                                              |                      |
 |N-tier                                        |                                                                              |                      |
 |Nu-calculus                                   |                                                                              |                      |
 |Nudge                                         |                                                                              |                      |
-|Null                                          | عَدَمْ                                                                       |                      |
 |Nullary                                       |                                                                              |                      |
 |Null modem                                    | بلا مودم                                                                     |                      |
 |Null pointer                                  | مؤشّر للاشيء                                                                 |                      |
 |Null string                                   | سلسلة أحرف فارغة                                                             |                      |
-|Number                                        | رقم                                                                          |                      |
+|Null                                          | عَدَمْ                                                                       |                      |
 |Number Converter                              | محول الأرقام                                                                 |                      |
 |Numbered List                                 | قائمة مرقمة                                                                  |                      |
 |Numbering                                     | ترقيم                                                                        |                      |
 |Number sign                                   |                                                                              |                      |
 |Number Theory                                 | نظرية الأرقام                                                                |                      |
-|Numeral                                       | عددي                                                                         |                      |
+|Number                                        | رقم                                                                          |                      |
 |Numeral system                                | نظام عد                                                                      |                      |
+|Numeral                                       | عددي                                                                         |                      |
 |Numerator                                     | بَسْطٌ                                                                       |                      |
 |Numeric                                       | أبجدي عددي                                                                   |                      |
 |Nybble                                        | نصف بايت                                                                     |                      |
 |Nym server                                    | راجع Anonymous remailer                                                      |                      |
 |Obi-wan error                                 |                                                                              |                      |
-|Object                                        | كائن                                                                         |                      |
 |Object code                                   |                                                                              |                      |
 |Object file                                   | مفل غرض،ملف غرضي                                                             |                      |
 |Object identifier                             |                                                                              |                      |
 |Object-orientation                            | غرضية التوجيه                                                                |                      |
-|Object oriented                               | غرضي التوجيه                                                                 |                      |
 |Object-oriented                               |                                                                              |                      |
 |Object-oriented analysis                      | تحليل غرضي التوجيه                                                           |                      |
 |Object-oriented database                      | قاعدة بيانات كائنيّة                                                         |                      |
 |Object-oriented design                        | تصميم غرضي التوجيه                                                           |                      |
 |Object-oriented language                      | لغة غرضية التوجيه                                                            |                      |
 |Object-oriented programming                   | برمجة كائنيّة                                                                |                      |
+|Object oriented                               | غرضي التوجيه                                                                 |                      |
 |Objects                                       | الأهداف                                                                      |                      |
-|Oblique                                       | منحرف،مائل                                                                   |                      |
+|Object                                        | كائن                                                                         |                      |
 |Oblique stroke                                |                                                                              |                      |
+|Oblique                                       | منحرف،مائل                                                                   |                      |
 |Observational equivalence                     |                                                                              |                      |
 |Observations                                  | ترصدات، ملاحظات                                                              |                      |
 |Obsolete                                      | متروك، مبطًل                                                                 |                      |
@@ -3568,16 +3566,15 @@
 |October                                       | تشرين الاول                                                                  |                      |
 |Octothorpe                                    |                                                                              |                      |
 |OEM                                           |                                                                              |                      |
-|Off                                           | مغلق                                                                         |                      |
 |Offline                                       | غير متصل                                                                     |                      |
 |Offset                                        | زَيَحان                                                                      |                      |
 |Off-side rule                                 |                                                                              |                      |
 |Off-topic                                     | خارج الموضوع                                                                 |                      |
+|Off                                           | مغلق                                                                         |                      |
 |OK                                            | موافق                                                                        |                      |
-|Old                                           | قديم                                                                         |                      |
 |Older or from                                 |                                                                              |                      |
 |Older than                                    | أقدم من                                                                      |                      |
-|On                                            | يعمل                                                                         |                      |
+|Old                                           | قديم                                                                         |                      |
 |On all pages                                  | على كلً الصفحات                                                              |                      |
 |One-line fix                                  |                                                                              |                      |
 |Ones complement                               |                                                                              |                      |
@@ -3590,18 +3587,18 @@
 |On the line                                   | على الحط                                                                     |                      |
 |Onto                                          |                                                                              |                      |
 |Ontology                                      |                                                                              |                      |
+|On                                            | يعمل                                                                         |                      |
 |Opacity                                       | عتمة                                                                         |                      |
 |Opaque                                        | معتم                                                                         |                      |
-|Open                                          | فتح                                                                          |                      |
 |Open box testing                              |                                                                              |                      |
 |Open-collar worker                            |                                                                              |                      |
 |Openid                                        | الهوية المفتوحة                                                              |                      |
 |Opening                                       |                                                                              |                      |
 |Open source                                   | مصدر مفتوح                                                                   |                      |
 |Open switch                                   | (زرً) مبدال مفتوح                                                            |                      |
+|Open                                          | فتح                                                                          |                      |
 |Operand                                       | مُعامل                                                                       |                      |
 |Operating system                              | نظام تشغيل                                                                   |                      |
-|Operation                                     | عملية                                                                        |                      |
 |Operational database                          | قاعدة بيانات عملية                                                           |                      |
 |Operational requirements                      | متطلبات عملية،إحتياجات عملية                                                 |                      |
 |Operational semantics                         |                                                                              |                      |
@@ -3609,56 +3606,57 @@
 |Operational testing                           |                                                                              |                      |
 |Operation code                                | رماز عملية                                                                   |                      |
 |Operations                                    | عمليات                                                                       |                      |
-|Operator                                      | عامل                                                                         |                      |
+|Operation                                     | عملية                                                                        |                      |
 |Operator overloading                          |                                                                              |                      |
-|Optical                                       | ضوئي                                                                         |                      |
+|Operator                                      | عامل                                                                         |                      |
 |Optical character recognition                 | تعرّف بصري على الحروف                                                        |                      |
 |Optical diff                                  |                                                                              |                      |
 |Optical fiber                                 | الياف ضؤية                                                                   |                      |
 |Optical fibre                                 | الياف ضؤية                                                                   |                      |
 |Optical grep                                  |                                                                              |                      |
 |Optical mouse                                 | فأرة ضوئية                                                                   |                      |
+|Optical                                       | ضوئي                                                                         |                      |
 |Optimal                                       | الأمثل                                                                       |                      |
 |Optimise                                      | أمثلة                                                                        |                      |
 |Optimising compiler                           |                                                                              |                      |
 |Optimization                                  | أمثلة                                                                        |                      |
-|Optimize                                      | أمثلة                                                                        |                      |
 |Optimized                                     | مأمثل                                                                        |                      |
-|Option                                        | خيار                                                                         |                      |
+|Optimize                                      | أمثلة                                                                        |                      |
 |Optional                                      | خياري                                                                        |                      |
 |Options                                       | خيارات                                                                       |                      |
-|Or                                            | أو                                                                           |                      |
+|Option                                        | خيار                                                                         |                      |
 |Orange                                        | برتقالي                                                                      |                      |
 |Order                                         |                                                                              |                      |
 |Order-embedding                               |                                                                              |                      |
 |Ordering                                      |                                                                              |                      |
 |Ordinal                                       |                                                                              |                      |
 |Ordinate                                      |                                                                              |                      |
-|Org                                           | منظمة                                                                        |                      |
 |Organization                                  | منظمة، الشركة                                                                |                      |
-|Organize                                      | تنظيم                                                                        |                      |
 |Organizer                                     | منظم                                                                         |                      |
+|Organize                                      | تنظيم                                                                        |                      |
+|Org                                           | منظمة                                                                        |                      |
 |Orientation                                   | توجّه، توجيه، اتجاه                                                          |                      |
 |Origin                                        |                                                                              |                      |
 |Original                                      | أصلي                                                                         |                      |
-|Orphan                                        | يتيم                                                                         |                      |
 |Orphaned i-node                               |                                                                              |                      |
 |Orphan process                                | اجراء يتيم                                                                   |                      |
+|Orphan                                        | يتيم                                                                         |                      |
 |Orthflow                                      |                                                                              |                      |
-|Orthogonal                                    | متعامِد                                                                      |                      |
 |Orthogonal instruction set                    | زمرة تعليمات متعامدة                                                         |                      |
+|Orthogonal                                    | متعامِد                                                                      |                      |
+|Or                                            | أو                                                                           |                      |
 |OSD                                           |                                                                              |                      |
 |Other                                         | آخر                                                                          |                      |
 |Outbox                                        | علبة الصادر                                                                  |                      |
 |Outer                                         |                                                                              |                      |
 |Outer join                                    |                                                                              |                      |
 |Outgoing                                      | خارج                                                                         |                      |
-|Outline                                       | خُطَّة، رسم تخطيطي                                                           |                      |
 |Outline font                                  | خط تفصيلي                                                                    |                      |
-|Output                                        | خَرْج                                                                        |                      |
+|Outline                                       | خُطَّة، رسم تخطيطي                                                           |                      |
 |Output device                                 |                                                                              |                      |
-|Outside                                       | في الخارج،خارج عن                                                            |                      |
+|Output                                        | خَرْج                                                                        |                      |
 |Outside-in testing                            |                                                                              |                      |
+|Outside                                       | في الخارج،خارج عن                                                            |                      |
 |Outsourcing                                   |                                                                              |                      |
 |Overclocking                                  | فيض الميقاتية                                                                |                      |
 |Overflow                                      | فيض                                                                          |                      |
@@ -3666,8 +3664,8 @@
 |Overlap                                       |                                                                              |                      |
 |Overlapping                                   | تراكب                                                                        |                      |
 |Overlay                                       |                                                                              |                      |
-|Overload                                      | إعادة التعريف                                                                |                      |
 |Overloading                                   |                                                                              |                      |
+|Overload                                      | إعادة التعريف                                                                |                      |
 |Override                                      | تجاوز                                                                        |                      |
 |Overriding                                    |                                                                              |                      |
 |Overrun                                       |                                                                              |                      |
@@ -3677,11 +3675,9 @@
 |Overwrite                                     | كتابة فوقية،كتابة على                                                        |                      |
 |Own                                           |                                                                              |                      |
 |Owner                                         | مالك                                                                         |                      |
-|Pack                                          | علبة                                                                         |                      |
-|Package                                       | حزمة                                                                         |                      |
 |Packager                                      |                                                                              |                      |
+|Package                                       | حزمة                                                                         |                      |
 |Packed decimal                                |                                                                              |                      |
-|Packet                                        | رزمة                                                                         |                      |
 |Packet driver                                 |                                                                              |                      |
 |Packet mode                                   | نمط رزمة،نمظ حزمة                                                            |                      |
 |Packet radio                                  |                                                                              |                      |
@@ -3690,13 +3686,14 @@
 |Packet Switching                              |                                                                              |                      |
 |Packet switching                              | إبدال الحزمة،إبدال الرزمة                                                    |                      |
 |Packet writing                                | كتابة الحزمة،كتابة الرزمة                                                    |                      |
+|Packet                                        | رزمة                                                                         |                      |
+|Pack                                          | علبة                                                                         |                      |
 |Padded cell                                   |                                                                              |                      |
 |Padding                                       |                                                                              |                      |
-|Page                                          | صفحة                                                                         |                      |
 |Pagebreak                                     | إنطلاقة صفحة جديدة                                                           |                      |
-|Paged                                         | صفحيً                                                                        |                      |
 |Paged address                                 | عنوان صفحيً                                                                  |                      |
 |Paged memory                                  | ذاكرة صفحيًة                                                                 |                      |
+|Paged                                         | صفحيً                                                                        |                      |
 |Page fault                                    | خطأ الصفحة                                                                   |                      |
 |Page frame                                    | إطار الصفحة                                                                  |                      |
 |Page in                                       | صفحة داخلة                                                                   |                      |
@@ -3705,33 +3702,33 @@
 |Page out                                      | صفحة خارجة                                                                   |                      |
 |Pager                                         |                                                                              |                      |
 |Pages                                         |                                                                              |                      |
+|Page                                          | صفحة                                                                         |                      |
 |Paging                                        |                                                                              |                      |
 |Pain in the net                               |                                                                              |                      |
 |Paint                                         | دهن، صباغة                                                                   |                      |
 |Pair                                          | زوج                                                                          |                      |
-|Palette                                       | لوحة ألوان                                                                   |                      |
 |Palettes                                      |                                                                              |                      |
 |Palette window                                | إطار لوحة الألوان                                                            |                      |
+|Palette                                       | لوحة ألوان                                                                   |                      |
 |Palmtop                                       |                                                                              |                      |
-|Pane                                          | لوح                                                                          |                      |
-|Panel                                         | لوحة                                                                         |                      |
 |Panelize                                      |                                                                              |                      |
+|Panel                                         | لوحة                                                                         |                      |
+|Pane                                          | لوح                                                                          |                      |
 |Panic                                         |                                                                              |                      |
 |Panic message                                 | رسالة إرتياع، رسالة ذعر                                                      |                      |
-|Paper                                         | ورق                                                                          |                      |
 |Papermail                                     |                                                                              |                      |
 |Paper-net                                     |                                                                              |                      |
 |Paper tape                                    | شريط ورقي                                                                    |                      |
+|Paper                                         | ورق                                                                          |                      |
 |Paraconsistent probability                    |                                                                              |                      |
 |Paradigm                                      |                                                                              |                      |
 |Paradox                                       | متناقِضة                                                                     |                      |
 |Paragraph                                     | فقرة                                                                         |                      |
-|Parallel                                      | متوازِ                                                                       |                      |
 |Parallel computer                             | حاسوب متواز (التشغيل)                                                        |                      |
 |Parallel computing                            | الحوسبة المتوازية (التشغيل)                                                  |                      |
 |Parallelism                                   | توازي                                                                        |                      |
-|Parallelogram                                 | متوازي الأضلاع                                                               |                      |
 |Parallelograms                                | مُتَوازِية الأَضْلاع                                                         |                      |
+|Parallelogram                                 | متوازي الأضلاع                                                               |                      |
 |Parallel port                                 | منفذ متوازي                                                                  |                      |
 |Parallel processing                           | إجراء متواز،معالجة متوازية                                                   |                      |
 |Parallel processor                            | معالج متواز                                                                  |                      |
@@ -3739,100 +3736,101 @@
 |Parallel reduction                            | تنقيص، تقليل متواز                                                           |                      |
 |Parallel resource                             | مورد متوازِ                                                                  |                      |
 |Parallel-service                              | خدمة متوازية                                                                 |                      |
-|Parameter                                     | مُعامِل                                                                      |                      |
+|Parallel                                      | متوازِ                                                                       |                      |
 |Parameters                                    |                                                                              |                      |
-|Parametric                                    | موسطي                                                                        |                      |
+|Parameter                                     | مُعامِل                                                                      |                      |
 |Parametric polymorphism                       | تعددية الأشكال الموسطة                                                       |                      |
+|Parametric                                    | موسطي                                                                        |                      |
 |Paranoid programming                          | برمجة جنون الإرتياب                                                          |                      |
 |Parcel                                        | صرًة،بالة                                                                    |                      |
-|Parent                                        | أبوي                                                                         |                      |
 |Parent directory                              | المجلّد الأم                                                                 |                      |
 |Parentheses                                   | قَوسان                                                                       |                      |
 |Parent level                                  |                                                                              |                      |
 |Parent process                                |                                                                              |                      |
 |Parent structure                              |                                                                              |                      |
 |Parent window                                 | الإطار الأصل                                                                 |                      |
-|Parity                                        | زوجية                                                                        |                      |
+|Parent                                        | أبوي                                                                         |                      |
 |Parity bi                                     |                                                                              |                      |
 |Parity bit                                    | بِت التزاوج،بِت الزوجية                                                      |                      |
 |Parity error                                  | خطأ الزوجيًة                                                                 |                      |
-|Parse                                         | تحليل                                                                        |                      |
-|Parser                                        | محلًل،معرب                                                                   |                      |
+|Parity                                        | زوجية                                                                        |                      |
 |Parser generator                              |                                                                              |                      |
+|Parser                                        | محلًل،معرب                                                                   |                      |
+|Parse                                         | تحليل                                                                        |                      |
 |Parsing                                       | تحليل                                                                        |                      |
-|Partial                                       | جزئي،منحاز                                                                   |                      |
 |Partial equivalence relation                  |                                                                              |                      |
 |Partial evaluation                            | تخمين جزئي،تثمين جزئي                                                        |                      |
 |Partial function                              | دالًة جزئية                                                                  |                      |
 |Partial key                                   | مفاح جزئي                                                                    |                      |
 |Partially ordered set                         | زمرة جزئية الترتيب                                                           |                      |
 |Partial ordering                              | ترتيب جزئي                                                                   |                      |
+|Partial                                       | جزئي،منحاز                                                                   |                      |
 |Participants                                  | مشاركون                                                                      |                      |
 |Particle                                      | جُسَيم                                                                       |                      |
-|Partition                                     | قسم                                                                          |                      |
 |Partitioned data set                          |                                                                              |                      |
 |Partitioning                                  | تجزئة،تقسيم                                                                  |                      |
 |Partition Table                               |                                                                              |                      |
-|Pass                                          | تمرير                                                                        |                      |
+|Partition                                     | قسم                                                                          |                      |
 |Passcode                                      | كلمة العبور                                                                  |                      |
 |Passing                                       |                                                                              |                      |
-|Passive                                       | سلبي                                                                         |                      |
 |Passive grab                                  |                                                                              |                      |
 |Passive matrix display                        | معراض ذو مصفوفة سلبي                                                         |                      |
+|Passive                                       | سلبي                                                                         |                      |
 |Passkey                                       |                                                                              |                      |
 |Passphrase                                    | عبارة سرّ                                                                    |                      |
-|Password                                      | كلمة سرّ                                                                     |                      |
 |Password aging                                | تقادم كلمة السر                                                              |                      |
 |Password field                                | حقل كلمة السر                                                                |                      |
+|Password                                      | كلمة سرّ                                                                     |                      |
+|Pass                                          | تمرير                                                                        |                      |
 |Paste                                         | إلصاق                                                                        |                      |
-|Patch                                         | رقعة                                                                         |                      |
 |Patch (noun)                                  | رقعة                                                                         |                      |
 |Patch pumpkin                                 |                                                                              |                      |
 |Patch (verb)                                  | ترقيع                                                                        |                      |
-|Path                                          | مسار                                                                         |                      |
+|Patch                                         | رقعة                                                                         |                      |
 |Path coverage testing                         |                                                                              |                      |
-|Pathname                                      | اسم المسار                                                                   |                      |
 |Pathname separator                            | فاصل اسم المسار                                                              |                      |
+|Pathname                                      | اسم المسار                                                                   |                      |
 |Paths                                         | طرقات                                                                        |                      |
+|Path                                          | مسار                                                                         |                      |
 |Patience                                      | صبر                                                                          |                      |
-|Pattern                                       | نمط                                                                          |                      |
 |Pattern matching                              | توافق الأسلوب                                                                |                      |
 |Pattern recognition                           |                                                                              |                      |
-|Pause                                         | توقف مؤقت                                                                    |                      |
+|Pattern                                       | نمط                                                                          |                      |
 |Paused                                        | متوقف  (وقتياً)،مؤقت التوقيف                                                 |                      |
+|Pause                                         | توقف مؤقت                                                                    |                      |
 |Payload                                       |                                                                              |                      |
 |Peak indicator                                | مؤشّر الشّفافيّة                                                             |                      |
 |Pearson Correlation                           |                                                                              |                      |
 |Peephole optimisation                         |                                                                              |                      |
-|Peer                                          | نظير                                                                         |                      |
 |Peer-to-peer                                  | نظير-الى-نظير                                                                |                      |
-|Pen                                           | قلم                                                                          |                      |
+|Peer                                          | نظير                                                                         |                      |
 |Pending signal                                |                                                                              |                      |
 |Pending signals                               | إلغاء التنزيلات المتبقية؟                                                    |                      |
-|Percent                                       | بالمئة                                                                       |                      |
+|Pen                                           | قلم                                                                          |                      |
 |Percentage                                    | مئوية                                                                        |                      |
 |Percentual                                    | مئوي                                                                         |                      |
+|Percent                                       | بالمئة                                                                       |                      |
 |Perceptron                                    |                                                                              |                      |
 |Perf                                          |                                                                              |                      |
 |Performance                                   |                                                                              |                      |
-|Period                                        | دورة                                                                         |                      |
-|Periodic                                      | دورية                                                                        |                      |
 |Periodic group                                | مجموع دوري                                                                   |                      |
-|Peripheral                                    | طرفي                                                                         |                      |
+|Periodic                                      | دورية                                                                        |                      |
+|Period                                        | دورة                                                                         |                      |
 |Peripheral device                             | جهاز طرفي                                                                    |                      |
-|Perl                                          | بيرل                                                                         |                      |
+|Peripheral                                    | طرفي                                                                         |                      |
 |Perl Script                                   | نص بيرل                                                                      |                      |
-|Permanent                                     | دائم                                                                         |                      |
+|Perl                                          | بيرل                                                                         |                      |
 |Permanent file                                | ملف دائم                                                                     |                      |
 |Permanent link                                | رابط دائم                                                                    |                      |
+|Permanent                                     | دائم                                                                         |                      |
 |Per-message                                   |                                                                              |                      |
 |Permission                                    |                                                                              |                      |
 |Permutation                                   | مبادلة                                                                       |                      |
 |Perplexity                                    | إرباك،حيرة                                                                   |                      |
 |Persistence                                   | استمرار                                                                      |                      |
-|Persistent                                    | مستمر                                                                        |                      |
 |Persistent link                               |                                                                              |                      |
 |Persistent memory                             | ذاكرة مستمرة                                                                 |                      |
+|Persistent                                    | مستمر                                                                        |                      |
 |Personal                                      |                                                                              |                      |
 |Personal computer                             | حاسوب شخصي                                                                   |                      |
 |Personal Package Archive                      | أرشيف الحزم الشخصي                                                           |                      |
@@ -3841,24 +3839,24 @@
 |Peta-                                         |                                                                              |                      |
 |Petabyte                                      |                                                                              |                      |
 |Petaflops                                     |                                                                              |                      |
-|Phase                                         | طور                                                                          |                      |
 |Phase alternating line                        |                                                                              |                      |
 |Phase Change Memory                           |                                                                              |                      |
+|Phase                                         | طور                                                                          |                      |
 |Philippines                                   | الفيليبين                                                                    |                      |
 |Philosophy                                    | فلسفة                                                                        |                      |
 |Phishing                                      |                                                                              |                      |
-|Phone                                         | هاتف،يهتف                                                                    |                      |
 |Phone book                                    |                                                                              |                      |
 |Phone mail                                    | بريد هاتفي                                                                   |                      |
+|Phone                                         | هاتف،يهتف                                                                    |                      |
 |Phosphor fatigue                              |                                                                              |                      |
 |Phyiscal                                      |                                                                              |                      |
-|Physical                                      | محسوس،ملموس،حقيقي الوجود                                                     |                      |
-|Physical address                              | العنوان الملموس                                                              |                      |
 |Physical addressing                           | عنونة ملموسة                                                                 |                      |
+|Physical address                              | العنوان الملموس                                                              |                      |
 |Physical file                                 | ملف ملموس                                                                    |                      |
 |Physical layer                                | الطبقة الملموسة                                                              |                      |
-|Physical memory                               | الذاكرة الملموسة،الذاكرة الموجودة حقيقياً                                    |                      |
 |Physical memory address                       | عنوان الذاكرة الملموسة                                                       |                      |
+|Physical memory                               | الذاكرة الملموسة،الذاكرة الموجودة حقيقياً                                    |                      |
+|Physical                                      | محسوس،ملموس،حقيقي الوجود                                                     |                      |
 |Pica                                          |                                                                              |                      |
 |Pi-calculus                                   |                                                                              |                      |
 |Pick aperture                                 |                                                                              |                      |
@@ -3869,50 +3867,50 @@
 |Picosecond                                    |                                                                              |                      |
 |Pictogram                                     |                                                                              |                      |
 |Pictograph                                    |                                                                              |                      |
-|Picture                                       | صورة                                                                         |                      |
 |Picture element                               | عنصر صورة                                                                    |                      |
 |Pictures                                      |                                                                              |                      |
+|Picture                                       | صورة                                                                         |                      |
 |PID                                           | رمز المهمة                                                                   |                      |
 |Pie                                           | فطيرة /ج فطائر                                                               |                      |
 |Piggybacking                                  |                                                                              |                      |
 |Pilot device                                  |                                                                              |                      |
-|Pin                                           | إبرة :: سلّة                                                                 |                      |
 |Pin feed                                      |                                                                              |                      |
 |Ping                                          |                                                                              |                      |
 |Ping-flood                                    |                                                                              |                      |
 |Pinging                                       |                                                                              |                      |
 |Ping-pong                                     | أخذ و رد                                                                     |                      |
 |Pin-out                                       |                                                                              |                      |
-|Pipe                                          | أنبوب                                                                        |                      |
+|Pin                                           | إبرة :: سلّة                                                                 |                      |
 |Pipeline                                      |                                                                              |                      |
 |Pipeline break                                |                                                                              |                      |
 |Pipelined                                     |                                                                              |                      |
 |Pipeline processing                           | معالجة تواردية                                                               |                      |
 |Pipeline stall                                |                                                                              |                      |
 |Pipelining                                    | مواردة                                                                       |                      |
+|Pipe                                          | أنبوب                                                                        |                      |
 |Piping                                        |                                                                              |                      |
 |Piracy                                        | قرصنة                                                                        |                      |
 |Pirate                                        | قرصان                                                                        |                      |
 |Pitch                                         | خطوة                                                                         |                      |
-|Pixel                                         | بكسل                                                                         |                      |
 |Pixelize                                      |                                                                              |                      |
 |Pixels                                        | عنصورات                                                                      |                      |
+|Pixel                                         | بكسل                                                                         |                      |
 |Pixmap                                        |                                                                              |                      |
 |PKI                                           |                                                                              |                      |
-|Place                                         | ساحة، مكان                                                                   |                      |
 |Placeholder                                   | ماسك المكان                                                                  |                      |
 |Placement                                     |                                                                              |                      |
+|Place                                         | ساحة، مكان                                                                   |                      |
 |Plaid screen                                  |                                                                              |                      |
-|Plain                                         | مجرد (نص)                                                                    |                      |
 |Plain text                                    | نص مجرد                                                                      |                      |
 |Plain window                                  | نافذة كاملة                                                                  |                      |
+|Plain                                         | مجرد (نص)                                                                    |                      |
 |Plants                                        |                                                                              |                      |
 |Plastic                                       |                                                                              |                      |
 |Platform                                      | منصة                                                                         |                      |
-|Play                                          | أعزف،شغل،إقرء                                                                |                      |
 |Playback                                      |                                                                              |                      |
 |Play by electronic mail                       |                                                                              |                      |
 |Player                                        | لاعب،قارئ                                                                    |                      |
+|Play                                          | أعزف،شغل،إقرء                                                                |                      |
 |Plenum cable                                  |                                                                              |                      |
 |Pleonasm                                      |                                                                              |                      |
 |Pling                                         |                                                                              |                      |
@@ -3923,86 +3921,85 @@
 |Plug and play                                 | قبس و تشغيل                                                                  |                      |
 |Pluggable Authentication Modules              |                                                                              |                      |
 |Plug-in                                       |                                                                              |                      |
-|Plugin                                        | ملحق                                                                         |                      |
 |Plug-in editor kit                            |                                                                              |                      |
+|Plugin                                        | ملحق                                                                         |                      |
 |Plus                                          |                                                                              |                      |
 |Plus every                                    |                                                                              |                      |
 |Pocket calculator                             | آلة حاسبة للجيب                                                              |                      |
 |Pocket computer                               | حاسوب للجيب                                                                  |                      |
 |Podcast                                       | نشرة (صوتية)                                                                 |                      |
-|Point                                         | نقطة،يؤشِر                                                                   |                      |
 |Point-and-grunt interface                     |                                                                              |                      |
 |Pointed domain                                |                                                                              |                      |
-|Pointer                                       | مؤشر                                                                         |                      |
 |Pointer grab                                  |                                                                              |                      |
 |Pointer swizzling                             |                                                                              |                      |
+|Pointer                                       | مؤشر                                                                         |                      |
 |Pointing device                               | جهاز تأشير                                                                   |                      |
 |Pointing stick                                | عصا التأشير                                                                  |                      |
 |Point of presence                             | نقطة الوجود                                                                  |                      |
 |Point of sale terminal                        | مطراف نقطة بيع                                                               |                      |
 |Point-to-point protocol                       | ميفاق نقطة الى نقطة                                                          |                      |
+|Point                                         | نقطة،يؤشِر                                                                   |                      |
 |Poisson distribution                          |                                                                              |                      |
-|Policy                                        | سياسة                                                                        |                      |
 |Policy group                                  |                                                                              |                      |
 |Policy issues                                 | شؤون سياسية                                                                  |                      |
 |Policy repository                             |                                                                              |                      |
+|Policy                                        | سياسة                                                                        |                      |
 |Polish                                        | البولندية                                                                    |                      |
 |Polling                                       | جسّ                                                                          |                      |
 |Polygon                                       | مضلّع                                                                        |                      |
 |Polyline                                      |                                                                              |                      |
 |Polylithism                                   |                                                                              |                      |
-|Polymorphic                                   | متعدد الأشكال                                                                |                      |
 |Polymorphic lambda-calculus                   |                                                                              |                      |
+|Polymorphic                                   | متعدد الأشكال                                                                |                      |
 |Polymorphism                                  | تعددية الأشكال                                                               |                      |
-|Polynomial                                    | حدودية                                                                       |                      |
 |Polynomial-time                               |                                                                              |                      |
 |Polynomial-time algorithm                     |                                                                              |                      |
+|Polynomial                                    | حدودية                                                                       |                      |
 |Polyvinyl chloride                            |                                                                              |                      |
-|Pool                                          | حوض                                                                          |                      |
 |Pooled Variance                               |                                                                              |                      |
+|Pool                                          | حوض                                                                          |                      |
 |Pop                                           |                                                                              |                      |
 |Pop-down menu                                 | قائمة منسدلة                                                                 |                      |
+|Popup menu                                    |                                                                              |                      |
 |Pop up                                        | منبثق                                                                        |                      |
 |Popup                                         | منبثقة (نافذة، قائمة إلخ...)                                                 |                      |
-|Popup menu                                    |                                                                              |                      |
-|Port                                          | منفذ                                                                         |                      |
 |Portability                                   | قابلية للنقل                                                                 |                      |
 |Portable                                      | محمول، قابل للحمل                                                            |                      |
 |Portal                                        | باب، بوابة                                                                   |                      |
 |Port (Development)                            |                                                                              |                      |
 |Porting                                       |                                                                              |                      |
-|Portmap                                       | خريطة المنافذ                                                                |                      |
 |Portmapper                                    | خطًاط المنفذ                                                                 |                      |
+|Portmap                                       | خريطة المنافذ                                                                |                      |
 |Port monitor                                  | مراقب المنفذ                                                                 |                      |
 |Port number                                   | رقم المنفذ                                                                   |                      |
 |Portrait                                      | طولي                                                                         |                      |
 |Portugal                                      | برتغال                                                                       |                      |
 |Portuguese                                    | البرتغالية                                                                   |                      |
+|Port                                          | منفذ                                                                         |                      |
 |Pose                                          | وضعية                                                                        |                      |
-|Position                                      | موضع                                                                         |                      |
 |Positional                                    | موقعيً،مكانيً                                                                |                      |
-|Post                                          | رسالة، أرسل (فعل)                                                            |                      |
+|Position                                      | موضع                                                                         |                      |
 |Postal Box                                    | صندوق بريدي                                                                  |                      |
 |Posted write-through                          |                                                                              |                      |
-|Poster                                        | إعلان، مُلصق                                                                 |                      |
 |Posterize                                     |                                                                              |                      |
+|Poster                                        | إعلان، مُلصق                                                                 |                      |
 |Postfix                                       |                                                                              |                      |
 |Postfix notation                              | تَنويت مُلحق                                                                 |                      |
 |Postfix syntax                                |                                                                              |                      |
 |Posting                                       |                                                                              |                      |
 |Postmaster                                    | موزع البريد                                                                  |                      |
-|Post Office                                   | مكتب البريد                                                                  |                      |
 |Post office problem                           | مشكل مكتب البريد                                                             |                      |
+|Post Office                                   | مكتب البريد                                                                  |                      |
 |Post-order traversal                          |                                                                              |                      |
 |Post Processor                                | معالج الأحداث                                                                |                      |
 |Postscript                                    | PostScript                                                                   |                      |
+|Post                                          | رسالة، أرسل (فعل)                                                            |                      |
 |Potential difference                          |                                                                              |                      |
 |Potential master                              |                                                                              |                      |
 |Potential primary                             |                                                                              |                      |
-|Pound                                         | جنيه (عملة)، رطل (وزن)                                                       |                      |
 |Pound on                                      |                                                                              |                      |
 |Pound sign                                    | علامة الجنيه،علامة الرطل (وحدة وزن)                                          |                      |
-|Power                                         | قوى، القدرة                                                                  |                      |
+|Pound                                         | جنيه (عملة)، رطل (وزن)                                                       |                      |
 |Power cycle                                   |                                                                              |                      |
 |Powerdomain                                   |                                                                              |                      |
 |Power management                              | إدارة الطاقة                                                                 |                      |
@@ -4010,6 +4007,7 @@
 |Power-on self-test                            | الفحص الذاتي عند الإقلاع                                                     |                      |
 |Power save mode                               | نمط ادخار الطاقة                                                             |                      |
 |Powerset                                      |                                                                              |                      |
+|Power                                         | قوى، القدرة                                                                  |                      |
 |Ppa                                           |                                                                              |                      |
 |PPA                                           |                                                                              |                      |
 |PPP                                           |                                                                              |                      |
@@ -4024,11 +4022,11 @@
 |Predicate logic                               |                                                                              |                      |
 |Predomain                                     |                                                                              |                      |
 |Pre-emptive multitasking                      | تعدد المهمات الوقائي                                                         |                      |
-|Preference                                    | تفضيل                                                                        |                      |
 |Preferences                                   | تفضيلات                                                                      |                      |
-|Prefix                                        | سابقة                                                                        |                      |
+|Preference                                    | تفضيل                                                                        |                      |
 |Prefix notation                               | تَنويت مُبدأ                                                                 |                      |
 |Prefix syntax                                 |                                                                              |                      |
+|Prefix                                        | سابقة                                                                        |                      |
 |Preformat                                     | إصاغة تمهيدية،تهيئة تمهيدية                                                  |                      |
 |Pre-install                                   |                                                                              |                      |
 |Pre-order                                     |                                                                              |                      |
@@ -4044,177 +4042,177 @@
 |Preset                                        |                                                                              |                      |
 |Presets                                       |                                                                              |                      |
 |Presiding                                     |                                                                              |                      |
-|Press                                         | ضغط                                                                          |                      |
 |Press and Hold                                | ضغط مع التعليق                                                               |                      |
+|Press                                         | ضغط                                                                          |                      |
 |Pretzel key                                   |                                                                              |                      |
-|Prevent                                       | اتقاء، تجنيب                                                                 |                      |
 |Prevention                                    | حظر،صدً                                                                      |                      |
-|Preventive                                    | وقائي                                                                        |                      |
 |Preventive maintenance                        | صيانة وقائية                                                                 |                      |
+|Preventive                                    | وقائي                                                                        |                      |
+|Prevent                                       | اتقاء، تجنيب                                                                 |                      |
 |Preview                                       | معاينة                                                                       |                      |
 |Previous                                      | السابق                                                                       |                      |
-|Primary                                       | أولي                                                                         |                      |
 |Primary cache                                 | خابية أولية،خابية رئيسية                                                     |                      |
 |Primary Colors                                | ألوان أولية                                                                  |                      |
 |Primary key                                   |                                                                              |                      |
 |Primary management domain                     |                                                                              |                      |
 |Primary window                                | الإطار الأساسي                                                               |                      |
-|Prime number                                  | عدد أولي                                                                     |                      |
+|Primary                                       | أولي                                                                         |                      |
 |Prime number theorem                          |                                                                              |                      |
+|Prime number                                  | عدد أولي                                                                     |                      |
 |Prime time                                    |                                                                              |                      |
 |Primitive                                     |                                                                              |                      |
-|Principal                                     | رئيسي                                                                        |                      |
 |Principal type                                | نوع رئيسي                                                                    |                      |
-|Print                                         | طبع                                                                          |                      |
+|Principal                                     | رئيسي                                                                        |                      |
 |Printable                                     | قابل للطباعة،مهيء للطباعة                                                    |                      |
 |Print area                                    | مساحة الطباعة                                                                |                      |
-|Printed                                       | مطبوع                                                                        |                      |
 |Printed circuit board                         |                                                                              |                      |
-|Printer                                       | طابعة                                                                        |                      |
+|Printed                                       | مطبوع                                                                        |                      |
 |Printer port                                  | منفذ الطباعة                                                                 |                      |
+|Printer                                       | طابعة                                                                        |                      |
 |Printing                                      | يطبع                                                                         |                      |
 |Print server                                  | ملقم طباعة                                                                   |                      |
-|Priority                                      | أولوية                                                                       |                      |
+|Print                                         | طبع                                                                          |                      |
 |Priority inheritance                          | وراثة الأولية                                                                |                      |
 |Priority interrupt                            |                                                                              |                      |
 |Priority inversion                            | إنقلاب الأولية                                                               |                      |
 |Priority queue                                |                                                                              |                      |
 |Priority scheduling                           | جدولة الأولوية                                                               |                      |
+|Priority                                      | أولوية                                                                       |                      |
 |Privacy                                       | خصوصية                                                                       |                      |
-|Private                                       | خاص                                                                          |                      |
 |Private hostname                              | إسم مضيف شخصي،إسم مضيف خصوصي                                                 |                      |
-|Private key                                   | مفتاح سري                                                                    |                      |
 |Private-key cryptography                      |                                                                              |                      |
+|Private key                                   | مفتاح سري                                                                    |                      |
 |Private Messages                              | رسائل خاصة                                                                   |                      |
+|Private                                       | خاص                                                                          |                      |
 |Priviledge                                    | امتياز                                                                       |                      |
-|Privilege                                     | امتياز                                                                       |                      |
 |Privileged instruction                        | تعليمة مميًزة،تعليمة ذات إمتياز                                              |                      |
-|Probabilistic                                 | أحتمالية                                                                     |                      |
+|Privilege                                     | امتياز                                                                       |                      |
 |Probabilistic automaton                       |                                                                              |                      |
+|Probabilistic                                 | أحتمالية                                                                     |                      |
 |Probability                                   | إختمال،توقًع                                                                 |                      |
-|Problem                                       | مشكل                                                                         |                      |
 |Problem report                                | تقرير عن مشكل                                                                |                      |
 |Problem state                                 | حالة المشكل                                                                  |                      |
+|Problem                                       | مشكل                                                                         |                      |
 |Procedural language                           | لغة إجرائية                                                                  |                      |
-|Procedure                                     | إجراء                                                                        |                      |
 |Procedure call                                |                                                                              |                      |
-|Process                                       | عمليّة                                                                       |                      |
+|Procedure                                     | إجراء                                                                        |                      |
 |Process code                                  |                                                                              |                      |
 |Process file                                  | ملف إجراء،ملف معالجة                                                         |                      |
-|Process ID                                    | رقم الإجراء                                                                  |                      |
 |Process identifier                            | معرف الاجراء                                                                 |                      |
+|Process ID                                    | رقم الإجراء                                                                  |                      |
 |Processing                                    | جاري التطبيق، جاري المعاملة، جاري التنفيذ                                    |                      |
-|Processor                                     | معالج                                                                        |                      |
 |Processor bus                                 |                                                                              |                      |
 |Processor farm                                |                                                                              |                      |
 |Processor time                                | زمن (تشغيل) المعالج                                                          |                      |
+|Processor                                     | معالج                                                                        |                      |
 |Process scheduling                            | جدولة الإجراء،جدولة المعالجة                                                 |                      |
 |Process status                                | حالة الاجراء                                                                 |                      |
 |Process table                                 | جدول الاجراء                                                                 |                      |
+|Process                                       | عمليّة                                                                       |                      |
 |Prodigy                                       | Prodigy                                                                      |                      |
-|Product                                       | منتج                                                                         |                      |
 |Production system                             | نظام إنتاج                                                                   |                      |
+|Product                                       | منتج                                                                         |                      |
 |Professional programming                      | translated مهنية                                                             |                      |
 |Professional services                         | خدمات مهنية                                                                  |                      |
 |Profile                                       |                                                                              |                      |
 |Profiling data                                |                                                                              |                      |
-|Program                                       | برنامج                                                                       |                      |
 |Program counter                               | عداد برنامج،عداد برمجي                                                       |                      |
 |Programmer                                    | مبرمج                                                                        |                      |
-|Programming                                   | برمجة                                                                        |                      |
 |Programming fluid                             |                                                                              |                      |
 |Programming language                          | لغة برمجة                                                                    |                      |
+|Programming                                   | برمجة                                                                        |                      |
 |Programs                                      | برامج                                                                        |                      |
 |Program transformation                        |                                                                              |                      |
-|Progress                                      | تقدم                                                                         |                      |
+|Program                                       | برنامج                                                                       |                      |
 |Progress bar                                  | شريط التقدم                                                                  |                      |
 |Progressive coding                            | ترميز تقدًمي                                                                 |                      |
+|Progress                                      | تقدم                                                                         |                      |
 |Prohibit                                      | حظر                                                                          |                      |
-|Project                                       | مشروع                                                                        |                      |
 |Project assurance                             |                                                                              |                      |
 |Projection                                    | اسقاط                                                                        |                      |
 |Projective plane                              |                                                                              |                      |
 |Project management                            | ادارة مشاريع                                                                 |                      |
 |Projector                                     |                                                                              |                      |
 |Project planning                              | تنظيم مشروع،تدبير مشروع                                                      |                      |
+|Project                                       | مشروع                                                                        |                      |
 |Prolog                                        |                                                                              |                      |
 |Promiscuous mode                              |                                                                              |                      |
 |Promote                                       | ترقية،مساعدة                                                                 |                      |
 |Prompt                                        | محث                                                                          |                      |
-|Proof                                         | برهان،إثبات                                                                  |                      |
 |Proof theory                                  |                                                                              |                      |
+|Proof                                         | برهان،إثبات                                                                  |                      |
 |Propagation                                   | انتشار                                                                       |                      |
 |Propeller key                                 | مفتاح دافع                                                                   |                      |
 |Properties                                    | خصائص، مواصفات                                                               |                      |
 |Property                                      | خاصية :: ملكية                                                               |                      |
-|Proportional                                  | تناسبي، متناسب                                                               |                      |
 |Proportional font                             |                                                                              |                      |
-|Proposition                                   | رأي،مُقترح،إقتراح                                                            |                      |
+|Proportional                                  | تناسبي، متناسب                                                               |                      |
 |Propositional calculus                        |                                                                              |                      |
 |Propositional logic                           |                                                                              |                      |
+|Proposition                                   | رأي،مُقترح،إقتراح                                                            |                      |
 |Proprietary                                   |                                                                              |                      |
-|Protect                                       | حماية                                                                        |                      |
-|Protected                                     | محمي                                                                         |                      |
 |Protected mode                                | وضع محمي                                                                     |                      |
 |Protected workbook                            |                                                                              |                      |
 |Protected workbooks                           | كتب عمل محمية                                                                |                      |
+|Protected                                     | محمي                                                                         |                      |
 |Protection                                    | حماية                                                                        |                      |
-|Protocol                                      | ميفاق                                                                        |                      |
+|Protect                                       | حماية                                                                        |                      |
 |Protocol analyser                             | محلل مراسم                                                                   |                      |
 |Protocol class 0                              | فئة ميفاق صفرية                                                              |                      |
 |Protocol converter                            | محوًل ميفاق                                                                  |                      |
 |Protocole                                     |                                                                              |                      |
 |Protocol layer                                | طبقة الميفاق                                                                 |                      |
-|Protocols                                     | مراسم                                                                        |                      |
 |Protocol stack                                |                                                                              |                      |
+|Protocols                                     | مراسم                                                                        |                      |
+|Protocol                                      | ميفاق                                                                        |                      |
 |Prototyping                                   | نمذجة                                                                        |                      |
 |Provably difficult                            |                                                                              |                      |
 |Provably unsolvable                           |                                                                              |                      |
-|Provide                                       | توفير                                                                        |                      |
 |Provider                                      | موفّر                                                                        |                      |
+|Provide                                       | توفير                                                                        |                      |
 |Provision                                     |                                                                              |                      |
-|Proxy                                         | وسيط                                                                         |                      |
 |Proxy gateway                                 | بوابة وسيطة                                                                  |                      |
 |Proxy server                                  | خادم وسيط                                                                    |                      |
-|Pseudo                                        | شبه                                                                          |                      |
+|Proxy                                         | وسيط                                                                         |                      |
 |Pseudo-device                                 | شبه جهاز                                                                     |                      |
 |Pseudo-random number                          | عدد شبه عشوائي                                                               |                      |
 |Pseudo-terminal                               | شبه مطراف                                                                    |                      |
+|Pseudo                                        | شبه                                                                          |                      |
 |Pubic directory                               |                                                                              |                      |
-|Public                                        | عمومي                                                                        |                      |
 |Public directory                              | مجلًد عمومي                                                                  |                      |
 |Public domain                                 | مشاع                                                                         |                      |
-|Public key                                    | مفتاح علني                                                                   |                      |
 |Public-key cryptography                       |                                                                              |                      |
 |Public-key encryption                         | التعمية بالمفتاح العمومي                                                     |                      |
-|Publish                                       | نشر                                                                          |                      |
+|Public key                                    | مفتاح علني                                                                   |                      |
+|Public                                        | عمومي                                                                        |                      |
 |Publisher                                     | ناشر،دار نشر                                                                 |                      |
-|Pull                                          | سحب،إجتذاب،جر                                                                |                      |
+|Publish                                       | نشر                                                                          |                      |
 |Pull-down list                                |                                                                              |                      |
 |Pull-down menu                                |                                                                              |                      |
 |Pull media                                    |                                                                              |                      |
-|Pumpkin                                       | يقطين                                                                        |                      |
+|Pull                                          | سحب،إجتذاب،جر                                                                |                      |
 |Pumpkineer                                    |                                                                              |                      |
 |Pumpking                                      | قرع                                                                          |                      |
+|Pumpkin                                       | يقطين                                                                        |                      |
 |Punch card                                    | بطاقة ثقب                                                                    |                      |
 |Pure functional language                      | لغة وظيفية صافية                                                             |                      |
 |Pure lambda-calculus                          |                                                                              |                      |
 |Purely functional language                    | لغة وظيفية بشكل صافي                                                         |                      |
 |Purge                                         | نهاية الصلاحية                                                               |                      |
-|Push                                          | دفع                                                                          |                      |
 |Pushable module                               |                                                                              |                      |
 |Pushbuttom                                    |                                                                              |                      |
 |Push-button                                   | زرً ضغط                                                                      |                      |
 |Push media                                    | وسائط دفع                                                                    |                      |
+|Push                                          | دفع                                                                          |                      |
 |Put procedure                                 |                                                                              |                      |
 |Pyramid                                       | هرم                                                                          |                      |
 |Quadratic                                     | تربيعي                                                                       |                      |
 |Quadrature                                    | تربيع                                                                        |                      |
 |Quadruplex                                    |                                                                              |                      |
-|Quality                                       | جودة                                                                         |                      |
 |Quality assurance                             | تأكيد الجودة                                                                 |                      |
 |Quality control                               | التأكد من الجودة                                                             |                      |
 |Quality of service                            | جودة الخدمات                                                                 |                      |
+|Quality                                       | جودة                                                                         |                      |
 |Quantifier                                    |                                                                              |                      |
 |Quantity                                      | كمية                                                                         |                      |
 |Quantum                                       |                                                                              |                      |
@@ -4223,8 +4221,8 @@
 |Quantum do                                    |                                                                              |                      |
 |Quarantine                                    | أربعينية                                                                     |                      |
 |Quarter                                       |                                                                              |                      |
-|Query                                         | استعلام                                                                      |                      |
 |Query expansion                               |                                                                              |                      |
+|Query                                         | استعلام                                                                      |                      |
 |Ques                                          |                                                                              |                      |
 |Question mark                                 | علامة الاستفهام                                                              |                      |
 |Queue                                         | طابور                                                                        |                      |
@@ -4232,13 +4230,13 @@
 |Quiesce                                       |                                                                              |                      |
 |Quintillion                                   |                                                                              |                      |
 |Quit                                          | مغادرة                                                                       |                      |
-|Quorum                                        | سهم /ج أسهم                                                                  |                      |
 |Quorum device                                 |                                                                              |                      |
-|Quota                                         | حصّة،أسهم                                                                    |                      |
+|Quorum                                        | سهم /ج أسهم                                                                  |                      |
 |Quotation                                     | اقتباس                                                                       |                      |
-|Quote                                         | اقتباس                                                                       |                      |
+|Quota                                         | حصّة،أسهم                                                                    |                      |
 |Quoted                                        | مُقتبس،مُقتطف                                                                |                      |
 |Quotelike                                     |                                                                              |                      |
+|Quote                                         | اقتباس                                                                       |                      |
 |Quotient                                      | قِسْم                                                                        |                      |
 |Quoting                                       |                                                                              |                      |
 |Qword                                         | مركب من أربعة عناصر :: مركب رباعي :: رباعي                                   |                      |
@@ -4246,22 +4244,21 @@
 |Rack-mounted                                  |                                                                              |                      |
 |Radar map                                     | خريطة الرادار                                                                |                      |
 |Radial                                        | شعاعي                                                                        |                      |
-|Radio                                         | راديو                                                                        |                      |
 |Radio button                                  | زر انتقاء                                                                    |                      |
 |Radio group                                   |                                                                              |                      |
 |Radiosity                                     | شعاعية                                                                       |                      |
+|Radio                                         | راديو                                                                        |                      |
 |Radius                                        | نصف قطر                                                                      |                      |
 |Radix                                         | عدد جذري                                                                     |                      |
 |RAID                                          |                                                                              |                      |
 |Raise                                         | رفع                                                                          |                      |
-|Random                                        | عشوائي                                                                       |                      |
 |Random-access memory                          |                                                                              |                      |
 |Random numbers                                | أرقام عشوائية، أعداد عشوائية                                                 |                      |
 |Random testing                                |                                                                              |                      |
+|Random                                        | عشوائي                                                                       |                      |
 |Range                                         | مدى                                                                          |                      |
 |Rank                                          | منزلة                                                                        |                      |
 |Rapid prototyping                             |                                                                              |                      |
-|Raster                                        | خطوط المسح التسامتي                                                          |                      |
 |Raster file                                   | ملف تسامتي                                                                   |                      |
 |Raster font                                   | خط نقطي                                                                      |                      |
 |Rastergram                                    |                                                                              |                      |
@@ -4271,31 +4268,31 @@
 |Rasterizing                                   |                                                                              |                      |
 |Raster op                                     |                                                                              |                      |
 |Raster subsystem                              |                                                                              |                      |
+|Raster                                        | خطوط المسح التسامتي                                                          |                      |
 |Rate                                          | معدًل، سرعة                                                                  |                      |
 |Rating                                        | تحديد الدرجة، تقدير                                                          |                      |
-|Ratio                                         | نسبة                                                                         |                      |
 |Rational                                      |                                                                              |                      |
+|Ratio                                         | نسبة                                                                         |                      |
 |Rave on                                       |                                                                              |                      |
 |Raw                                           |                                                                              |                      |
 |Raw data                                      | معطيات خام(أولية)                                                            |                      |
 |Raw memory                                    | ذاكرة مجردة                                                                  |                      |
 |Raw mode                                      |                                                                              |                      |
-|Ray                                           | حزة                                                                          |                      |
 |Ray casting                                   |                                                                              |                      |
 |Ray tracing                                   |                                                                              |                      |
+|Ray                                           | حزة                                                                          |                      |
 |Re-                                           |                                                                              |                      |
 |Reachable                                     | يمكن الوصول إليه، متوصل إليه                                                 |                      |
-|Read                                          | قراءة                                                                        |                      |
 |Readable                                      | مقروء                                                                        |                      |
 |Read-ahead                                    |                                                                              |                      |
 |Read-eval-print loop                          |                                                                              |                      |
 |Readme                                        |                                                                              |                      |
-|Read only                                     | مقروء فقط                                                                    |                      |
 |Read-only                                     |                                                                              |                      |
+|Read only                                     | مقروء فقط                                                                    |                      |
 |Readout                                       |                                                                              |                      |
 |Read-write                                    |                                                                              |                      |
 |Ready                                         | جاهز،متأهب                                                                   |                      |
-|Real                                          | حقيقي                                                                        |                      |
+|Read                                          | قراءة                                                                        |                      |
 |Reality check                                 |                                                                              |                      |
 |Real Memory                                   | ذاكرة حقيقية                                                                 |                      |
 |Real mode                                     |                                                                              |                      |
@@ -4303,9 +4300,10 @@
 |Real path                                     |                                                                              |                      |
 |Real time                                     |                                                                              |                      |
 |Realtime                                      |                                                                              |                      |
-|Real-time                                     | آني                                                                          |                      |
 |Real-time structured analysis                 | تحليل بنيوي فوري                                                             |                      |
+|Real-time                                     | آني                                                                          |                      |
 |Real user                                     | المستخدم الواقعي                                                             |                      |
+|Real                                          | حقيقي                                                                        |                      |
 |Reassembly                                    |                                                                              |                      |
 |Rebase                                        |                                                                              |                      |
 |Reboot                                        | إعادة اقلاع                                                                  |                      |
@@ -4319,101 +4317,101 @@
 |Recipient                                     |                                                                              |                      |
 |Recognition                                   | تعرف                                                                         |                      |
 |Reconnect                                     | إعادة اتصال                                                                  |                      |
-|Record                                        | تسجيلة                                                                       |                      |
 |Record (verb)                                 | تسجيل                                                                        |                      |
-|Recover                                       | استرجاع                                                                      |                      |
+|Record                                        | تسجيلة                                                                       |                      |
 |Recovery                                      | استعادة                                                                      |                      |
+|Recover                                       | استرجاع                                                                      |                      |
 |Rectangle                                     | مستطيل                                                                       |                      |
 |Rectangular                                   |                                                                              |                      |
 |Recurrence                                    |                                                                              |                      |
 |Recurse                                       |                                                                              |                      |
-|Recursion                                     | معاودة                                                                       |                      |
 |Recursion theory                              |                                                                              |                      |
-|Recursive                                     | تكراري                                                                       |                      |
+|Recursion                                     | معاودة                                                                       |                      |
 |Recursive definition                          | تعريف تِكراري                                                                |                      |
 |Recursive descent parser                      |                                                                              |                      |
 |Recursive type                                |                                                                              |                      |
-|Red                                           | أحمر                                                                         |                      |
+|Recursive                                     | تكراري                                                                       |                      |
 |Redemption                                    | استرداد                                                                      |                      |
 |Redex                                         |                                                                              |                      |
-|Redirect                                      | إعادة توجيه                                                                  |                      |
 |Redirection                                   | اعادة توجيه                                                                  |                      |
 |Redirectort                                   |                                                                              |                      |
 |Redirect output                               |                                                                              |                      |
+|Redirect                                      | إعادة توجيه                                                                  |                      |
 |Redisplay                                     | حدًث العرض                                                                   |                      |
-|Redo                                          | إعادة                                                                        |                      |
 |Redocumentation                               |                                                                              |                      |
+|Redo                                          | إعادة                                                                        |                      |
 |Redraw                                        |                                                                              |                      |
 |Reduce                                        | نقص                                                                          |                      |
-|Reduction                                     | نقص                                                                          |                      |
 |Reduction strategy                            |                                                                              |                      |
+|Reduction                                     | نقص                                                                          |                      |
 |Redundancy                                    |                                                                              |                      |
 |Redundant                                     |                                                                              |                      |
 |Redundant array                               |                                                                              |                      |
 |Red zone                                      |                                                                              |                      |
+|Red                                           | أحمر                                                                         |                      |
 |Re-engineering                                |                                                                              |                      |
 |Re-entrant                                    |                                                                              |                      |
 |Ref                                           |                                                                              |                      |
 |Refactoring                                   | اعادة التصنيع                                                                |                      |
-|Reference                                     | مرجع                                                                         |                      |
 |Reference counting                            | عدً المراجع،عدً مرجعي                                                        |                      |
+|Reference                                     | مرجع                                                                         |                      |
 |Referential integrity                         | تكامل مرجعي                                                                  |                      |
 |Referentially transparent                     |                                                                              |                      |
 |Referential transparency                      | شفافية مرجعية،مرجعية الشفافية                                                |                      |
 |Referer                                       | يدل                                                                          |                      |
 |Referral                                      | إحالة                                                                        |                      |
-|Reflexive                                     | عاكس                                                                         |                      |
 |Reflexive domain                              |                                                                              |                      |
-|Refresh                                       | إنعاش                                                                        |                      |
-|Refreshable                                   | قابل للإنعاش                                                                 |                      |
+|Reflexive                                     | عاكس                                                                         |                      |
 |Refreshable braille display                   |                                                                              |                      |
 |Refreshable display                           |                                                                              |                      |
+|Refreshable                                   | قابل للإنعاش                                                                 |                      |
 |Refresh rate                                  | معدل التحديث                                                                 |                      |
+|Refresh                                       | إنعاش                                                                        |                      |
 |Refuse                                        | رفض                                                                          |                      |
 |Refutable                                     | مرفوض                                                                        |                      |
 |Regenerate                                    | إعادة توليد                                                                  |                      |
 |Regex                                         |                                                                              |                      |
-|Region                                        | قطر، اقليم                                                                   |                      |
 |Regional network                              | شبكة اقليمية، شبكة قطرية                                                     |                      |
-|Register                                      | تسجيل                                                                        |                      |
+|Region                                        | قطر، اقليم                                                                   |                      |
 |Register allocation                           |                                                                              |                      |
 |Register assignment                           |                                                                              |                      |
 |Registered port                               | منفذ مسجل                                                                    |                      |
 |Register set                                  |                                                                              |                      |
 |Register spilling                             |                                                                              |                      |
 |Register-true                                 |                                                                              |                      |
+|Register                                      | تسجيل                                                                        |                      |
 |Registration                                  | التسجيل                                                                      |                      |
 |Registry                                      | مَسجل                                                                        |                      |
 |Regression                                    |                                                                              |                      |
 |Regression analysis                           |                                                                              |                      |
 |Regression curve                              |                                                                              |                      |
 |Regression testing                            |                                                                              |                      |
-|Regular                                       | منتظِم                                                                       |                      |
 |Regular expression                            | تعبير نمطي                                                                   |                      |
 |Regular graph                                 |                                                                              |                      |
+|Regular                                       | منتظِم                                                                       |                      |
 |Regulate                                      |                                                                              |                      |
 |Reify                                         |                                                                              |                      |
 |Reincarnation                                 | cycle of                                                                     |                      |
 |Reinstallation                                | إعادة التثبيت                                                                |                      |
-|Reject                                        | رفض                                                                          |                      |
 |Rejected                                      | مرفوض                                                                        |                      |
-|Relation                                      | علاقة                                                                        |                      |
+|Reject                                        | رفض                                                                          |                      |
 |Relational algebra                            |                                                                              |                      |
 |Relational calculus                           |                                                                              |                      |
-|Relational database                           | قاعدة بيانات ارتباطية                                                        |                      |
 |Relational database management system         |                                                                              |                      |
+|Relational database                           | قاعدة بيانات ارتباطية                                                        |                      |
 |Relational data model                         |                                                                              |                      |
 |Relational language                           |                                                                              |                      |
 |Relational model                              | نمط علائقي                                                                   |                      |
 |Relationship                                  |                                                                              |                      |
-|Relative                                      | نسبي                                                                         |                      |
+|Relation                                      | علاقة                                                                        |                      |
 |Relatively prime                              |                                                                              |                      |
-|Relative path                                 | مسار نسبي                                                                    |                      |
 |Relative pathname                             |                                                                              |                      |
-|Relay                                         | منقال،بديل                                                                   |                      |
+|Relative path                                 | مسار نسبي                                                                    |                      |
+|Relative                                      | نسبي                                                                         |                      |
 |Relay host                                    |                                                                              |                      |
-|Release                                       | إصدارة                                                                       |                      |
+|Relay                                         | منقال،بديل                                                                   |                      |
 |Released version                              |                                                                              |                      |
+|Release                                       | إصدارة                                                                       |                      |
 |Relevance                                     | وظيفة تمييزية                                                                |                      |
 |Reliability                                   | ثِقَة، ثبات                                                                  |                      |
 |Reliable communication                        |                                                                              |                      |
@@ -4423,9 +4421,8 @@
 |Remailer                                      |                                                                              |                      |
 |Remaining                                     | باقٍ                                                                         |                      |
 |Remark                                        | ملاحظة                                                                       |                      |
-|Remind                                        | تذكير                                                                        |                      |
 |Reminder                                      | تذكير                                                                        |                      |
-|Remote                                        | عن بعد، بعيد                                                                 |                      |
+|Remind                                        | تذكير                                                                        |                      |
 |Remote access                                 | نفاذ عن بُعد                                                                 |                      |
 |Remote control                                | تحكم عن بعد                                                                  |                      |
 |Remote echo                                   | صدى بعيد                                                                     |                      |
@@ -4433,13 +4430,14 @@
 |Remote monitoring                             | مراقبة عن بعد                                                                |                      |
 |Remote procedure call                         | استدعاء إجراء عن بُعد                                                        |                      |
 |Remote shell                                  |                                                                              |                      |
-|Removable                                     | مزال                                                                         |                      |
+|Remote                                        | عن بعد، بعيد                                                                 |                      |
 |Removable disk                                |                                                                              |                      |
-|Remove                                        | إزالة                                                                        |                      |
+|Removable                                     | مزال                                                                         |                      |
 |Removed                                       |                                                                              |                      |
+|Remove                                        | إزالة                                                                        |                      |
 |Rename                                        | تغيير الاسم                                                                  |                      |
-|Render                                        | تَصْيير (ف. صيّر)                                                            |                      |
 |Rendering                                     | تصيير                                                                        |                      |
+|Render                                        | تَصْيير (ف. صيّر)                                                            |                      |
 |Rendezvous                                    | موعد                                                                         |                      |
 |Renew                                         | اتجديد                                                                       |                      |
 |ReNice                                        | see Nice                                                                     |                      |
@@ -4447,50 +4445,49 @@
 |Repaginate                                    | اعادة اعداد الصفحة                                                           |                      |
 |Repagination                                  | اعادة اعداد الصفحة                                                           |                      |
 |Repair                                        | تصليح                                                                        |                      |
-|Repeat                                        | إعادة،تكرار،ترديد                                                            |                      |
 |Repeater                                      | مردد                                                                         |                      |
 |Repeating group                               |                                                                              |                      |
 |Repeat loop                                   | حلقة تردد                                                                    |                      |
+|Repeat                                        | إعادة،تكرار،ترديد                                                            |                      |
 |Repetition                                    |                                                                              |                      |
 |Repetitive strain disorder                    |                                                                              |                      |
 |Repetitive strain injury                      |                                                                              |                      |
-|Replace                                       | استبدل                                                                       |                      |
 |Replaceable unit                              |                                                                              |                      |
-|Replacement                                   | استبدال، إحلال                                                               |                      |
 |Replacement algorithm                         |                                                                              |                      |
+|Replacement                                   | استبدال، إحلال                                                               |                      |
+|Replace                                       | استبدل                                                                       |                      |
 |Replicate                                     | يضاعف، يكرر                                                                  |                      |
 |Replication                                   | مضاعفة، تكرار                                                                |                      |
 |Reply                                         | ردً                                                                          |                      |
-|Report                                        | تقرير                                                                        |                      |
 |Reports                                       | تقارير                                                                       |                      |
+|Report                                        | تقرير                                                                        |                      |
 |Repository                                    | مستودع                                                                       |                      |
 |Representation                                |                                                                              |                      |
 |Requeriments                                  |                                                                              |                      |
-|Request                                       | طلب                                                                          |                      |
 |Request for proposal                          |                                                                              |                      |
-|Require                                       | تطلب                                                                         |                      |
+|Request                                       | طلب                                                                          |                      |
 |Required                                      |                                                                              |                      |
 |Requirement                                   | متطلب،إحتياج                                                                 |                      |
+|Require                                       | تطلب                                                                         |                      |
 |Reseller                                      |                                                                              |                      |
 |Resend                                        |                                                                              |                      |
 |Reserved block                                |                                                                              |                      |
 |Reserved blocks                               | قوالب النشاط                                                                 |                      |
 |Reserved memory                               | ذاكرة محجوزة                                                                 |                      |
-|Reset                                         | استعادة                                                                        |                      |
 |Reset button                                  | زر إعادة للوضع الابتدائي                                                     |                      |
-|Resident                                      | مقيم                                                                         |                      |
+|Reset                                         | استعادة                                                                        |                      |
 |Resident memory                               | ذاكرة مقيمة                                                                  |                      |
+|Resident                                      | مقيم                                                                         |                      |
 |Residual                                      | متبقي                                                                        |                      |
 |Resizable                                     | قابل لتغيير القياس                                                           |                      |
-|Resize                                        | إعادة تحجيم                                                                  |                      |
 |Resize handle                                 |                                                                              |                      |
 |Resize pointer                                |                                                                              |                      |
-|Resolution                                    | ميز                                                                          |                      |
+|Resize                                        | إعادة تحجيم                                                                  |                      |
 |Resolutions                                   | القرارات                                                                     |                      |
-|Resolve                                       | حلّ،فرَّق،حلَّل                                                              |                      |
-|Resolver                                      | حالّ                                                                         |                      |
+|Resolution                                    | ميز                                                                          |                      |
 |Resolver library                              |                                                                              |                      |
-|Resource                                      | مورد                                                                         |                      |
+|Resolver                                      | حالّ                                                                         |                      |
+|Resolve                                       | حلّ،فرَّق،حلَّل                                                              |                      |
 |Resource bundle                               | حزمة مورد                                                                    |                      |
 |Resource control                              | تحكم بلمورد                                                                  |                      |
 |Resource element                              | رقم تعريف العنصر                                                             |                      |
@@ -4501,41 +4498,41 @@
 |Resource pool                                 | حوض موارد                                                                    |                      |
 |Resource state                                | حالة المورد                                                                  |                      |
 |Resource type                                 | نوع المورد                                                                   |                      |
+|Resource                                      | مورد                                                                         |                      |
 |Respawn                                       |                                                                              |                      |
-|Response                                      | إجابة                                                                        |                      |
 |Response time                                 | وقت الاستجابة                                                                |                      |
+|Response                                      | إجابة                                                                        |                      |
 |Responsible                                   | مسؤول                                                                        |                      |
 |Restart                                       | إعادة تشغيل                                                                  |                      |
 |Restore                                       | استعاد                                                                       |                      |
-|Restrict                                      | اقتصار                                                                       |                      |
 |Restricted                                    | مقيّد                                                                        |                      |
 |Restriction                                   | اقتصار                                                                       |                      |
+|Restrict                                      | اقتصار                                                                       |                      |
 |Restructuring                                 | اعادة هيكلة                                                                  |                      |
 |Result                                        | النتيحة                                                                      |                      |
 |Resume                                        | إستأنف                                                                       |                      |
 |Rete                                          |                                                                              |                      |
 |Retrieve                                      | جَلْب                                                                        |                      |
 |Retry                                         | حاول مجدداً                                                                  |                      |
-|Return                                        | عودة                                                                         |                      |
 |Return from interrupt                         |                                                                              |                      |
+|Return                                        | عودة                                                                         |                      |
 |Reusability                                   | تكرارية الإستعمال                                                            |                      |
 |Reuse                                         | إعادة الإستعمال،تكرار الإستعمال                                              |                      |
-|Reverse                                       | معكوس                                                                        |                      |
 |Reversed                                      | معكوس                                                                        |                      |
 |Reverse engineering                           | برمجة عكسية                                                                  |                      |
 |Reverse polish syntax                         |                                                                              |                      |
 |Reverse video                                 | أعكس الفيديو                                                                 |                      |
+|Reverse                                       | معكوس                                                                        |                      |
 |Revert                                        | يعكس                                                                         |                      |
 |Revision                                      | مراجعة                                                                       |                      |
-|Revocation                                    | سحب، إبطال                                                                   |                      |
 |Revocation Certificate                        |                                                                              |                      |
+|Revocation                                    | سحب، إبطال                                                                   |                      |
 |Revoke                                        | يسحب، يبطل                                                                   |                      |
 |Revolutions per minute                        | دورات في الدقيقة                                                             |                      |
 |Rhombus                                       | معين                                                                         |                      |
 |Rhythm                                        | إيقاع                                                                        |                      |
 |Rich object                                   |                                                                              |                      |
 |Rich Site Summary                             |                                                                              |                      |
-|Right                                         | يمين،صحً                                                                     |                      |
 |Right brace                                   | حاصِرَة يمينية                                                               |                      |
 |Right bracket                                 | قوس يمين(ي)                                                                  |                      |
 |Right-click                                   | ينقر على اليمين                                                              |                      |
@@ -4544,11 +4541,12 @@
 |Right outer join                              |                                                                              |                      |
 |Right outside                                 |                                                                              |                      |
 |Right parenthesis                             | هلال يميني                                                                   |                      |
+|Right                                         | يمين،صحً                                                                     |                      |
 |Ring network                                  | شبكة حلقية الشكل                                                             |                      |
 |Rings                                         | حلقت                                                                         |                      |
 |Ring topology                                 | Topology حلقيًة                                                              |                      |
-|Rip                                           | نسخ وسائط رقمية                                                              |                      |
 |Ripcording                                    |                                                                              |                      |
+|Rip                                           | نسخ وسائط رقمية                                                              |                      |
 |Robot                                         | روبوت                                                                        |                      |
 |Robus                                         |                                                                              |                      |
 |Role                                          | دور                                                                          |                      |
@@ -4556,7 +4554,6 @@
 |Rollback                                      |                                                                              |                      |
 |Rolling upgrade                               |                                                                              |                      |
 |Room                                          | غرفة                                                                         |                      |
-|Root                                          | جذر                                                                          |                      |
 |Root account                                  | حساب جذري                                                                    |                      |
 |Root bridge                                   |                                                                              |                      |
 |Root directory                                | الدليل الجذر                                                                 |                      |
@@ -4568,39 +4565,39 @@
 |Root user name                                | اسم المستخدم الجذري                                                          |                      |
 |Root version                                  |                                                                              |                      |
 |Root Window                                   | ناقذة الجذر                                                                  |                      |
+|Root                                          | جذر                                                                          |                      |
 |Roses                                         |                                                                              |                      |
 |Rotary debugger                               |                                                                              |                      |
 |Rotate                                        | يدور،  دار حول                                                               |                      |
-|Rotation                                      | دوران                                                                        |                      |
 |Rotational latency                            |                                                                              |                      |
 |Rotation object                               |                                                                              |                      |
 |Rotation objects                              |                                                                              |                      |
 |Rotations per minute                          | دورات في الدقيقة                                                             |                      |
+|Rotation                                      | دوران                                                                        |                      |
 |Rough translation                             | ترجمة تقريبية                                                                |                      |
-|Round                                         | مدور                                                                         |                      |
 |Rounded rhombus                               |                                                                              |                      |
 |Rounded square                                | مربع مدور                                                                    |                      |
 |Round-robin                                   |                                                                              |                      |
 |Round-trip time                               |                                                                              |                      |
-|Route                                         | طريق                                                                         |                      |
+|Round                                         | مدور                                                                         |                      |
 |Routed                                        |                                                                              |                      |
 |Route flapping                                |                                                                              |                      |
 |Routeing                                      |                                                                              |                      |
 |Routeing domain                               |                                                                              |                      |
 |Router                                        | موجه                                                                         |                      |
+|Route                                         | طريق                                                                         |                      |
 |Routine                                       | وتيرة                                                                        |                      |
-|Routing                                       | توجيه                                                                        |                      |
 |Routing table                                 | جدول توجيه                                                                   |                      |
-|Row                                           | سطر، صف                                                                      |                      |
+|Routing                                       | توجيه                                                                        |                      |
 |Row-level locking                             |                                                                              |                      |
+|Row                                           | سطر، صف                                                                      |                      |
 |RPM package                                   | حزمة RPM                                                                     |                      |
 |RSS                                           |                                                                              |                      |
 |RSS Feed                                      |                                                                              |                      |
 |Rude                                          |                                                                              |                      |
-|Rule                                          | قاعدة                                                                        |                      |
-|Ruler                                         | مسطرة                                                                        |                      |
 |Rulers                                        |                                                                              |                      |
-|Run                                           | تنفيذ                                                                        |                      |
+|Ruler                                         | مسطرة                                                                        |                      |
+|Rule                                          | قاعدة                                                                        |                      |
 |Run code                                      |                                                                              |                      |
 |Runic                                         |                                                                              |                      |
 |Run-length encoding                           |                                                                              |                      |
@@ -4608,8 +4605,6 @@
 |Runnable process                              | اجراء تشغيلي                                                                 |                      |
 |Running applications                          |                                                                              |                      |
 |Run time                                      |                                                                              |                      |
-|Runtime                                       | زمن التشغيل                                                                  |                      |
-|Run-time                                      | زمن تشغيلي                                                                   |                      |
 |Run-time environment                          | محيط زمن تشغيلي                                                              |                      |
 |Run-time error                                | خطأ زمن تشغيلي                                                               |                      |
 |Run-time library                              | مكتبة زمن تشغيلي                                                             |                      |
@@ -4617,20 +4612,23 @@
 |Run-time support                              | دعم زمن تشغيلي                                                               |                      |
 |Run-time system                               | نظام زمن تشغيلي                                                              |                      |
 |Runtime system                                | نظام زمن تشغيلي                                                              |                      |
-|Safe                                          | آمن                                                                          |                      |
+|Runtime                                       | زمن التشغيل                                                                  |                      |
+|Run-time                                      | زمن تشغيلي                                                                   |                      |
+|Run                                           | تنفيذ                                                                        |                      |
 |Safe mode                                     | وضع آمن                                                                      |                      |
-|Safety                                        | أمن، وقاية                                                                   |                      |
 |Safety-critical system                        |                                                                              |                      |
-|Salt                                          | ملح                                                                          |                      |
+|Safety                                        | أمن، وقاية                                                                   |                      |
+|Safe                                          | آمن                                                                          |                      |
 |Salt substrate                                |                                                                              |                      |
+|Salt                                          | ملح                                                                          |                      |
 |Salutation                                    | ترحيب،سلام                                                                   |                      |
 |Salvage                                       | قيمة الخردة                                                                  |                      |
-|Sample                                        | عيًنة                                                                        |                      |
 |Sample Rate                                   |                                                                              |                      |
 |Sample rate                                   | معدًل الإعتيان                                                               |                      |
-|Sampling                                      | إعتيان                                                                       |                      |
+|Sample                                        | عيًنة                                                                        |                      |
 |Sampling frequency                            | تردد الإعتيان                                                                |                      |
 |Sampling rate                                 | معدل الإعتيان                                                                |                      |
+|Sampling                                      | إعتيان                                                                       |                      |
 |Sandbender                                    |                                                                              |                      |
 |Sandbox                                       | آلية تحديد الوصول                                                            |                      |
 |Sanity check                                  |                                                                              |                      |
@@ -4641,43 +4639,42 @@
 |Satisfy                                       |                                                                              |                      |
 |Saturate                                      |                                                                              |                      |
 |Saturation                                    | تشبع                                                                         |                      |
-|Save                                          | حفظ                                                                          |                      |
 |Save As                                       |                                                                              |                      |
+|Save                                          | حفظ                                                                          |                      |
 |Say                                           | قل                                                                           |                      |
 |Scalability                                   | قابلية التوسع                                                                |                      |
-|Scalable                                      | قابل للتمديد                                                                 |                      |
 |Scalable resource                             | مورد قابل للترقية،مورِد سلًمي القياس                                         |                      |
 |Scalable service                              | خدمة قابلة للترقية                                                           |                      |
+|Scalable                                      | قابل للتمديد                                                                 |                      |
 |Scalar                                        | (عدد) سلًمي                                                                  |                      |
 |Scale                                         |                                                                              |                      |
 |Scaling                                       |                                                                              |                      |
 |Scaling Factor                                | معامل القياس                                                                 |                      |
-|Scan                                          | مسح                                                                          |                      |
 |Scan line                                     | خط المسح                                                                     |                      |
 |Scanner                                       | ماسحة                                                                        |                      |
 |Scan path                                     | مسار المسح                                                                   |                      |
 |Scan register                                 | سجلً المسح                                                                   |                      |
+|Scan                                          | مسح                                                                          |                      |
 |Scenario                                      | كتابة مشهد (مفصلًة)                                                          |                      |
-|Scheduel                                      | جدول                                                                         |                      |
 |Schedueler                                    | مجدول،برنامج جدولة                                                           |                      |
 |Schedueling                                   |                                                                              |                      |
-|Schedule                                      | جدول                                                                         |                      |
+|Scheduel                                      | جدول                                                                         |                      |
 |Schedule manager                              | منظم جدولة،مسيًر جدولة                                                       |                      |
 |Scheduler                                     | مجدول،مبرمج جدولة                                                            |                      |
+|Schedule                                      | جدول                                                                         |                      |
 |Scheduling                                    | جدولة                                                                        |                      |
-|Schema                                        | مخطط                                                                         |                      |
-|Schematic                                     | تخطيطي                                                                       |                      |
 |Schematic capture                             |                                                                              |                      |
 |Schematic type variable                       |                                                                              |                      |
+|Schematic                                     | تخطيطي                                                                       |                      |
+|Schema                                        | مخطط                                                                         |                      |
 |Scheme                                        | مخطط، خطة                                                                    |                      |
-|Scientific                                    | علمي                                                                         |                      |
 |Scientific notation                           | تطبيقات علمية                                                                |                      |
+|Scientific                                    | علمي                                                                         |                      |
 |Scope                                         | نطاق                                                                         |                      |
 |Scoring                                       | إحراز،أحرز                                                                   |                      |
-|Scratch                                       | بداية، لاشيء (صفر).                                                          |                      |
 |Scratch disk                                  | قرص خربشة                                                                    |                      |
 |Scratch file                                  | ملف خربشة                                                                    |                      |
-|Screen                                        | شاشة                                                                         |                      |
+|Scratch                                       | بداية، لاشيء (صفر).                                                          |                      |
 |Screen blanker                                | مبيض الشاشة                                                                  |                      |
 |Screen capture                                | إلتقاط الشاشة                                                                |                      |
 |Screencast                                    |                                                                              |                      |
@@ -4696,65 +4693,66 @@
 |Screen server                                 | خادم الشاشة                                                                  |                      |
 |Screen sharing                                |                                                                              |                      |
 |Screenshot                                    | لقطة شاشة                                                                    |                      |
+|Screen                                        | شاشة                                                                         |                      |
 |Screw                                         | مفك، يفسد                                                                    |                      |
 |Scrip                                         |                                                                              |                      |
 |Script                                        |                                                                              |                      |
 |Scripting                                     |                                                                              |                      |
 |Scripting language                            |                                                                              |                      |
 |Script language                               |                                                                              |                      |
-|Scroll                                        | تمرير                                                                        |                      |
 |Scrollable list                               | لائحة قابلة للزلق                                                            |                      |
 |Scroll arrow                                  | سهم التمرير                                                                  |                      |
-|Scrollbar                                     | شريط الزلق                                                                   |                      |
 |Scrollbars                                    |                                                                              |                      |
+|Scrollbar                                     | شريط الزلق                                                                   |                      |
 |Scroll box                                    | صندوق التمرير                                                                |                      |
 |Scrolling                                     | الزلق                                                                        |                      |
 |Scroll pane                                   | لوح الزلق                                                                    |                      |
+|Scroll                                        | تمرير                                                                        |                      |
 |Scrozzle                                      |                                                                              |                      |
 |Scruffies                                     |                                                                              |                      |
 |SCSI                                          | سكزي                                                                         |                      |
 |Scuzzy                                        |                                                                              |                      |
 |SC/XSpread                                    | لف عند الإخراج                                                               |                      |
-|Search                                        | بحث                                                                          |                      |
 |Search Domains                                | مجالات بحث                                                                   |                      |
 |Search engine                                 | محرك بحث                                                                     |                      |
 |Searching                                     |                                                                              |                      |
 |Search string                                 | سلسلة البحث                                                                  |                      |
 |Search term                                   | مفردة البحث،مصطلح البحث                                                      |                      |
-|Second                                        | ثاني                                                                         |                      |
-|Secondary                                     | ثانوي                                                                        |                      |
+|Search                                        | بحث                                                                          |                      |
 |Secondary cache                               |                                                                              |                      |
 |Secondary Colors                              | ألوان ثانوية                                                                 |                      |
 |Secondary key                                 | مفتاح ثاني                                                                   |                      |
 |Secondary storage                             | تخزين ثانوي                                                                  |                      |
+|Secondary                                     | ثانوي                                                                        |                      |
 |Second generation computer                    | حاسوب الجيل الثاني                                                           |                      |
 |Second generation language                    | لغة الجيل الثاني                                                             |                      |
 |Second level cache                            |                                                                              |                      |
 |Second normal form                            |                                                                              |                      |
+|Second                                        | ثاني                                                                         |                      |
 |Section                                       | قسم :: باب (كتاب)                                                            |                      |
-|Sector                                        | قطاع، شعبة                                                                   |                      |
 |Sector interleave                             |                                                                              |                      |
 |Sector interleaving                           |                                                                              |                      |
-|Sector map                                    | خريطة القطاع                                                                 |                      |
 |Sector mapping                                |                                                                              |                      |
-|Secure                                        | آمن                                                                          |                      |
+|Sector map                                    | خريطة القطاع                                                                 |                      |
+|Sector                                        | قطاع، شعبة                                                                   |                      |
 |Secure channel                                | قناة آمنة                                                                    |                      |
 |Secure keyboard                               |                                                                              |                      |
-|Security                                      | أمان                                                                         |                      |
+|Secure                                        | آمن                                                                          |                      |
 |Security breach                               |                                                                              |                      |
+|Security                                      | أمان                                                                         |                      |
 |Seed                                          |                                                                              |                      |
-|Seek                                          | سعي                                                                          |                      |
 |Seeking                                       | ساعياً                                                                       |                      |
 |Seek time                                     | زمن النِشدان،زمن السعي                                                       |                      |
+|Seek                                          | سعي                                                                          |                      |
 |Segfault                                      |                                                                              |                      |
-|Segment                                       | قطعة                                                                         |                      |
-|Segmentation                                  | تقسيم                                                                        |                      |
 |Segmentation and reassembly                   |                                                                              |                      |
 |Segmentation fault                            |                                                                              |                      |
+|Segmentation                                  | تقسيم                                                                        |                      |
 |Segmented address space                       |                                                                              |                      |
-|Select                                        | اختيار                                                                       |                      |
+|Segment                                       | قطعة                                                                         |                      |
 |Selection                                     | منتقى                                                                        |                      |
 |Selector                                      |                                                                              |                      |
+|Select                                        | اختيار                                                                       |                      |
 |Self-hosting                                  |                                                                              |                      |
 |Self-test                                     | فحص تلقائي                                                                   |                      |
 |Selvage                                       |                                                                              |                      |
@@ -4766,10 +4764,10 @@
 |Semi bold                                     |                                                                              |                      |
 |Semicolon                                     |                                                                              |                      |
 |Semi light                                    |                                                                              |                      |
-|Send                                          | إرسال                                                                        |                      |
 |Sendding                                      |                                                                              |                      |
 |Sender                                        | مرسل                                                                         |                      |
 |Send-Monitor                                  |                                                                              |                      |
+|Send                                          | إرسال                                                                        |                      |
 |Sense                                         | متجه،إحساس                                                                   |                      |
 |Sensitive                                     | حساس                                                                         |                      |
 |Sensor                                        | مِجَسّ                                                                       |                      |
@@ -4777,35 +4775,34 @@
 |Separate compilation                          |                                                                              |                      |
 |Separator                                     | فاصل                                                                         |                      |
 |September                                     | ايلول                                                                        |                      |
-|Sequence                                      | متتالية                                                                      |                      |
 |Sequencer                                     | منظم التتابع                                                                 |                      |
+|Sequence                                      | متتالية                                                                      |                      |
 |Sequential codec                              |                                                                              |                      |
 |Sequential coding                             |                                                                              |                      |
 |Sequential file matching                      |                                                                              |                      |
 |Sequential processing                         | معالجة متتالية،تنفيذ متتالي                                                  |                      |
-|Serial                                        | متسلسل                                                                       |                      |
 |Serial console                                |                                                                              |                      |
 |Serialise                                     |                                                                              |                      |
 |Serial line                                   | خط متسلسل، خط تسلسلي                                                         |                      |
 |Serial port                                   | منفذ تسلسلي                                                                  |                      |
 |Serial processing                             |                                                                              |                      |
+|Serial                                        | متسلسل                                                                       |                      |
 |Serif                                         | (خط) مُذيّل                                                                  |                      |
-|Serve                                         | أخدم                                                                         |                      |
 |Servelet                                      |                                                                              |                      |
-|Server                                        | خادوم                                                                        |                      |
 |Serverlet                                     |                                                                              |                      |
 |Server room                                   | غرفة الخادم                                                                  |                      |
-|Servers                                       | خوادم                                                                        |                      |
-|Server-side                                   | من ناحية الخادم، من قبل الخادم، عند الخادم                                   |                      |
 |Server-side include                           |                                                                              |                      |
-|Service                                       | خدمة                                                                         |                      |
+|Server-side                                   | من ناحية الخادم، من قبل الخادم، عند الخادم                                   |                      |
+|Servers                                       | خوادم                                                                        |                      |
+|Server                                        | خادوم                                                                        |                      |
+|Serve                                         | أخدم                                                                         |                      |
 |Serviceability                                | قدرة الخدمة                                                                  |                      |
 |Service interface                             | واجهة الخدمة                                                                 |                      |
 |Service provider                              | موفر الخدمة،موفر خدمة الإنترنت،مزود بِلخِدمة                                 |                      |
+|Service                                       | خدمة                                                                         |                      |
 |Servlet                                       |                                                                              |                      |
-|Session                                       | جلسة                                                                         |                      |
 |Session layer                                 |                                                                              |                      |
-|Set                                           | تعيين                                                                        |                      |
+|Session                                       | جلسة                                                                         |                      |
 |Set abstraction                               |                                                                              |                      |
 |Set associative cache                         |                                                                              |                      |
 |Set complement                                |                                                                              |                      |
@@ -4821,6 +4818,7 @@
 |Setup                                         |                                                                              |                      |
 |Setup (Configuration)                         | إعداد                                                                        |                      |
 |Setup (Installation)                          | تثبيت                                                                        |                      |
+|Set                                           | تعيين                                                                        |                      |
 |Seven layer model                             |                                                                              |                      |
 |Severity                                      | شدة، قسوة                                                                    |                      |
 |Sexadecimal                                   |                                                                              |                      |
@@ -4828,41 +4826,41 @@
 |Shabang                                       |                                                                              |                      |
 |Shader                                        | مُظَلِّل                                                                     |                      |
 |Shading                                       | تَضْلِيل                                                                     |                      |
-|Shadow                                        | ظل                                                                           |                      |
 |Shadow file                                   |                                                                              |                      |
 |Shadowing                                     | تظليل                                                                        |                      |
 |Shadow ram                                    |                                                                              |                      |
+|Shadow                                        | ظل                                                                           |                      |
 |Shaft                                         |                                                                              |                      |
 |Shallow binding                               |                                                                              |                      |
-|Shape                                         | شكل غلاف                                                                     |                      |
 |Shaped text                                   |                                                                              |                      |
-|Share                                         | سهم، مشترك                                                                   |                      |
+|Shape                                         | شكل غلاف                                                                     |                      |
 |Shared-address                                | عنوان مشترك                                                                  |                      |
 |Shared memory                                 | ذاكرة مشتركة                                                                 |                      |
 |Shared object                                 | كائن مشترك                                                                   |                      |
 |Shareware                                     | برمجيات نصيبية                                                               |                      |
+|Share                                         | سهم، مشترك                                                                   |                      |
 |Shar file                                     |                                                                              |                      |
-|Sharp                                         | حاد                                                                          |                      |
 |Sharpen                                       |                                                                              |                      |
 |Sharpness                                     | وضوح، دقة، حدًة                                                              |                      |
-|Sheet                                         | ورقة                                                                         |                      |
+|Sharp                                         | حاد                                                                          |                      |
 |Sheets                                        | أغطية                                                                        |                      |
+|Sheet                                         | ورقة                                                                         |                      |
 |Shelf                                         | رفً                                                                          |                      |
-|Shell                                         | صدَفة                                                                        |                      |
 |Shell procedure                               |                                                                              |                      |
 |Shell scrip                                   |                                                                              |                      |
 |Shell script                                  |                                                                              |                      |
 |Shell variable                                |                                                                              |                      |
+|Shell                                         | صدَفة                                                                        |                      |
 |Shielded twisted pair                         |                                                                              |                      |
-|Shift                                         | إزاحة                                                                        |                      |
 |Shift key                                     | اتفاق على المفتاح                                                            |                      |
 |Shift left logical                            |                                                                              |                      |
 |Shift right logical                           |                                                                              |                      |
+|Shift                                         | إزاحة                                                                        |                      |
 |Ship                                          |                                                                              |                      |
 |Shockwave                                     |                                                                              |                      |
 |Shopbot                                       |                                                                              |                      |
-|Shortcut                                      | مختصر                                                                        |                      |
 |Shortcut key                                  | مفتاح الاختصار                                                               |                      |
+|Shortcut                                      | مختصر                                                                        |                      |
 |Shortest job first                            | المهمة الاقصر أولا                                                           |                      |
 |Shorthand                                     |                                                                              |                      |
 |Shovelware                                    |                                                                              |                      |
@@ -4870,37 +4868,36 @@
 |Shred                                         |                                                                              |                      |
 |Shriek                                        |                                                                              |                      |
 |Shrink                                        | تقليص                                                                        |                      |
-|Shut down                                     | ايقاف التشغيل                                                                |                      |
 |Shutdown                                      |                                                                              |                      |
+|Shut down                                     | ايقاف التشغيل                                                                |                      |
 |Side bar                                      | شريط جانبي                                                                   |                      |
 |Side-effect                                   | مفعول جانبي                                                                  |                      |
 |Sig                                           |                                                                              |                      |
-|Sign                                          | يوقّع،رمز،إشارة                                                              |                      |
-|Signal                                        | إشارة                                                                        |                      |
 |Signalling rate                               | معدل الإشارات                                                                |                      |
-|Signature                                     | إمضاء                                                                        |                      |
+|Signal                                        | إشارة                                                                        |                      |
 |Signature block                               |                                                                              |                      |
+|Signature                                     | إمضاء                                                                        |                      |
 |Significance                                  | دلالة،معنى                                                                   |                      |
+|Sign                                          | يوقّع،رمز،إشارة                                                              |                      |
 |Silently                                      | سكوني                                                                        |                      |
 |Silicon chip                                  |                                                                              |                      |
 |Silo                                          |                                                                              |                      |
 |Silver bullet                                 |                                                                              |                      |
-|Simple                                        | بسيط،سهل                                                                     |                      |
 |Simple multicast protocol                     |                                                                              |                      |
 |Simple path                                   |                                                                              |                      |
 |Simplex                                       |                                                                              |                      |
 |Simplex method                                |                                                                              |                      |
 |Simplex printer                               |                                                                              |                      |
+|Simple                                        | بسيط،سهل                                                                     |                      |
 |Simship                                       |                                                                              |                      |
 |Simulated annealing                           | محاكاة التلدين                                                               |                      |
 |Simulation                                    | محاكاة                                                                       |                      |
 |Simultaneous shipment                         | ارسال فوري                                                                   |                      |
-|Since                                         | منذ                                                                          |                      |
 |Since saving                                  |                                                                              |                      |
+|Since                                         | منذ                                                                          |                      |
 |Sine                                          |                                                                              |                      |
 |Sine wave                                     |                                                                              |                      |
 |Singapore                                     | سنغفورة                                                                      |                      |
-|Single                                        | فريد                                                                         |                      |
 |Single assignment                             |                                                                              |                      |
 |Single-attached                               |                                                                              |                      |
 |Single-duplex                                 |                                                                              |                      |
@@ -4911,20 +4908,21 @@
 |Single-instance                               |                                                                              |                      |
 |Single-precision                              |                                                                              |                      |
 |Single quote                                  |                                                                              |                      |
-|Single sign-on                                | ولوج موحّد                                                                   |                      |
+|Single sign-on                                | تسجيل دخول موحّد                                                                   |                      |
 |Single sourcing                               |                                                                              |                      |
 |Single static assignment                      |                                                                              |                      |
 |Single system                                 |                                                                              |                      |
 |Singleton                                     |                                                                              |                      |
 |Singleton variable                            |                                                                              |                      |
 |Single-user mode                              | نمط المستخدم الوحيد                                                          |                      |
+|Single                                        | فريد                                                                         |                      |
 |Sink                                          |                                                                              |                      |
-|Site                                          | موقع                                                                         |                      |
 |Sitename                                      | اسم موقع                                                                     |                      |
-|Size                                          | حجم، سعة                                                                     |                      |
+|Site                                          | موقع                                                                         |                      |
 |Size box                                      | صندوق الأحجام                                                                |                      |
-|Skew                                          | انحراف                                                                       |                      |
+|Size                                          | حجم، سعة                                                                     |                      |
 |Skewness                                      |                                                                              |                      |
+|Skew                                          | انحراف                                                                       |                      |
 |Skin                                          |                                                                              |                      |
 |Skip                                          | تخطى                                                                         |                      |
 |Skolemisation                                 |                                                                              |                      |
@@ -4932,23 +4930,23 @@
 |Skulker                                       |                                                                              |                      |
 |Sky                                           | سماء                                                                         |                      |
 |Slant                                         |                                                                              |                      |
-|Slash                                         | شرطة مائلة                                                                   |                      |
 |Slashed Cross                                 | كروس ستي                                                                     |                      |
-|Slave                                         | تابع                                                                         |                      |
+|Slash                                         | شرطة مائلة                                                                   |                      |
 |Slave cycle                                   |                                                                              |                      |
 |Slave server                                  |                                                                              |                      |
-|Sleep                                         | نوم                                                                          |                      |
+|Slave                                         | تابع                                                                         |                      |
 |Sleeping                                      | نائم                                                                         |                      |
+|Sleep                                         | نوم                                                                          |                      |
 |Slice                                         | شريحة                                                                        |                      |
-|Slide                                         | شريحة، ينزلق                                                                 |                      |
 |Slider                                        |                                                                              |                      |
+|Slide                                         | شريحة، ينزلق                                                                 |                      |
 |Sliding-window                                |                                                                              |                      |
 |SLIP                                          | SLIP                                                                         |                      |
 |Slog                                          |                                                                              |                      |
 |Slogan                                        | شِعار                                                                        |                      |
 |Slot                                          | فتحة                                                                         |                      |
-|Slow                                          | بطيء                                                                         |                      |
 |Slow terminals                                | مطارِف بطيئة                                                                 |                      |
+|Slow                                          | بطيء                                                                         |                      |
 |Smail                                         |                                                                              |                      |
 |Smalles                                       |                                                                              |                      |
 |Smart                                         |                                                                              |                      |
@@ -4966,8 +4964,8 @@
 |Snap dump                                     |                                                                              |                      |
 |Snapshot                                      |                                                                              |                      |
 |Sneakernet                                    |                                                                              |                      |
-|Sniff                                         | يستنشق،يستشم                                                                 |                      |
 |Sniffer                                       | مراقب الشبكة                                                                 |                      |
+|Sniff                                         | يستنشق،يستشم                                                                 |                      |
 |Snippet                                       | مقطع                                                                         |                      |
 |Snooze                                        | إغفاءة،غفوة                                                                  |                      |
 |Social Network                                |                                                                              |                      |
@@ -4980,7 +4978,6 @@
 |Soft limit                                    |                                                                              |                      |
 |Soft link                                     |                                                                              |                      |
 |Soft return                                   |                                                                              |                      |
-|Software                                      | برمجية                                                                       |                      |
 |Software audit                                | رقابة البرنامج، فحص البرنامج                                                 |                      |
 |Software bug                                  |                                                                              |                      |
 |Software development kit                      | حقيبة تطوير برامج                                                            |                      |
@@ -4998,55 +4995,56 @@
 |Software pirate                               | قرصان البرامج                                                                |                      |
 |Software reliability                          | عِوَل البرنامج                                                               |                      |
 |Software theft                                | سرقة البرامج                                                                 |                      |
+|Software                                      | برمجية                                                                       |                      |
 |Softweave                                     |                                                                              |                      |
 |Soft wrap                                     |                                                                              |                      |
 |Softy                                         |                                                                              |                      |
 |Solarization                                  |                                                                              |                      |
-|Solid                                         | صلب                                                                          |                      |
 |Solid lines                                   | أقصى عدد من السّطور                                                          |                      |
 |Solid model                                   |                                                                              |                      |
 |Solid-state storage device                    |                                                                              |                      |
+|Solid                                         | صلب                                                                          |                      |
 |Solution                                      |                                                                              |                      |
-|Sort                                          | فرز                                                                          |                      |
 |Sorted                                        | مفروز، مرتب                                                                  |                      |
 |Sorting                                       | فرز،ترتيب                                                                    |                      |
 |Sort order                                    |                                                                              |                      |
-|Sound                                         | صوت                                                                          |                      |
+|Sort                                          | فرز                                                                          |                      |
 |Sound card                                    | بطاقة الصوت                                                                  |                      |
 |Soundness                                     |                                                                              |                      |
 |Soundproofing                                 |                                                                              |                      |
-|Source                                        | مصدر                                                                         |                      |
+|Sound                                         | صوت                                                                          |                      |
 |Source code                                   | الشيفرة الأصليّة                                                             |                      |
 |Source language                               |                                                                              |                      |
 |Source package                                |                                                                              |                      |
 |Source route                                  |                                                                              |                      |
 |Source routing                                |                                                                              |                      |
 |Source tree                                   |                                                                              |                      |
+|Source                                        | مصدر                                                                         |                      |
 |Southbridge                                   | الجسر الجنوبي                                                                |                      |
-|Space                                         | فضاء، فراغ، مجال                                                             |                      |
 |Space bar                                     | مسطرة المسافات                                                               |                      |
 |Spacebar                                      | مفتاح الفراغ                                                                 |                      |
 |Space character                               | تشفيرة الرموز                                                                |                      |
 |Space complexity                              |                                                                              |                      |
 |Space leak                                    |                                                                              |                      |
+|Space                                         | فضاء، فراغ، مجال                                                             |                      |
 |Spacing                                       | مباعدة                                                                       |                      |
 |Spaghetti code                                |                                                                              |                      |
-|Spam                                          | سخام                                                                         |                      |
 |Spamdex                                       |                                                                              |                      |
 |Spamming                                      |                                                                              |                      |
-|Span                                          | إتساع، برهة                                                                  |                      |
+|Spam                                          | سخام                                                                         |                      |
 |Spanning tree algorithm                       |                                                                              |                      |
+|Span                                          | إتساع، برهة                                                                  |                      |
 |Spare                                         | أحتياطي                                                                      |                      |
 |Sparse                                        |                                                                              |                      |
 |Spawn                                         |                                                                              |                      |
 |Speaker                                       |                                                                              |                      |
 |Spec                                          |                                                                              |                      |
-|Special                                       | خاص                                                                          |                      |
 |Special character                             |                                                                              |                      |
 |Special file                                  |                                                                              |                      |
 |Specialisation                                | تخصص                                                                         |                      |
 |Specialized                                   | متخصص                                                                        |                      |
 |Specials                                      | خاصيات                                                                       |                      |
+|Special                                       | خاص                                                                          |                      |
 |Specific address                              | عنوان مخصص                                                                   |                      |
 |Specification                                 | مواصفة                                                                       |                      |
 |Specify                                       | تحديد                                                                        |                      |
@@ -5057,8 +5055,8 @@
 |Speech synthesis                              |                                                                              |                      |
 |Speed                                         | سرعة                                                                         |                      |
 |Spell                                         |                                                                              |                      |
-|Spellcheck                                    | مراجعة التهجئة                                                               |                      |
 |Spell checker                                 | مدقق إملائي                                                                  |                      |
+|Spellcheck                                    | مراجعة التهجئة                                                               |                      |
 |Spelling                                      | هجاء                                                                         |                      |
 |Sphere                                        | كرة                                                                          |                      |
 |Spider                                        |                                                                              |                      |
@@ -5067,28 +5065,27 @@
 |Spinbox                                       |                                                                              |                      |
 |Spiral                                        |                                                                              |                      |
 |Spiral model                                  |                                                                              |                      |
-|Splash                                        | شاشة بدء                                                                     |                      |
 |Splash screen                                 | شاشة البداية                                                                 |                      |
-|Split                                         | انقسام                                                                       |                      |
+|Splash                                        | شاشة بدء                                                                     |                      |
 |Split brain                                   |                                                                              |                      |
 |Split pane                                    |                                                                              |                      |
+|Split                                         | انقسام                                                                       |                      |
 |Splot                                         |                                                                              |                      |
-|Spoof                                         | ينتحل                                                                        |                      |
 |Spoofing                                      |                                                                              |                      |
+|Spoof                                         | ينتحل                                                                        |                      |
 |Spool                                         |                                                                              |                      |
 |Spooler                                       |                                                                              |                      |
-|Spread sheet                                  | ورقة حساب                                                                    |                      |
 |Spreadsheet                                   | جدول ممتد                                                                    |                      |
+|Spread sheet                                  | ورقة حساب                                                                    |                      |
 |Spread spectrum communications                |                                                                              |                      |
 |Sprite                                        |                                                                              |                      |
 |Sprocket feed                                 |                                                                              |                      |
 |Spyware                                       | برنامج تجسس                                                                  |                      |
-|Square                                        | مربع                                                                         |                      |
 |Square bracket                                | قوس مربع                                                                     |                      |
 |Square numbers                                | الأعداد المربّعة                                                             |                      |
+|Square                                        | مربع                                                                         |                      |
 |Squatting                                     | (جلوس) القُرفصاء                                                             |                      |
 |Stabilize                                     |                                                                              |                      |
-|Stack                                         | رصة،رصّ                                                                      |                      |
 |Stack compression                             |                                                                              |                      |
 |Stacked                                       |                                                                              |                      |
 |Stack frame                                   |                                                                              |                      |
@@ -5098,13 +5095,13 @@
 |Stack pointer                                 | مؤشر الرصة                                                                   |                      |
 |Stack segment                                 | مقطع محجوز من الرصة                                                          |                      |
 |Stack traceback                               |                                                                              |                      |
+|Stack                                         | رصة،رصّ                                                                      |                      |
 |Staircase                                     |                                                                              |                      |
 |Staircasing                                   |                                                                              |                      |
 |Stake                                         |                                                                              |                      |
 |Stalled                                       |                                                                              |                      |
-|Stand alone                                   | قائم بذاته                                                                   |                      |
 |Standalone                                    |                                                                              |                      |
-|Standard                                      | معيار، معياري                                                                |                      |
+|Stand alone                                   | قائم بذاته                                                                   |                      |
 |Standard deviation                            | الانحراف المعياري                                                            |                      |
 |Standard disclaimer                           |                                                                              |                      |
 |Standard error                                | خطأ قياسي                                                                    |                      |
@@ -5113,23 +5110,23 @@
 |Standard interpretation                       |                                                                              |                      |
 |Standard output                               | خرْج قياسي                                                                   |                      |
 |Standard semantics                            |                                                                              |                      |
+|Standard                                      | معيار، معياري                                                                |                      |
 |Standby                                       | احتياطي                                                                      |                      |
-|Star                                          | نجمة                                                                         |                      |
 |Star network                                  | شبكة على شكل نجمة                                                            |                      |
-|Start                                         | بداية                                                                        |                      |
 |Start bi                                      |                                                                              |                      |
 |Starting                                      | بدء                                                                          |                      |
 |Start tag                                     |                                                                              |                      |
-|Startup                                       | بدء التشغيل                                                                  |                      |
 |Startup files                                 | ملفات برنامج البدء                                                           |                      |
 |Startup Program                               | برنامج بدء تشغيل                                                             |                      |
-|State                                         | حالة                                                                         |                      |
+|Startup                                       | بدء التشغيل                                                                  |                      |
+|Start                                         | بداية                                                                        |                      |
+|Star                                          | نجمة                                                                         |                      |
 |State diagram                                 |                                                                              |                      |
 |Stateless                                     |                                                                              |                      |
 |State machine                                 |                                                                              |                      |
 |Statement                                     |                                                                              |                      |
 |State transition diagram                      |                                                                              |                      |
-|Static                                        | ثابت،سكوني                                                                   |                      |
+|State                                         | حالة                                                                         |                      |
 |Static allocation                             |                                                                              |                      |
 |Statically typed                              |                                                                              |                      |
 |Static analysis                               | تحليل ثابت، تحليل ساكن                                                       |                      |
@@ -5142,18 +5139,19 @@
 |Static random access memory                   |                                                                              |                      |
 |Static scope                                  |                                                                              |                      |
 |Static typing                                 |                                                                              |                      |
-|Statistical                                   | أحصائي                                                                       |                      |
+|Static                                        | ثابت،سكوني                                                                   |                      |
 |Statistical time division multiplexing        |                                                                              |                      |
+|Statistical                                   | أحصائي                                                                       |                      |
 |Statistics                                    | إحصائيات                                                                     |                      |
 |Stats                                         |                                                                              |                      |
-|Status                                        | حالة                                                                         |                      |
-|Status bar                                    | شريط المعلومات                                                               |                      |
 |Statusbar                                     |                                                                              |                      |
+|Status bar                                    | شريط المعلومات                                                               |                      |
+|Status                                        | حالة                                                                         |                      |
 |Steganography                                 |                                                                              |                      |
 |Stemmer                                       |                                                                              |                      |
 |Stemming                                      |                                                                              |                      |
-|Step                                          | خطوة                                                                         |                      |
 |Stepwise refinement                           |                                                                              |                      |
+|Step                                          | خطوة                                                                         |                      |
 |Stereogram                                    |                                                                              |                      |
 |Stereotype                                    |                                                                              |                      |
 |Sticky                                        |                                                                              |                      |
@@ -5168,65 +5166,64 @@
 |Stock-keeping unit                            |                                                                              |                      |
 |Stock Ticker                                  | المخزون المتبقّي:                                                            |                      |
 |Stone                                         |                                                                              |                      |
-|Stop                                          | وقوف                                                                         |                      |
 |Stop bit                                      |                                                                              |                      |
 |Stopping                                      |                                                                              |                      |
 |Stop words                                    |                                                                              |                      |
-|Storage                                       | تخزين                                                                        |                      |
+|Stop                                          | وقوف                                                                         |                      |
 |Storage card                                  | بطاقة التخزين                                                                |                      |
 |Storage pool                                  |                                                                              |                      |
 |Storage space                                 | حجم التخزين                                                                  |                      |
-|Store                                         | تخزين                                                                        |                      |
+|Storage                                       | تخزين                                                                        |                      |
 |Store and forward                             |                                                                              |                      |
 |Stored procedure                              |                                                                              |                      |
+|Store                                         | تخزين                                                                        |                      |
 |Storm                                         |                                                                              |                      |
-|Stream                                        | دفق :: تدفق                                                                  |                      |
 |Streaming                                     |                                                                              |                      |
 |Stream-oriented                               |                                                                              |                      |
+|Stream                                        | دفق :: تدفق                                                                  |                      |
 |Strength reduction                            |                                                                              |                      |
-|Stress                                        | ضغط ميكانيكي                                                                 |                      |
 |Stress testing                                |                                                                              |                      |
+|Stress                                        | ضغط ميكانيكي                                                                 |                      |
 |Stretch                                       |                                                                              |                      |
 |Stretched                                     | متمدد، ممدد                                                                  |                      |
-|Strict                                        | صارم                                                                         |                      |
 |Strict evaluation                             |                                                                              |                      |
+|Strict                                        | صارم                                                                         |                      |
 |Strikeout                                     |                                                                              |                      |
-|Strikethrough                                 | مشطوب،يتوسطه خط                                                              |                      |
 |Strikethrought                                |                                                                              |                      |
-|String                                        | مقطع                                                                         |                      |
+|Strikethrough                                 | مشطوب،يتوسطه خط                                                              |                      |
 |String reduction                              |                                                                              |                      |
 |String variable                               |                                                                              |                      |
-|Strip                                         | شُقّة، نزع                                                                   |                      |
+|String                                        | مقطع                                                                         |                      |
 |Stripchart program                            |                                                                              |                      |
 |Stripe                                        |                                                                              |                      |
 |Stripe set                                    |                                                                              |                      |
 |Striping                                      |                                                                              |                      |
-|Stroke                                        | يصدم                                                                         |                      |
+|Strip                                         | شُقّة، نزع                                                                   |                      |
 |Stroke font object                            |                                                                              |                      |
+|Stroke                                        | يصدم                                                                         |                      |
 |Strongly connected component                  |                                                                              |                      |
 |Strongly typed                                |                                                                              |                      |
 |Strong typing                                 |                                                                              |                      |
 |Struct                                        |                                                                              |                      |
 |Structural recursion                          |                                                                              |                      |
-|Structure                                     | بنية                                                                         |                      |
 |Structured analysis                           |                                                                              |                      |
 |Structured design                             |                                                                              |                      |
 |Structure diagram                             |                                                                              |                      |
 |Structured language                           |                                                                              |                      |
 |Structured programming                        |                                                                              |                      |
-|Stub                                          | بذرة                                                                         |                      |
+|Structure                                     | بنية                                                                         |                      |
 |Stub network                                  |                                                                              |                      |
+|Stub                                          | بذرة                                                                         |                      |
 |STUN                                          |                                                                              |                      |
 |Stupid-sort                                   |                                                                              |                      |
 |Style                                         |                                                                              |                      |
 |Stylesheet                                    |                                                                              |                      |
 |Stylewriter                                   |                                                                              |                      |
 |Stylus                                        |                                                                              |                      |
-|Sub                                           | فرعي                                                                         |                      |
 |Subband encoding                              |                                                                              |                      |
 |Subclass                                      | فئة فرعية                                                                    |                      |
-|Sub directory                                 | دليل فرعي                                                                    |                      |
 |Subdirectory                                  |                                                                              |                      |
+|Sub directory                                 | دليل فرعي                                                                    |                      |
 |Subdivision                                   |                                                                              |                      |
 |Subfield                                      | حقل فرعي                                                                     |                      |
 |Sub folder                                    | مجلد فرعي                                                                    |                      |
@@ -5244,8 +5241,8 @@
 |Subnetting                                    |                                                                              |                      |
 |Subnotebook                                   |                                                                              |                      |
 |Subroutine                                    |                                                                              |                      |
-|Subscribe                                     | تسجيل                                                                        |                      |
 |Subscribed                                    |                                                                              |                      |
+|Subscribe                                     | تسجيل                                                                        |                      |
 |Subscribing                                   |                                                                              |                      |
 |Subscript                                     |                                                                              |                      |
 |Subscription                                  | تسجيل                                                                        |                      |
@@ -5262,18 +5259,19 @@
 |Subtract                                      |                                                                              |                      |
 |Subtype                                       |                                                                              |                      |
 |Subtyping                                     |                                                                              |                      |
+|Sub                                           | فرعي                                                                         |                      |
 |Succeed                                       | نجاح                                                                         |                      |
 |Successor                                     |                                                                              |                      |
-|Sufficient                                    | كافي                                                                         |                      |
 |Sufficiently small                            | صغير كافيا                                                                   |                      |
+|Sufficient                                    | كافي                                                                         |                      |
 |Suffix                                        | لاحقة                                                                        |                      |
-|Suggest                                       | اقتراح                                                                       |                      |
 |Suggestion                                    | اقتراح                                                                       |                      |
+|Suggest                                       | اقتراح                                                                       |                      |
 |Suite                                         |                                                                              |                      |
-|Sum                                           | جمع، مجموع                                                                   |                      |
 |Summary                                       | ملخص                                                                         |                      |
 |Sum (noun)                                    | مجموع                                                                        |                      |
 |Sum (verb)                                    | جمع                                                                          |                      |
+|Sum                                           | جمع، مجموع                                                                   |                      |
 |Sun-stools                                    |                                                                              |                      |
 |Super                                         |                                                                              |                      |
 |Superblock                                    |                                                                              |                      |
@@ -5294,8 +5292,8 @@
 |Supervisor mode                               | وضع المشرف                                                                   |                      |
 |Support                                       | دعم، مساعدة                                                                  |                      |
 |Supremum                                      |                                                                              |                      |
-|Surface                                       | مساحة                                                                        |                      |
 |Surfaces                                      |                                                                              |                      |
+|Surface                                       | مساحة                                                                        |                      |
 |Surfing                                       |                                                                              |                      |
 |Surjection                                    |                                                                              |                      |
 |Surjective                                    |                                                                              |                      |
@@ -5305,16 +5303,15 @@
 |Suspicious                                    | مشكوك فيه                                                                    |                      |
 |Svg                                           |                                                                              |                      |
 |Swallow                                       | أبلع                                                                         |                      |
-|Swap                                          | إبدال                                                                        |                      |
 |Swap file                                     | ملف الذاكرة الظاهرية                                                         |                      |
 |Swap partition                                |                                                                              |                      |
 |Swapped in                                    |                                                                              |                      |
 |Swapped out                                   |                                                                              |                      |
 |Swapping                                      |                                                                              |                      |
 |Swap space                                    |                                                                              |                      |
+|Swap                                          | إبدال                                                                        |                      |
 |Sweden                                        | السويد                                                                       |                      |
 |Swedish                                       | السويدية                                                                     |                      |
-|Switch                                        | تحول                                                                         |                      |
 |Switchboard                                   |                                                                              |                      |
 |Switched virtual circuit                      |                                                                              |                      |
 |Switched virtual connection                   |                                                                              |                      |
@@ -5323,40 +5320,40 @@
 |Switch level                                  | مستوى واحد                                                                   |                      |
 |Switchover                                    |                                                                              |                      |
 |Switch statement                              |                                                                              |                      |
+|Switch                                        | تحول                                                                         |                      |
 |Switzerland                                   | سويسرا                                                                       |                      |
 |Swung dash                                    |                                                                              |                      |
 |SYLK file                                     | إنتقاء ملف                                                                   |                      |
-|Symbol                                        | رمز                                                                          |                      |
 |Symbolic inference                            |                                                                              |                      |
 |Symbolic link                                 | وصلة رمزية                                                                   |                      |
 |Symbolic logic                                | المنطق الرمزي                                                                |                      |
 |Symbolic mathematics                          |                                                                              |                      |
 |Symbols                                       | رموز                                                                         |                      |
+|Symbol                                        | رمز                                                                          |                      |
 |Symlink                                       | وصلة رمزية                                                                   |                      |
-|Symmetric                                     | مُتَناظِر                                                                    |                      |
 |Symmetric control                             |                                                                              |                      |
 |Symmetric key cryptography                    |                                                                              |                      |
 |Symmetric multiprocessing                     | معالجة متعددة مختلفة                                                         |                      |
 |Symmetric multiprocessor                      |                                                                              |                      |
-|Sync                                          | مزامنة                                                                       |                      |
-|Synchronize                                   | مزامنة                                                                       |                      |
+|Symmetric                                     | مُتَناظِر                                                                    |                      |
 |Synchronized                                  |                                                                              |                      |
-|Synchronous                                   | متزامن                                                                       |                      |
+|Synchronize                                   | مزامنة                                                                       |                      |
 |Synchronous key encryption                    |                                                                              |                      |
+|Synchronous                                   | متزامن                                                                       |                      |
 |Sync level                                    |                                                                              |                      |
 |Sync pulse                                    |                                                                              |                      |
+|Sync                                          | مزامنة                                                                       |                      |
 |Synflood                                      |                                                                              |                      |
-|Synonym                                       | مرادف، مترادف                                                                |                      |
 |Synonym ring                                  |                                                                              |                      |
-|Syntax                                        | صياغة                                                                        |                      |
+|Synonym                                       | مرادف، مترادف                                                                |                      |
 |Syntax directed translation                   |                                                                              |                      |
 |Syntax error                                  | خطأ في بناء الجملة                                                           |                      |
 |Syntax highlighting                           |                                                                              |                      |
 |Syntax tree                                   |                                                                              |                      |
+|Syntax                                        | صياغة                                                                        |                      |
 |Synthesis                                     |                                                                              |                      |
 |Synthetic image                               | صورة اصطناعية                                                                |                      |
 |Sysadmin                                      |                                                                              |                      |
-|System                                        | نظام                                                                         |                      |
 |System administration                         | ادارة النظام                                                                 |                      |
 |System administrator                          | مدير النظام                                                                  |                      |
 |System analysis                               | فحص النظام، تحليل النظام                                                     |                      |
@@ -5389,21 +5386,22 @@
 |System type                                   | نوع النظام                                                                   |                      |
 |System unit                                   | وحدة النظام                                                                  |                      |
 |System Wide                                   |                                                                              |                      |
+|System                                        | نظام                                                                         |                      |
 |Systolic array                                |                                                                              |                      |
-|Tab                                           | لسان                                                                         |                      |
 |Tabbed                                        |                                                                              |                      |
-|Table                                         | جدول                                                                         |                      |
 |Tablet                                        |                                                                              |                      |
+|Table                                         | جدول                                                                         |                      |
 |Tabulation                                    | جدولة                                                                        |                      |
-|Tag                                           | وَسْم                                                                        |                      |
+|Tab                                           | لسان                                                                         |                      |
 |Tagging                                       |                                                                              |                      |
+|Tag                                           | وَسْم                                                                        |                      |
 |Talk                                          |                                                                              |                      |
 |Tall                                          |                                                                              |                      |
 |Tap                                           | نقرة                                                                         |                      |
 |Tar archive                                   | إنشاء محفوظة                                                                 |                      |
 |Target file                                   | إنتقاء ملف                                                                   |                      |
-|Task                                          | مَهمّة                                                                       |                      |
 |Taskbar                                       | شريط المهام                                                                  |                      |
+|Task                                          | مَهمّة                                                                       |                      |
 |Tastkt                                        |                                                                              |                      |
 |TCLASS                                        |                                                                              |                      |
 |TCP/IP                                        |                                                                              |                      |
@@ -5417,29 +5415,30 @@
 |Template                                      | قالب                                                                         |                      |
 |Temporary buffer                              | (ذاكرة مخبأة)                                                                |                      |
 |Tentative                                     | غير نهائي                                                                    |                      |
-|Term                                          | مصطلح                                                                        |                      |
 |Terminal                                      | طرفيّة                                                                       |                      |
 |Terminate                                     | انهاء.                                                                       |                      |
 |Terminus                                      |                                                                              |                      |
 |TERM variable                                 | عرض _قابل للتغيير:                                                           |                      |
+|Term                                          | مصطلح                                                                        |                      |
 |Ternary                                       |                                                                              |                      |
-|Test                                          | اختبار                                                                       |                      |
 |Test Module                                   | اختبار الوحدة                                                                |                      |
+|Test                                          | اختبار                                                                       |                      |
 |TeX                                           |                                                                              |                      |
-|Text                                          | نص                                                                           |                      |
 |Text area                                     | مساحة التبليغ                                                                |                      |
 |Text only                                     | نص فقط                                                                       |                      |
 |Textual name                                  | اسم الموصول                                                                  |                      |
+|Text                                          | نص                                                                           |                      |
 |Theme                                         | سِمة                                                                         |                      |
 |Thesaurus                                     | مكنز                                                                         |                      |
-|Third party                                   | طرف ثالث                                                                     |                      |
 |Third-party                                   |                                                                              |                      |
 |Third-party repository                        |                                                                              |                      |
-|Thread                                        | مناقشة                                                                       |                      |
+|Third party                                   | طرف ثالث                                                                     |                      |
+<!-- THIS DOCUMENTATION IS PROVIDED BY THE ARABEYES WIKI TEAM "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE ARABEYES WIKI TEAM BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS DOCUMENTATION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. -->
 |Threading                                     | تشعب                                                                         |                      |
+|Thread                                        | مناقشة                                                                       |                      |
 |Threshold                                     | ال_عتبة:                                                                     |                      |
-|Thumbnail                                     | مصغرة                                                                        |                      |
 |Thumb Nails                                   |                                                                              |                      |
+|Thumbnail                                     | مصغرة                                                                        |                      |
 |Tick                                          |                                                                              |                      |
 |Ticker Properties                             | خصائص القائمة                                                                |                      |
 |Tilde                                         | مدة                                                                          |                      |
@@ -5447,8 +5446,8 @@
 |Time format                                   | هيئة الوقت                                                                   |                      |
 |Timeout                                       | مهلة :: انتهت المهلة                                                         |                      |
 |Timer                                         | المؤقت                                                                       |                      |
-|Time stamp                                    | طابع زمني                                                                    |                      |
 |Timestamp                                     | ختم زمني                                                                     |                      |
+|Time stamp                                    | طابع زمني                                                                    |                      |
 |Time Zone                                     | منطقة زمنية                                                                  |                      |
 |Timezone                                      | نطاق زمني                                                                    |                      |
 |Timing                                        | توقيت                                                                        |                      |
@@ -5461,12 +5460,12 @@
 |Token                                         |                                                                              |                      |
 |Tolerance                                     | سماحية                                                                       |                      |
 |Toner                                         |                                                                              |                      |
-|Tool                                          | أداة                                                                         |                      |
 |Toolbar                                       |                                                                              |                      |
 |Toolchain                                     |                                                                              |                      |
 |Toolkit                                       |                                                                              |                      |
 |Tool menu                                     | قائمة الأدوات                                                                |                      |
 |Tooltip                                       |                                                                              |                      |
+|Tool                                          | أداة                                                                         |                      |
 |Topic                                         | موضوع                                                                        |                      |
 |Touchpad                                      | لوحة لمس                                                                     |                      |
 |Trace                                         |                                                                              |                      |
@@ -5476,8 +5475,8 @@
 |Traffic                                       |                                                                              |                      |
 |Transaction                                   |                                                                              |                      |
 |Transcoder                                    |                                                                              |                      |
-|Transfer                                      | نقل                                                                          |                      |
 |Transfer statement                            | تعليمة النقل                                                                 |                      |
+|Transfer                                      | نقل                                                                          |                      |
 |Transitive                                    | متعدية                                                                       |                      |
 |Translate                                     | ترجم                                                                         |                      |
 |Translucency                                  |                                                                              |                      |
@@ -5496,10 +5495,10 @@
 |Turing Machine                                | علّق الآلة                                                                   |                      |
 |Tutorial                                      |                                                                              |                      |
 |Tweak                                         | تطويع                                                                        |                      |
-|Type                                          | نوع                                                                          |                      |
 |Type bindings                                 | نوع التّنبيه                                                                 |                      |
 |Type mismatch                                 | إختلاف في النوع                                                              |                      |
 |Typesetting                                   |                                                                              |                      |
+|Type                                          | نوع                                                                          |                      |
 |Ubiquitous computing                          |                                                                              |                      |
 |Ultra-large-scale                             |                                                                              |                      |
 |Umount                                        | فصْل                                                                         |                      |
@@ -5521,8 +5520,8 @@
 |Underlining                                   |                                                                              |                      |
 |Underlying                                    |                                                                              |                      |
 |Underscore                                    | تسطير سفلي                                                                   |                      |
-|Undo                                          | تراجع (تعديل)                                                                |                      |
 |Undocumented feature                          |                                                                              |                      |
+|Undo                                          | تراجع (تعديل)                                                                |                      |
 |Unexpected end                                | نهايةغير متوقعة                                                              |                      |
 |Unexpected error                              | خطأ غير متوقّع                                                               |                      |
 |Unfold                                        |                                                                              |                      |
@@ -5541,17 +5540,17 @@
 |Unique                                        |                                                                              |                      |
 |Unique key                                    |                                                                              |                      |
 |Unique sales point                            |                                                                              |                      |
-|Unit                                          | وحدة                                                                         |                      |
 |Unit in last place                            |                                                                              |                      |
 |Unit testing                                  |                                                                              |                      |
+|Unit                                          | وحدة                                                                         |                      |
 |Universal                                     |                                                                              |                      |
 |Universal address                             |                                                                              |                      |
 |Universal quantifier                          |                                                                              |                      |
 |Universal thunk                               |                                                                              |                      |
 |Universe of discourse                         |                                                                              |                      |
 |Unix                                          | يونِكس                                                                       |                      |
-|Unknown                                       | مجهول                                                                        |                      |
 |Unknown host                                  | مستضيف غير معروف                                                             |                      |
+|Unknown                                       | مجهول                                                                        |                      |
 |Unlimited                                     |                                                                              |                      |
 |Unlink                                        |                                                                              |                      |
 |Unload                                        |                                                                              |                      |
@@ -5581,8 +5580,8 @@
 |Uparrow                                       |                                                                              |                      |
 |Update                                        | تحديث                                                                        |                      |
 |Updating                                      |                                                                              |                      |
-|Upgrade                                       | ترقية                                                                        |                      |
 |Upgradeability                                |                                                                              |                      |
+|Upgrade                                       | ترقية                                                                        |                      |
 |Upload                                        | رفع                                                                          |                      |
 |Upper                                         |                                                                              |                      |
 |Upper bound                                   |                                                                              |                      |
@@ -5594,8 +5593,8 @@
 |Uptime                                        |                                                                              |                      |
 |Upward closure                                |                                                                              |                      |
 |Urban legend                                  |                                                                              |                      |
-|Urgent                                        | عاجل                                                                         |                      |
 |Urgent condition                              | شرط ضروري                                                                    |                      |
+|Urgent                                        | عاجل                                                                         |                      |
 |URI                                           |                                                                              |                      |
 |Url                                           |                                                                              |                      |
 |URL                                           | مسار                                                                         |                      |
@@ -5603,50 +5602,50 @@
 |Usage                                         | استعمال                                                                      |                      |
 |USB                                           | الناقل التسلسي العام (USB)                                                   |                      |
 |Use                                           |                                                                              |                      |
-|User                                          | مستخدم                                                                       |                      |
 |User acceptance testing                       |                                                                              |                      |
 |User account                                  | حساب المستخدم                                                                |                      |
 |User agent                                    | وكيل المستخدم                                                                |                      |
 |User base                                     |                                                                              |                      |
-|User defined                                  | محدد من المستخدم                                                             |                      |
 |User-defined                                  |                                                                              |                      |
+|User defined                                  | محدد من المستخدم                                                             |                      |
 |User directory                                |                                                                              |                      |
 |User-friendly                                 | سهل الاستخدام                                                                |                      |
 |User id                                       |                                                                              |                      |
 |User identifier                               | معرّف المستخدم                                                               |                      |
 |User interface                                |                                                                              |                      |
-|User name                                     | اسم مستخدم                                                                   |                      |
 |Username                                      | اسم المستخدم                                                                 |                      |
-|Utility                                       | وسيلة                                                                        |                      |
+|User name                                     | اسم مستخدم                                                                   |                      |
+|User                                          | مستخدم                                                                       |                      |
 |Utility-coder                                 |                                                                              |                      |
 |Utility window                                |                                                                              |                      |
+|Utility                                       | وسيلة                                                                        |                      |
 |Vacuum tube                                   | صمام مفرغ                                                                    |                      |
 |Valency                                       |                                                                              |                      |
-|Valid                                         | صالح                                                                         |                      |
 |Validate                                      | تحقق من صحة (البيانات المدخلة، وظائف البرامج، إلخ...)                        |                      |
 |Validation                                    | تحقق من سلامة                                                                |                      |
 |Valid chars                                   | توقيع سليم                                                                   |                      |
 |Validity                                      | صلاحية                                                                       |                      |
-|Value                                         | قيمة                                                                         |                      |
-|Value-added                                   | مضاف القيمة                                                                  |                      |
+|Valid                                         | صالح                                                                         |                      |
 |Value added reseller                          |                                                                              |                      |
 |Value added retailer                          | بائع مفرق ذو قيمة مضافة                                                      |                      |
+|Value-added                                   | مضاف القيمة                                                                  |                      |
 |Values                                        | قيم                                                                          |                      |
+|Value                                         | قيمة                                                                         |                      |
 |Vampire tap                                   |                                                                              |                      |
 |Vanilla                                       |                                                                              |                      |
 |Vanity domain                                 |                                                                              |                      |
 |Vaporware                                     |                                                                              |                      |
 |Var                                           |                                                                              |                      |
-|Variable                                      | متغير                                                                        |                      |
 |Variable declaration                          |                                                                              |                      |
+|Variable                                      | متغير                                                                        |                      |
 |Variance                                      |                                                                              |                      |
 |Variant                                       | تنويعة                                                                       |                      |
 |Variations                                    | تغيرات                                                                       |                      |
-|Vector                                        | متجه                                                                         |                      |
 |Vector font                                   |                                                                              |                      |
 |Vector graphics                               | رسوميات متجهية                                                               |                      |
 |Vector processor                              |                                                                              |                      |
 |Vector space                                  |                                                                              |                      |
+|Vector                                        | متجه                                                                         |                      |
 |Veeblefeetzer                                 |                                                                              |                      |
 |Vendor                                        | بائع                                                                         |                      |
 |Ventilator card                               | بطاقة تهوية                                                                  |                      |
@@ -5656,11 +5655,10 @@
 |Verification                                  | تحقيق                                                                        |                      |
 |Verified                                      |                                                                              |                      |
 |Verify                                        | تحقيق                                                                        |                      |
-|Version                                       | إصدار                                                                        |                      |
 |Versioning                                    | أصدرة                                                                        |                      |
 |Versions                                      | اصدارات                                                                      |                      |
+|Version                                       | إصدار                                                                        |                      |
 |Vertex                                        |                                                                              |                      |
-|Vertical                                      | رأسي، عمودي                                                                  |                      |
 |Vertical Alignment                            | محاذاة عامودي                                                                |                      |
 |Vertical application                          |                                                                              |                      |
 |Vertical bar                                  | شريط عامودي                                                                  |                      |
@@ -5674,12 +5672,12 @@
 |Vertical refresh                              |                                                                              |                      |
 |Vertical refresh rate                         |                                                                              |                      |
 |Vertical scan rate                            |                                                                              |                      |
+|Vertical                                      | رأسي، عمودي                                                                  |                      |
 |Very-large-scale                              |                                                                              |                      |
 |Vet                                           |                                                                              |                      |
 |VFS                                           | مخططات VFS القابلة للكتابة.                                                  |                      |
 |VGA                                           |                                                                              |                      |
 |Via                                           |                                                                              |                      |
-|Video                                         | مرئية                                                                        |                      |
 |Video adapter                                 |                                                                              |                      |
 |Video card                                    | بطاقة مرئيات                                                                 |                      |
 |Video compression                             | ضغط مرئي                                                                     |                      |
@@ -5692,17 +5690,17 @@
 |Video (random                                 |                                                                              |                      |
 |Video random access memory                    |                                                                              |                      |
 |Video terminal                                | طرفية تلفزيونيّة                                                             |                      |
-|View                                          | عرض                                                                          |                      |
+|Video                                         | مرئية                                                                        |                      |
 |Viewer                                        | مُظهر                                                                        |                      |
 |View model                                    |                                                                              |                      |
 |Viewport                                      | منفذ العرض                                                                   |                      |
 |View transform                                |                                                                              |                      |
 |View volume                                   |                                                                              |                      |
+|View                                          | عرض                                                                          |                      |
 |Vim                                           |                                                                              |                      |
 |Violation                                     | خرق                                                                          |                      |
 |Viole                                         |                                                                              |                      |
 |Virgule                                       |                                                                              |                      |
-|Virtual                                       | وهمي                                                                         |                      |
 |Virtual address                               | العنوان الظاهري                                                              |                      |
 |Virtual cache                                 |                                                                              |                      |
 |Virtual circuit                               |                                                                              |                      |
@@ -5719,13 +5717,13 @@
 |Virtual point of presence                     |                                                                              |                      |
 |Virtual reality                               |                                                                              |                      |
 |Virtual server                                | ملقم ظاهري                                                                   |                      |
+|Virtual                                       | وهمي                                                                         |                      |
 |Virus                                         | فيروس                                                                        |                      |
 |Visibility                                    | رؤية                                                                         |                      |
-|Visible                                       | مرئيّ                                                                        |                      |
 |Visible bell                                  | جرس مرئي                                                                     |                      |
-|Visit                                         | زيارة                                                                        |                      |
+|Visible                                       | مرئيّ                                                                        |                      |
 |Visited link                                  |                                                                              |                      |
-|Visual                                        | بصري                                                                         |                      |
+|Visit                                         | زيارة                                                                        |                      |
 |Visual bell                                   | جرس مرئي                                                                     |                      |
 |Visual editor                                 |                                                                              |                      |
 |Visualisation                                 |                                                                              |                      |
@@ -5734,14 +5732,15 @@
 |Visual programming                            |                                                                              |                      |
 |Visual programming environment                |                                                                              |                      |
 |Visual programming language                   |                                                                              |                      |
+|Visual                                        | بصري                                                                         |                      |
 |Viz                                           |                                                                              |                      |
 |Voice mail                                    | بريد صوتي                                                                    |                      |
 |Voice recognition                             |                                                                              |                      |
 |Voip                                          |                                                                              |                      |
-|Volatile                                      | متطاير                                                                       |                      |
 |Volatile memory                               | ذاكرة متطايرة                                                                |                      |
 |Volatile storage                              |                                                                              |                      |
 |Volatile variable                             |                                                                              |                      |
+|Volatile                                      | متطاير                                                                       |                      |
 |Volume                                        | حجم                                                                          |                      |
 |Von Neumann architecture                      |                                                                              |                      |
 |Von Neumann integer                           | عدد فون نيومان الصحيح                                                        |                      |
@@ -5764,18 +5763,17 @@
 |Warning                                       | إنذار                                                                        |                      |
 |Warranty                                      | الضمان                                                                       |                      |
 |Watch                                         | مراقبة                                                                       |                      |
-|Water                                         | ماء                                                                          |                      |
 |Watermark                                     | علامة مائية                                                                  |                      |
-|Wave                                          | موجة                                                                         |                      |
+|Water                                         | ماء                                                                          |                      |
 |Wave division multiplexing                    |                                                                              |                      |
 |Wavelength division multiplexing              |                                                                              |                      |
 |Wavelet                                       |                                                                              |                      |
 |Wavetable                                     |                                                                              |                      |
 |Wavetable synthesis                           |                                                                              |                      |
+|Wave                                          | موجة                                                                         |                      |
 |Wavyline                                      |                                                                              |                      |
 |Weakly typed                                  |                                                                              |                      |
 |Weak typing                                   |                                                                              |                      |
-|Web                                           | وِب                                                                          |                      |
 |Web browser                                   | متصفًح الشبكة                                                                |                      |
 |Web cam                                       |                                                                              |                      |
 |Webcam                                        | كاميرا ويب                                                                   |                      |
@@ -5788,19 +5786,20 @@
 |Webmin                                        |                                                                              |                      |
 |Webmistress                                   |                                                                              |                      |
 |Webmonkey                                     |                                                                              |                      |
-|Web page                                      | صفحة شبكية                                                                   |                      |
 |Webpage                                       |                                                                              |                      |
-|Web server                                    | خادوم وِب                                                                    |                      |
+|Web page                                      | صفحة شبكية                                                                   |                      |
 |Webserver                                     | خادم الشبكة                                                                  |                      |
+|Web server                                    | خادوم وِب                                                                    |                      |
 |Website                                       | موقع على الانترنت                                                            |                      |
 |Web smith                                     |                                                                              |                      |
+|Web                                           | وِب                                                                          |                      |
 |Wedgie                                        |                                                                              |                      |
-|Week                                          | أسبوع                                                                        |                      |
 |Weekday                                       | نهار                                                                         |                      |
 |Weekend                                       | عطلة الأسبوع                                                                 |                      |
 |Weeks                                         | أسابيع                                                                       |                      |
-|Weight                                        | وزن                                                                          |                      |
+|Week                                          | أسبوع                                                                        |                      |
 |Weighted search                               | بحث موزون                                                                    |                      |
+|Weight                                        | وزن                                                                          |                      |
 |Well-connected                                |                                                                              |                      |
 |Well-known port                               | منفذ معروف                                                                   |                      |
 |Well-ordered set                              |                                                                              |                      |
@@ -5808,12 +5807,12 @@
 |Whalesong                                     |                                                                              |                      |
 |Wheel bit                                     |                                                                              |                      |
 |While                                         |                                                                              |                      |
-|White                                         | أبيض                                                                         |                      |
 |White box testing                             |                                                                              |                      |
 |Whitelist                                     |                                                                              |                      |
 |White paper                                   | مستند تقني                                                                   |                      |
 |Whitespace                                    | فاصل                                                                         |                      |
 |White trash                                   |                                                                              |                      |
+|White                                         | أبيض                                                                         |                      |
 |Wide area network                             | شبكة واسعة                                                                   |                      |
 |Wide character                                | حرف عريض                                                                     |                      |
 |Widge                                         |                                                                              |                      |
@@ -5827,7 +5826,6 @@
 |Wild card                                     | بطاقة هوجاء                                                                  |                      |
 |Wildcard                                      | حرف بدل                                                                      |                      |
 |Winbind                                       |                                                                              |                      |
-|Window                                        | نافذة                                                                        |                      |
 |Window control                                |                                                                              |                      |
 |Window frame                                  | اطار النافذة                                                                 |                      |
 |Window gravity                                |                                                                              |                      |
@@ -5835,30 +5833,31 @@
 |Windowing system                              | نظام النوافذ                                                                 |                      |
 |Window manager                                | منظّم النوافذ                                                                |                      |
 |Window raster                                 |                                                                              |                      |
-|Windows                                       | ويندوز                                                                       |                      |
 |Windows messaging                             |                                                                              |                      |
 |Windows tiling                                |                                                                              |                      |
 |Window system                                 | نظام نوافذ                                                                   |                      |
+|Windows                                       | ويندوز                                                                       |                      |
+|Window                                        | نافذة                                                                        |                      |
 |Wipe                                          |                                                                              |                      |
 |Wired                                         | سِلكي                                                                        |                      |
 |Wireframe model                               |                                                                              |                      |
-|Wireless                                      | لاسلكي                                                                       |                      |
 |Wireless bitmap                               |                                                                              |                      |
 |Wireless local area network                   | شبكة منطقة محلية لاسلكية                                                     |                      |
+|Wireless                                      | لاسلكي                                                                       |                      |
 |Wish list                                     |                                                                              |                      |
-|With                                          | مع                                                                           |                      |
 |With copy                                     | مع نسخة                                                                      |                      |
 |Within epsilon of                             |                                                                              |                      |
-|Wizard                                        | مرشد                                                                         |                      |
+|With                                          | مع                                                                           |                      |
 |Wizard mode                                   | نمط مرشد                                                                     |                      |
-|Word                                          | كلمة : عنصر                                                                  |                      |
+|Wizard                                        | مرشد                                                                         |                      |
 |Word processing                               | معالجة الكلمات                                                               |                      |
 |Word processor                                | معالج نصوص                                                                   |                      |
-|Words                                         | كلمات                                                                        |                      |
 |Word size                                     | حجم كلمة                                                                     |                      |
 |Word spamming                                 |                                                                              |                      |
-|Word wrap                                     | التفاف الكلمات                                                               |                      |
+|Words                                         | كلمات                                                                        |                      |
 |Wordwrap                                      |                                                                              |                      |
+|Word wrap                                     | التفاف الكلمات                                                               |                      |
+|Word                                          | كلمة : عنصر                                                                  |                      |
 |Work                                          |                                                                              |                      |
 |Work area                                     | منطقة عمل                                                                    |                      |
 |Work around                                   |                                                                              |                      |
@@ -5874,24 +5873,23 @@
 |Working set model                             |                                                                              |                      |
 |Work in progress                              | عمل قيد الإنجاز                                                              |                      |
 |Worksheet                                     | ورقة عمل                                                                     |                      |
-|Workspace                                     | مساحة العمل                                                                  |                      |
 |Workspace object                              |                                                                              |                      |
-|Workspaces                                    | مساحات عمل                                                                   |                      |
 |Workspace switch                              |                                                                              |                      |
+|Workspaces                                    | مساحات عمل                                                                   |                      |
+|Workspace                                     | مساحة العمل                                                                  |                      |
 |Work station                                  | محطة عمل                                                                     |                      |
 |Workstation                                   | محطة عمل                                                                     |                      |
 |Workweek                                      | أسبوع عمل                                                                    |                      |
-|World                                         | عالم                                                                         |                      |
 |World-readable                                | مقروء عالميأً                                                                |                      |
-|Worm                                          | دودة إنترنت                                                                  |                      |
+|World                                         | عالم                                                                         |                      |
 |Wormhole                                      |                                                                              |                      |
 |Wormhole routing                              |                                                                              |                      |
+|Worm                                          | دودة إنترنت                                                                  |                      |
 |Wound around the axle                         |                                                                              |                      |
 |Wrap                                          |                                                                              |                      |
 |Wrapper                                       | غِلاف                                                                        |                      |
 |Wrapping                                      |                                                                              |                      |
 |Wrats nest                                    |                                                                              |                      |
-|Write                                         | أكتب                                                                         |                      |
 |Write-back                                    |                                                                              |                      |
 |Write buffer                                  |                                                                              |                      |
 |Write-only language                           |                                                                              |                      |
@@ -5900,6 +5898,7 @@
 |Write side                                    | جانب كتابة                                                                   |                      |
 |Write-through                                 |                                                                              |                      |
 |Write-thru                                    |                                                                              |                      |
+|Write                                         | أكتب                                                                         |                      |
 |Writing system                                | نظام كتابة                                                                   |                      |
 |WVLAN                                         |                                                                              |                      |
 |X Align                                       | ترصيف                                                                        |                      |
@@ -5909,8 +5908,8 @@
 |Xor                                           |                                                                              |                      |
 |X server                                      |                                                                              |                      |
 |Y-axis                                        | محور صادي                                                                    |                      |
-|Year                                          | سنة                                                                          |                      |
 |Years                                         | سنوات                                                                        |                      |
+|Year                                          | سنة                                                                          |                      |
 |Yellow                                        | أصفر                                                                         |                      |
 |Yes                                           | نعم                                                                          |                      |
 |Yield                                         | عائد                                                                         |                      |
@@ -5921,23 +5920,24 @@
 |Z-buffer                                      | مخزن مؤقت مرتب                                                               |                      |
 |Z clipping                                    |                                                                              |                      |
 |Zepto                                         |                                                                              |                      |
-|Zero                                          | صفر                                                                          |                      |
 |Zero assignment                               |                                                                              |                      |
 |Zero-content                                  | فارغ المحتوى :: صفر المحتوى                                                  |                      |
 |Zero-order                                    |                                                                              |                      |
 |Zero state                                    | حالة صفرية                                                                   |                      |
+|Zero                                          | صفر                                                                          |                      |
 |Zetta-                                        |                                                                              |                      |
 |Zettabyte                                     |                                                                              |                      |
 |Zigzag                                        |                                                                              |                      |
 |Zigzagline                                    |                                                                              |                      |
 |Zip Drive                                     | قرص Zip                                                                      |                      |
 |Zip file                                      | ملف مضغوط                                                                    |                      |
-|Zombie                                        | زومبي                                                                        |                      |
 |Zombie process                                |                                                                              |                      |
+|Zombie                                        | زومبي                                                                        |                      |
 |Zone                                          | نطاق                                                                         |                      |
 |Zoning                                        | تقسيم إلى مناطق                                                              |                      |
-|Zoo                                           | حديقة الحيوانات                                                              |                      |
 |Zoom                                          |                                                                              |                      |
 |Zoom in                                       | كبِّر،تكبير                                                                  |                      |
 |Zoom Out                                      |                                                                              |                      |
 |Zoom out                                      | صغِّر،تصغير                                                                  |                      |
+|Zoo                                           | حديقة الحيوانات                                                              |                      |
+
