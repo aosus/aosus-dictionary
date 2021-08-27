@@ -1,6 +1,6 @@
-site_name: قاموس أسس التقني
+site_name: معجم أسس التقني
 site_url: https://dictionary.aosus.org
-site_description: قاموس أسس التقني, هو مصدرك لترجمة المصطلحات التقنية الانجليزية الى اللغة العربية, بطريقه مفهومة وسهلة للمستخدم العربي.
+site_description: معجم أسس التقني, هو مصدرك لترجمة المصطلحات التقنية الانجليزية الى اللغة العربية, بطريقه مفهومة وسهلة للمستخدم العربي.
 site_author: مجتمع أسس
 repo_name: aosus/arabic-tech-dictionary
 repo_url: https://github.com/aosus/arabic-tech-dictionary
@@ -47,7 +47,7 @@ extra_css:
 
 nav:
     - الرئيسية: 'index.md'
-    - القاموس: 'dictionary.md'
+    - المعجم: 'dictionary.md'
     - 'مجتمع أسس': 'https://aosus.org'
     - 'تيليجرام': 'https://t.me/aosus'
     - 'ماتركس': 'https://matrix.to/#/#aosus:tchncs.de'

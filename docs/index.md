@@ -1,13 +1,13 @@
-# اهلا بكم في قاموس أسس التقني
+# اهلا بكم في معجم أسس التقني
 
 <div align="center">
 
 <img src="https://aosus.org/uploads/default/original/2X/1/1c05852c1a606f81e6a8aa704d91a4573bc9c6f9.png" alt="aosus">
 
-<p><a class="center-me md-button md-button--primary" href="dictionary/" style="margin: auto;">القاموس</a></p> 
+<p><a class="center-me md-button md-button--primary" href="dictionary/" style="margin: auto;">المعجم</a></p> 
 </div>
 
-قاموس أسس التقني, هو مصدرك لترجمة المصطلحات التقنية الانجليزية الى اللغة العربية,
+معجم أسس التقني, هو مصدرك لترجمة المصطلحات التقنية الانجليزية الى اللغة العربية,
 بطريقه مفهومة وسهلة للمستخدم العربي.
 
 تم بناء المشروع على قاموس Arabeyes وهو تحت ترخيص FreeBSD Documentation License
