@@ -1,6 +1,8 @@
 ???+ info "ملاحظة"
     في حالة كان المصدر فارغ, يكون المصدر هو Arabeyes
 
+<!-- THIS DOCUMENTATION IS PROVIDED BY THE ARABEYES WIKI TEAM "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE ARABEYES WIKI TEAM BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS DOCUMENTATION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. -->
+
 |الكلمة                                          |                                       الترجمة                                       | المصدر                 |
 |----------------------------------------------|------------------------------------------------------------------------------|---------------------
 |Abortive release                              | انقطاع (شبكي) مجهض                                                           |           arabeyes           |
@@ -5436,7 +5438,6 @@
 |Third-party                                   |                                                                              |                      |
 |Third-party repository                        |                                                                              |                      |
 |Third party                                   | طرف ثالث                                                                     |                      |
-<!-- THIS DOCUMENTATION IS PROVIDED BY THE ARABEYES WIKI TEAM "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE ARABEYES WIKI TEAM BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS DOCUMENTATION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. -->
 |Threading                                     | تشعب                                                                         |                      |
 |Thread                                        | مناقشة                                                                       |                      |
 |Threshold                                     | ال_عتبة:                                                                     |                      |
