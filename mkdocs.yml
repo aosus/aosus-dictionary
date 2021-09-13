@@ -10,8 +10,8 @@ edit_uri: edit/main/docs/
 plugins:
   - autolinks
   # - search # necessary for search to work
-  - minify:
-      minify_html: true
+  # - minify:
+  #     minify_html: true # disabled until #34 in jsmin is merged https://github.com/tikitu/jsmin/pull/34
   - git-revision-date-localized:
       type: timeago
 
