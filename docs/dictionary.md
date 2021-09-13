@@ -124,7 +124,7 @@
 |Angle bracket                                 | مكسورة                                                                       |                      |
 |Angle                                         | زاوية                                                                        |                      |
 |Animate                                       | تحريك                                                                        |                      |
-|Animation                                     | تحريكة                                                                       |                      |
+|Animation                                     | حركة/رسوم متحركة                                                                       |           [طلب دمج #8](https://github.com/aosus/arabic-tech-dictionary/pull/8)           |
 |Anisotropy                                    |                                                                              |                      |
 |Annotate                                      | تعليق                                                                        |                      |
 |Annotation                                    | تعليق :: حاشية                                                               |                      |
