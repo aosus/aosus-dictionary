@@ -3,9 +3,11 @@
 
 # قبل الإسهام في التطوير 
 نصب الأداة `jq` :
+
 `sudo apt install jq`
 
 شغل سكربت `prepare-devel.sh`
+
 `sh prepare-devel.sh`
 
 
