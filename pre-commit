@@ -1,6 +1,6 @@
 #!/bin/sh
 #generate json and others
-jq -Rsnc '
+jq -Rsn '
   {"dict":
     [inputs
      | . / "\n"
