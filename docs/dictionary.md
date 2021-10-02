@@ -5403,7 +5403,7 @@
 |Talk                                          |                                                                              |                      |
 |Tall                                          |                                                                              |                      |
 |Tap                                           | نقرة                                                                         |                      |
-|Tar archive                                   | إنشاء محفوظة                                                                 |                      |
+|Tar archive                                   | أرشيف Tar                                                                 |    ترجمة ًWinRar                  |
 |Target file                                   | إنتقاء ملف                                                                   |                      |
 |Taskbar                                       | شريط المهام                                                                  |                      |
 |Task                                          | مَهمّة                                                                       |                      |
