@@ -12,7 +12,7 @@
       <h1 dir="ltr" class="text-4xl my-2 px-6 mx-1 border-b-solid border-b-black">
         <span v-text="group.key" class="underline" />
       </h1>
-      <div class="bg-[#2e303e] py-1 mt-1 mx-10">
+      <div class="bg-[#2e303e] rounded py-1 mt-1 md:mx-10">
         <div dir="ltr" class="card rounded mb-1 ">
           <span>المعنى</span> <span>الكلمة</span>
         </div>
