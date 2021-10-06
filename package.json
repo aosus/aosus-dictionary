@@ -7,7 +7,8 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "convert" : "node dictionary/convert.js"
+    "convert": "node dictionary/convert.js",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
     "convert-csv-to-json": "^1.3.1",

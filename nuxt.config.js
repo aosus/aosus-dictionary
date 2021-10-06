@@ -28,6 +28,11 @@ export default {
     ]
   },
 
+  // set base arabic-tech-dictionary
+  router: {
+    base: process.env.BASE || '/arabic-tech-dictionary/'
+  },
+
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
   ],
