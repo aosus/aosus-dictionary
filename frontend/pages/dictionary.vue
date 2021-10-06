@@ -57,7 +57,6 @@ export default {
         // return accumulator
         return result;
       }, {});
-      console.log(data);
       return data;
     },
   },
