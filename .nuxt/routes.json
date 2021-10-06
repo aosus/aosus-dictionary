@@ -1,0 +1,16 @@
+[
+  {
+    "name": "dictionary",
+    "path": "/dictionary",
+    "component": "/home/superastorh/project/asoss/arabic-tech-dictionary/frontend/pages/dictionary.vue",
+    "chunkName": "pages/dictionary",
+    "_name": "_920e1e7a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/superastorh/project/asoss/arabic-tech-dictionary/frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_27a250b5"
+  }
+]
