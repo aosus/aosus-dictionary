@@ -5403,7 +5403,7 @@
 |Talk                                          |                                                                              |                      |
 |Tall                                          |                                                                              |                      |
 |Tap                                           | نقرة                                                                         |                      |
-|Tar archive                                   | أرشيف Tar                                                                 |    ترجمة ًWinRar                  |
+|Tar archive                                   | أرشيف Tar                                                                 |    https://github.com/aosus/arabic-tech-dictionary/pull/12                  |
 |Target file                                   | إنتقاء ملف                                                                   |                      |
 |Taskbar                                       | شريط المهام                                                                  |                      |
 |Task                                          | مَهمّة                                                                       |                      |
