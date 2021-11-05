@@ -9,10 +9,10 @@
       class="card my-4 rounded-full block outline-solid-current"
     />
     <div v-for="group in wordGroup" :key="group.key">
-      <h1 dir="ltr" class="text-4xl my-2 px-6 mx-1 border-b-solid border-b-black">
+      <h1 dir="ltr" class="text-4xl">
         <span v-text="group.key" class="underline" />
       </h1>
-      <div class="bg-[#2e303e] rounded py-1 mt-1 md:mx-10">
+      <div class="bg-[#053B06] rounded mt-1">
         <div dir="ltr" class="card rounded mb-1 ">
           <span>المعنى</span> <span>الكلمة</span>
         </div>
@@ -20,7 +20,7 @@
           dir="ltr"
           v-for="child in group.children"
           :key="child.word"
-          class="card rounded mb-1 !bg-[#50546a]"
+          class="card !bg-[#0B5D1E] under-border"
         >
           <span class="" v-text="child.word" />
           <span class="" v-text="child.translate" />
@@ -65,6 +65,10 @@ export default {
 
 <style>
 .card {
-  @apply "flex px-6 mx-1 py-2 bg-[#2e303e] text-white justify-between";
+  @apply "flex px-6 py-2 bg-[#053B06] text-white justify-between";
+}
+
+.under-border {
+  @apply "border-b-black border-solid border-b";
 }
 </style>
