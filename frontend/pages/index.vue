@@ -46,7 +46,7 @@ p {
   @apply px-10 my-8;
 }
 .button {
-  @apply bg-[#2e303e] text-white rounded m-5 px-3 py-1.5;
+  @apply bg-[#053B06] text-white rounded m-5 px-3 py-1.5;
 }
 
 </style>

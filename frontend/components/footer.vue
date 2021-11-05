@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-[#2e303e] text-white">
+  <footer class="bg-[#053B06] text-white">
     <div class="container flex justify-between py-2 items-center">
       <h5>GPLv3</h5>
 

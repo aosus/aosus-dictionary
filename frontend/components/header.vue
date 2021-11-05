@@ -1,5 +1,5 @@
 <template>
-    <header class="bg-[#2e303e] sticky top-0">
+    <header class="bg-[#053B06] sticky top-0">
       <nav class="container text-white flex justify-between">
         <nuxt-link to="/" class="flex items-center">
           <img
