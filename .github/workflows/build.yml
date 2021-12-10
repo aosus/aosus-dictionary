@@ -29,7 +29,7 @@ jobs:
       with:
         branch: main # The branch the action should deploy to.
         folder: dist # The folder the action should deploy.
-        token: DEPLOY_TOKEN
+        token: ${{ DEPLOY_TOKEN }}
         repository-name: aosus/dev
         commit-message: "Build latest commit"
         clean: true # Automatically remove deleted files from the deploy branch
