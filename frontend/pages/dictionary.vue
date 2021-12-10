@@ -12,15 +12,15 @@
       <h1 dir="ltr" class="text-4xl">
         <span v-text="group.key" class="underline" />
       </h1>
-      <div class="bg-[#053B06] rounded mt-1">
-        <div dir="ltr" class="card rounded-t">
+      <div class=" bg-transparent rounded mt-1">
+        <div dir="ltr" class="card rounded-t-xl">
           <span>المعنى</span> <span>الكلمة</span>
         </div>
         <div
           dir="ltr"
           v-for="child in group.children"
           :key="child.word"
-          class="card !bg-[#77D970] under-border !text-[#241d1d]"
+          class="card !bg-[#56815b] under-border"
         >
           <span class="" v-text="child.word" />
           <span class="" v-text="child.translate" />
