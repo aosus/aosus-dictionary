@@ -1,0 +1,34 @@
+name: cd
+
+on: [push, pull_request]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout 🛎️
+      uses: actions/checkout@v2 
+      with:
+        persist-credentials: false
+        fetch-depth: '0'
+
+    - name: Setup node env 🏗
+      uses: actions/setup-node@v2.1.5
+      with:
+        node-version: 14
+        
+    - name: Install dependencies 👨🏻‍💻
+      run: yarn
+
+    - name: Generate
+      run: yarn run generate
+
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@4.1.4
+      with:
+        branch: gh-pages # The branch the action should deploy to.
+        folder: dist # The folder the action should deploy.
+        target-folder: dev
+        commit-message: "Build latest commit"
+        clean: true # Automatically remove deleted files from the deploy branch
