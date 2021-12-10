@@ -11,8 +11,6 @@
 #app {
   min-height: 100vh;
   font-family: "Almarai", -apple-system, Helvetica, Arial, sans-serif;
-  background: #031e03;
-  color: white;
   @apply flex flex-col;
 }
 </style>

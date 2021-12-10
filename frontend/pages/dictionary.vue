@@ -6,21 +6,21 @@
       v-model="searchWord"
       dir="auto"
       placeholder="ابحث"
-      class="card my-4 rounded-full block outline-solid-current"
+      class="card my-4 rounded-full block"
     />
     <div v-for="group in wordGroup" :key="group.key">
       <h1 dir="ltr" class="text-4xl">
         <span v-text="group.key" class="underline" />
       </h1>
       <div class="bg-[#053B06] rounded mt-1">
-        <div dir="ltr" class="card rounded mb-1 ">
+        <div dir="ltr" class="card rounded-t">
           <span>المعنى</span> <span>الكلمة</span>
         </div>
         <div
           dir="ltr"
           v-for="child in group.children"
           :key="child.word"
-          class="card !bg-[#0B5D1E] under-border"
+          class="card !bg-[#77D970] under-border !text-[#241d1d]"
         >
           <span class="" v-text="child.word" />
           <span class="" v-text="child.translate" />
@@ -65,7 +65,7 @@ export default {
 
 <style>
 .card {
-  @apply "flex px-6 py-2 bg-[#053B06] text-white justify-between";
+  @apply "flex px-6 py-2 bg-[#519259] text-white justify-between";
 }
 
 .under-border {
