@@ -20,10 +20,10 @@
           dir="ltr"
           v-for="child in group.children"
           :key="child.word"
-          class="card !bg-[#56815b] under-border"
+          class="card !bg-[#56815b] under-border last:rounded-b-xl"
         >
-          <span class="" v-text="child.word" />
-          <span class="" v-text="child.translate" />
+          <span class="" v-html="child.word" />
+          <span class="" v-html="child.translate" />
         </div>
       </div>
     </div>
@@ -69,6 +69,10 @@ export default {
 }
 
 .under-border {
-  @apply "border-b-black border-solid border-b";
+  border-bottom: #2C272E solid 0.1px;
+}
+
+.under-border:last-child {
+  border: none;
 }
 </style>
