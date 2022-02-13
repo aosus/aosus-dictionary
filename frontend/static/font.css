@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Almarai';
+    src: local('Almarai Extrabold'), local('Almarai-ExtraBold'),
+        url('https://discourse.aosus.org/uploads/default/original/2X/8/8fd3d8ce3557744ecb95c6ef9da1f18f820d9533.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Almarai';
+    src: local('Almarai Light'), local('Almarai-Light'),
+        url('https://discourse.aosus.org/uploads/default/original/2X/3/3be4e59b6842dca26fd972f908ee59526637124d.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Almarai';
+    src: local('Almarai'), local('Almarai-Regular'),
+        url('https://discourse.aosus.org/uploads/default/original/2X/3/3b00be1091c718504acac70237ec01604cbf123a.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Almarai';
+    src: local('Almarai Bold'), local('Almarai-Bold'),
+        url('https://discourse.aosus.org/uploads/default/original/2X/b/b2405212ce52e925498e4f2a80d5a914cb5b2f54.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
