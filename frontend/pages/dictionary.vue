@@ -4,61 +4,74 @@
     <input
       type="text"
       v-model="searchWord"
+      @input="softWord"
       dir="auto"
       placeholder="ابحث"
       class="card my-4 rounded-full block"
     />
-    <div v-for="group in wordGroup" :key="group.key">
-      <h1 dir="ltr" class="text-4xl">
-        <span v-text="group.key" class="underline" />
-      </h1>
-      <div class=" bg-transparent rounded mt-1">
-        <div dir="ltr" class="card rounded-t-xl">
-          <span>المعنى</span> <span>الكلمة</span>
-        </div>
-        <div
-          dir="ltr"
-          v-for="child in group.children"
-          :key="child.word"
-          class="card !bg-[#56815b] under-border last:rounded-b-xl"
-        >
-          <span class="" v-html="child.word" />
-          <span class="" v-html="child.translate" />
-        </div>
-      </div>
-    </div>
+    <virtual-list
+      data-key="key"
+      :keeps="30"
+      :data-sources="wordGroup"
+      :data-component="GroubWord"
+    />
   </div>
 </template>
 
 <script>
 import words from "../../dictionary/techdict.json";
+import VirtualList from "vue-virtual-scroll-list";
+import GroubWord from "../components/groubWord.vue";
 export default {
+  mounted() {
+    this.softWord();
+  },
   data() {
     return {
+    GroubWord,
       words,
       searchWord: "",
+      wordGroup: [],
+      cache: {},
     };
   },
-  computed: {
-    wordGroup() {
-      let words = this.words.filter(
-        (word) =>
-          word.word.includes(this.searchWord) ||
-          word.translate.includes(this.searchWord)
-      );
+  methods: {
+    softWord() {
+      this.wordGroup = {};
+      if (this.cache[this.searchWord] !== undefined) {
+        this.wordGroup = this.cache[this.searchWord];
+      }
+
+      let words = this.words.filter((word) => {
+        let searchWord = this.searchWord.toLowerCase();
+        let isWord = word.word.toLowerCase().startsWith(searchWord);
+        let isTranslate = word.translate
+          .toLowerCase()
+          .startsWith(this.searchWord);
+
+        return isWord || isTranslate;
+      });
+
       let data = words.reduce((result, item) => {
         // get first letter of name of current element
         item.word = item.word.trim();
         let group = item.word[0];
+
         // if there is no property in accumulator with this letter create it
         if (!result[group]) result[group] = { key: group, children: [item] };
         // if there is push current element to children array for that letter
         else result[group].children.push(item);
+
         // return accumulator
         return result;
       }, {});
-      return data;
+
+      this.cache[this.searchWord] = Object.values(data);
+      this.wordGroup = Object.values(data);
     },
+  },
+  components: {
+    'virtual-list': VirtualList,
   },
 };
 </script>
@@ -69,7 +82,7 @@ export default {
 }
 
 .under-border {
-  border-bottom: #2C272E solid 0.1px;
+  border-bottom: #2c272e solid 0.1px;
 }
 
 .under-border:last-child {
