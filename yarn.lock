@@ -4599,6 +4599,11 @@ launch-editor@^2.2.1:
     chalk "^2.3.0"
     shell-quote "^1.6.1"
 
+lazy-load-list@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/lazy-load-list/-/lazy-load-list-1.0.1.tgz#45161c67190d5876afa8d932c0630bf644a64fc2"
+  integrity sha512-X2NFR6mGVHeYjuVZP2oRlFGrZmNGfDb7KR1s74NEi+FOFHU6iZVaeQZBc/zETxhTQluj7Dm2bZg0WuEjIVgSoQ==
+
 lilconfig@^2.0.3:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/lilconfig/-/lilconfig-2.0.3.tgz#68f3005e921dafbd2a2afb48379986aa6d2579fd"
