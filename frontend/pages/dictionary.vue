@@ -9,27 +9,34 @@
       class="card my-4 rounded-full block"
     />
     <div class="list-container">
-
-      <h1 v-if="itemsToDisplay[0]" dir="ltr" class="text-4xl">
-        <span v-text="itemsToDisplay[0].word[0].toUpperCase()" class="underline" />
-      </h1>
-
-      <div v-if="!itemsToDisplay.length" class="no-items">
+      <div v-if="loading" class="no-items">
+        <h1>يجري البحث</h1>
+      </div>
+      <div v-else-if="!itemsToDisplay.length" class="no-items">
         <h1>لا يوجد عناصر</h1>
       </div>
-      
-      <LazyList v-else :data="itemsToDisplay" :itemsPerRender="30" :key="itemsToDisplay.length" defaultLoadingColor="#56815b">
-        <template v-slot="{item}">
-          <div class=" bg-transparent rounded mt-1">
-            <!-- <div dir="ltr" class="card rounded-t-xl">
+      <LazyList
+        v-else
+        :data="itemsToDisplay"
+        :itemsPerRender="1"
+        defaultLoadingColor="#56815b"
+      >
+        <template v-slot="{ item }">
+          <div class="bg-transparent rounded mt-1 relative">
+            <h1 dir="ltr" class="text-4xl">
+              <span v-text="item.key" class="underline" />
+            </h1>
+            <div dir="ltr" class="card rounded-t-xl sticky top-0">
               <span>المعنى</span> <span>الكلمة</span>
-            </div> -->
+            </div>
             <div
               dir="ltr"
               class="card !bg-[#56815b] under-border last:rounded-b-xl"
+              v-for="word in item.children"
+              :key="word.word"
             >
-              <span class="" v-html="item.word" />
-              <span class="" v-html="item.translate" />
+              <span class="" v-html="word.word" />
+              <span class="" v-html="word.translate" />
             </div>
           </div>
         </template>
@@ -39,56 +46,32 @@
 </template>
 
 <script>
-import LazyList from 'lazy-load-list/vue'
+import LazyList from "lazy-load-list/vue";
 import words from "../../dictionary/techdict.json";
 export default {
-  components:{LazyList},
+  components: { LazyList },
   data() {
     return {
       words,
-      wordGroup: [],
       itemsToDisplay: [],
-      searchWord: ""
+      cacheItem: {},
+      searchWord: "",
+      loading: false,
     };
   },
-  watch:{
-    searchWord(v){
-      this.searchFunction(v)
-    }
+  watch: {
+    async searchWord(v) {
+      this.loading = true;
+      await this.searchFunction(v);
+      this.loading = false;
+    },
   },
-  created(){
-    this.formatData()
-    this.itemsToDisplay = [...this.wordGroup]
+  created() {
+    this.formatData(this.words);
   },
-  // computed: {
-  //   wordGroup() {
-  //     let words = this.words.filter(
-  //       (word) =>
-  //         word.word.includes(this.searchWord) ||
-  //         word.translate.includes(this.searchWord)
-  //     );
-  //     let data = words.reduce((result, item) => {
-  //       // get first letter of name of current element
-  //       item.word = item.word.trim();
-  //       let group = item.word[0];
-  //       // if there is no property in accumulator with this letter create it
-  //       if (!result[group]) result[group] = { key: group, children: [item] };
-  //       // if there is push current element to children array for that letter
-  //       else result[group].children.push(item);
-  //       // return accumulator
-  //       return result;
-  //     }, {});
-  //     return data;
-  //   },
-  // },
-  methods:{
-    formatData(){
-      let words = this.words.filter(
-        (word) =>
-          word.word.includes(this.searchWord) ||
-          word.translate.includes(this.searchWord)
-        );
-      let data = words.reduce((result, item) => {
+  methods: {
+    async formatData(words) {
+      words = words.reduce((result, item) => {
         // get first letter of name of current element
         item.word = item.word.trim();
         let group = item.word[0];
@@ -99,17 +82,32 @@ export default {
         // return accumulator
         return result;
       }, {});
-      this.wordGroup = words
+
+      //
+      let result = Object.values(words);
+      this.itemsToDisplay = result;
+      return result;
     },
-    searchFunction(word){
-      if(!word){
-        this.itemsToDisplay = [...this.wordGroup]
-        return
+    async searchFunction(word) {
+      word = word.trim().toLowerCase();
+      if (this.cacheItem[word]) {
+        this.itemsToDisplay = this.cacheItem[word];
+        console.log("cache");
+        return;
+      } else if (!word) {
+        this.formatData(words);
+        return;
       }
-      const afterSearch = this.wordGroup.filter(item => item.word.toLowerCase().includes(word.toLowerCase()) || item.translate.toLowerCase().includes(word.toLowerCase()))
-      this.itemsToDisplay = afterSearch
+
+      const search = this.words.filter((item) => {
+        item.word = item.word.toLowerCase().trim();
+        item.translate = item.translate.toLowerCase().trim();
+        return item.word.startsWith(word) || item.translate.startsWith(word);
+      });
+
+      this.cacheItem[word] = await this.formatData(search);
     },
-  }
+  },
 };
 </script>
 
@@ -119,24 +117,36 @@ export default {
 }
 
 .under-border {
-  border-bottom: #2C272E solid 0.1px;
+  border-bottom: #2c272e solid 0.1px;
 }
 
 .under-border:last-child {
   border: none;
 }
 
-.list-container{
+.list-container {
   width: 100%;
   height: 400px;
 }
 
-.no-items{
+.no-items {
   width: 100%;
   height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
   color: #747474;
+}
+.list-container {
+  overflow: hidden;
+  border-radius: 0.75rem;
+}
+.list-container ::-webkit-scrollbar {
+  width: 0; /* Remove scrollbar space */
+  background: transparent; /* Optional: just make scrollbar invisible */
+}
+/* Optional: show position indicator in red */
+.list-container ::-webkit-scrollbar-thumb {
+  background: #ff0000;
 }
 </style>
