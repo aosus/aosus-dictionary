@@ -22,9 +22,7 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
-      { rel: 'preconnect', href: 'https://fonts.gstatic.com'},
-      { rel: 'preconnect', rel : 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap' }
+      { rel: 'preconnect', rel : 'stylesheet', href: '/font.css' }
     ]
   },
 
@@ -35,6 +33,7 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
+      "~/static/font.css"
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
