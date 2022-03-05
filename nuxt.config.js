@@ -26,9 +26,9 @@ export default {
     ]
   },
 
-  // set base arabic-tech-dictionary
+  // set base aosus-dictionary
   router: {
-    base: process.env.BASE || '/dev/'
+    base: process.env.BASE || '/'
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
