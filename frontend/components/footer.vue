@@ -44,7 +44,7 @@
         </a>
 
         <a
-          href="https://matrix.to/#/#aosus:tchncs.de"
+          href="https://matrix.to/#/#aosus:aosus.org"
           target="_blank"
           rel="noopener"
           title="matrix.to"
