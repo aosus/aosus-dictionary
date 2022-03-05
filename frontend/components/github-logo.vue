@@ -1,6 +1,6 @@
 <template>
   <a
-    href="https://github.com/aosus/arabic-tech-dictionary/"
+    href="https://github.com/aosus/aosus-dictionary/"
     title="اذهب إلى المصدر"
     data-md-component="source"
     class="flex items-center py-3"
@@ -13,7 +13,7 @@
       </svg>
     </div>
     <div data-md-state="done" class="lg:block hidden">
-      aosus/arabic-tech-dictionary
+      aosus/aosus-dictionary
     </div>
   </a>
 </template>
