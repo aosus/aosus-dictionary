@@ -11,5 +11,6 @@
         </nuxt-link>
         <github-logo/>
       </nav>
+      <script defer data-domain="dictionary.aosus.org" src="https://pa.aosus.org/js/pls2.js"></script>
     </header>
 </template>
