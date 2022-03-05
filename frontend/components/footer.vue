@@ -117,3 +117,5 @@ footer svg {
   fill: white;
 }
 </style>
+
+<script defer data-domain="dictionary.aosus.org" src="https://pa.aosus.org/js/pls2.js"></script>
