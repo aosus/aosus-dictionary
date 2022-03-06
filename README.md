@@ -1,4 +1,4 @@
-# arabic-tech-dictionary
+# aosus-dictionary
 معجم عربي للمساعدة في ترجمة البرمجيات إلى اللغة العربية.
 
 # قبل الإسهام في التطوير 
@@ -11,3 +11,7 @@
 `sh prepare-devel.sh`
 
 
+## حقوق معجم عرب آيز, وهو المصدر لمعجم أسس
+**Copyright 2006, Arabeyes.org. All rights reserved.**
+
+**حقوق النسخ 2006، Arabeyes.org. كل الحقوق محفوظة.**
