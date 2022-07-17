@@ -4,7 +4,7 @@
     <input
       type="text"
       v-model="searchWord"
-      dir="auto"
+      dir="rtl"
       placeholder="ابحث"
       class="card my-4 rounded-full block"
     />
@@ -23,14 +23,14 @@
       >
         <template v-slot="{ item }">
           <div class="bg-transparent rounded mt-1 relative">
-            <h1 dir="ltr" class="text-4xl">
+            <h1 class="text-4xl">
               <span v-text="item.key" class="underline" />
             </h1>
-            <div dir="ltr" class="card rounded-t-xl sticky top-0">
-              <span>المعنى</span> <span>الكلمة</span>
+            <div class="card rounded-t-xl sticky top-0">
+              <span>الكلمة</span>
+              <span>المعنى</span>
             </div>
             <div
-              dir="ltr"
               class="card !bg-[#56815b] under-border last:rounded-b-xl"
               v-for="word in item.children"
               :key="word.word"
