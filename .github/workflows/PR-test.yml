@@ -2,7 +2,7 @@ name: PR-test
 
 on:
   pull_request:
-    types: [edited, opened, synchronize, ready_for_review]
+    types: [edited, opened, synchronize, ready_for_review, closed, reopened]
     
 jobs:
   build-and-deploy:
@@ -25,3 +25,8 @@ jobs:
 
     - name: Generate
       run: yarn run generate
+
+    - name: Deploy gh-pages preview # https://github.com/rossjrw/pr-preview-action
+      uses: rossjrw/pr-preview-action@v1
+      with:
+        source-dir: dist
