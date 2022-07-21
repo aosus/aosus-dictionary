@@ -3,11 +3,17 @@ name: PR-test
 on:
   pull_request:
     types: [edited, opened, synchronize, ready_for_review, closed, reopened]
-    
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
+  pull_request_review:
+    types: [edited, dismissed]
+  workflow_dispatch:
 
+jobs:
+  build-and-deploy-preview:
+    runs-on: ubuntu-latest
+    concurrency: # Only run one Job at a time
+      group: ci-${{ github.ref }} 
+      cancel-in-progress: true
+    
     steps:
     - name: Checkout 🛎️
       uses: actions/checkout@v2 
@@ -16,14 +22,17 @@ jobs:
         fetch-depth: '0'
 
     - name: Setup node env 🏗
+      if: github.event.pull_request.state != 'closed'
       uses: actions/setup-node@v2.1.5
       with:
         node-version: 14
         
     - name: Install dependencies 👨🏻‍💻
+      if: github.event.pull_request.state != 'closed'
       run: yarn
 
     - name: Generate
+      if: github.event.pull_request.state != 'closed'
       run: yarn run generate
 
     - name: Deploy gh-pages preview # https://github.com/rossjrw/pr-preview-action
