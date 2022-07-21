@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Almarai';
+    src: local('Almarai Extrabold'), local('Almarai-ExtraBold'),
+        url('https://aosus.org/fonts/Almarai-ExtraBold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Almarai';
+    src: local('Almarai Light'), local('Almarai-Light'),
+        url('https://aosus.org/fonts/Almarai-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Almarai';
+    src: local('Almarai'), local('Almarai-Regular'),
+        url('https://aosus.org/fonts/Almarai-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Almarai';
+    src: local('Almarai Bold'), local('Almarai-Bold'),
+        url('https://aosus.org/fonts/Almarai-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
