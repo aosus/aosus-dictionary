@@ -36,7 +36,7 @@ Accuracy; دقة ;Arabeyes Technical Dictionary
 Acknowledgment; عرفان :: شكر ;Arabeyes Technical Dictionary
 Acoustic coupler;  ;Arabeyes Technical Dictionary
 Acquire; اكتساب ;Arabeyes Technical Dictionary
-Acronym;  ;Arabeyes Technical Dictionary
+Acronym; اختصار ;Arabeyes Technical Dictionary
 Action; إجراء ;Arabeyes Technical Dictionary
 Activate;تنشيط ; تفعيل;Arabeyes Technical Dictionary
 Active; نشِيط ;Arabeyes Technical Dictionary
@@ -95,7 +95,7 @@ Aliasing; تسنن ;Arabeyes Technical Dictionary
 Aliasing bug; خلل تسنّن ;Arabeyes Technical Dictionary
 Align; محاذاة ;Arabeyes Technical Dictionary
 Alignment; محاذاة ;Arabeyes Technical Dictionary
-Allocate;  ;Arabeyes Technical Dictionary
+Allocate; تخصيص ;Arabeyes Technical Dictionary
 Allow; سماح ;Arabeyes Technical Dictionary
 Alpha; ألفا ;Arabeyes Technical Dictionary
 Alpha channel; قناة ألفا ;Arabeyes Technical Dictionary
@@ -149,8 +149,8 @@ Approve; إقرار ;Arabeyes Technical Dictionary
 Approved; مصادق عليه ;Arabeyes Technical Dictionary
 Approximate; تقريبي ;Arabeyes Technical Dictionary
 Approximation algorithm; خوارزمية تقريب ;Arabeyes Technical Dictionary
-Arabisation;  ;Arabeyes Technical Dictionary
-Arabization;  ;Arabeyes Technical Dictionary
+Arabisation; تعريب ;Arabeyes Technical Dictionary
+Arabization; تعريب ;Arabeyes Technical Dictionary
 Arbitrary; كيفي ;Arabeyes Technical Dictionary
 Arc; قوس ;Arabeyes Technical Dictionary
 Architecture; بُنية ;Arabeyes Technical Dictionary
@@ -235,7 +235,7 @@ Auxiliary; إضافي ;Arabeyes Technical Dictionary
 Auxiliary storage; تخزين إضافي ;Arabeyes Technical Dictionary
 Availability; توفر ;Arabeyes Technical Dictionary
 Available; متوفر ;Arabeyes Technical Dictionary
-Avatar; أفتار ;Arabeyes Technical Dictionary
+Avatar; أفاتار ;Arabeyes Technical Dictionary
 Average; متوسط ;Arabeyes Technical Dictionary
 Average seek time; مدة بحث متوسطة ;Arabeyes Technical Dictionary
 Away; غائب ;Arabeyes Technical Dictionary
@@ -329,7 +329,7 @@ Bind; ربط ;Arabeyes Technical Dictionary
 Binding;  ;Arabeyes Technical Dictionary
 Binding handle; مقبض ارتباط ;Arabeyes Technical Dictionary
 Binding-time analysis; تحليل وقت الارتباط ;Arabeyes Technical Dictionary
-BIOS;  ;Arabeyes Technical Dictionary
+BIOS; بيوس ;Arabeyes Technical Dictionary
 Bipolar; ثنائي القطب ;Arabeyes Technical Dictionary
 Bit; بِتة :: ثنائية :: ذرة ;Arabeyes Technical Dictionary
 Bit block transfer; نقل كتلة بت ;Arabeyes Technical Dictionary
@@ -346,7 +346,7 @@ Bit slice; شريحة ثنائيات ;Arabeyes Technical Dictionary
 Bit string; سلسلة ثنائيات ;Arabeyes Technical Dictionary
 Bitwise; بتّي ;Arabeyes Technical Dictionary
 Bitwise complement;  ;Arabeyes Technical Dictionary
-Blacklist;  ;Arabeyes Technical Dictionary
+Blacklist; القائمة السوداء ;Arabeyes Technical Dictionary
 Blank; فراغ، فارغ ;Arabeyes Technical Dictionary
 Blend;  ;Arabeyes Technical Dictionary
 Blending; مزج ;Arabeyes Technical Dictionary
@@ -5936,5 +5936,5 @@ Zoning; تقسيم إلى مناطق ;Arabeyes Technical Dictionary
 Zoo; حديقة الحيوانات ;Arabeyes Technical Dictionary
 Zoom;  ;Arabeyes Technical Dictionary
 Zoom in; كبِّر،تكبير ;Arabeyes Technical Dictionary
-Zoom Out;  ;Arabeyes Technical Dictionary
+Zoom Out; صغِّر،تصغير ;Arabeyes Technical Dictionary
 Zoom out; صغِّر،تصغير ;Arabeyes Technical Dictionary
